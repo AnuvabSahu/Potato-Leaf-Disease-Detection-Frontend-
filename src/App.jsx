@@ -1,11 +1,18 @@
+import { Outlet } from "react-router";
+import Header from "./components/layout/Header";
+import Footer from "./components/layout/Footer";
 
-function App() {
+
+const App = () => {
 
   return (
     <div>
-      <button className="btn btn-primary m-5">primary</button>
+      <Header />
+      <Outlet/>
+      <Footer/>
+
     </div>
   )
 }
 
-export default App
+export default App;
