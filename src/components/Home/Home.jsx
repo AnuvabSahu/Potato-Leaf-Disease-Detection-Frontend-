@@ -1,10 +1,15 @@
-const Home=()=>{
-    return(
+
+import Hero from './Hero';
+
+
+
+const Home = () => {
+    return (
         <div>
-            Home
+            <Hero/>
         </div>
+
     );
 }
-
 
 export default Home;
