@@ -11,9 +11,9 @@ const Subtitle = () => {
 return (
     <div className="text-rotate mb-3 text-gray-400 text-center">
         <span>
-            <span>{subtitleList[0]}</span>
-            <span>{subtitleList[1]}</span>
-            <span>{subtitleList[2]}</span>
+            <span className="text-wrap lg:text-nowrap">{subtitleList[0]}</span>
+            <span className="text-wrap lg:text-nowrap">{subtitleList[1]}</span>
+            <span className="text-wrap lg:text-nowrap">{subtitleList[2]}</span>
         </span>
     </div>
 );
