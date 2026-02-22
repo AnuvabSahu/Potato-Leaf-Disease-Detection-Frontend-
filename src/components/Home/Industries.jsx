@@ -1,5 +1,6 @@
 
 import Gallery from './Gallery';
+import IndustryTable from './IndustryTable';
 
 
 const industries = [
@@ -105,32 +106,17 @@ const Industries = () => {
             {
                 industries.map((item, index) => (
                     <div className='flex flex-col gap-5 lg:gap-0 items-center lg:flex-row lg:justify-between' key={index}>
-                        <div className='w-7/12'>
-                            <h2 className='text-2xl font-semibold text-center '>{item.title}</h2>
-                            <div className="overflow-x-auto">
-                                <table className="table table-zebra ">
-                                    {/* head */}
-                                    <thead>
-                                        <tr>
-                                            <th></th>
-                                            <th>Industry</th>
-                                            <th>Description</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        {/* rows*/}
-                                        {item.subIndustries.map((subIndustries, index) => (
-                                            <tr key={index}>
-                                                <th>{index + 1}</th>
-                                                <td className='text-lg'>{subIndustries.title}</td>
-                                                <td>{subIndustries.description}</td>
-                                            </tr>
-                                        ))}
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                        <Gallery images={item.images} />
+                        {
+                            index % 2 === 0
+                                ? <><IndustryTable item={item} />
+                                    <Gallery images={item.images} />
+                                </>
+                                :
+                                <>
+                                    <Gallery images={item.images} />
+                                    <IndustryTable item={item} />
+                                </>
+                        }
                     </div>
                 ))
             }

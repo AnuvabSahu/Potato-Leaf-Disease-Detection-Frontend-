@@ -4,7 +4,7 @@ const SingleDisease = () => {
 const {diseaseId}=useParams();
   return (
     <div>
-      SingleDisease - {diseaseId}
+      
 
     </div>
   )

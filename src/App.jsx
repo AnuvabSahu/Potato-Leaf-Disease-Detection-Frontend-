@@ -6,7 +6,7 @@ import Footer from "./components/layout/Footer";
 const App = () => {
 
   return (
-    <div>
+    <div className="bg-primary-content">
       <Header />
       <Outlet/>
       <Footer/>
