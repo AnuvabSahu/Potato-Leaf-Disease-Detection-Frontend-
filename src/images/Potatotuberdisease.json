@@ -1,0 +1,2724 @@
+[
+  {
+    "id": "tuber-greening",
+    "name": "Greening of Tuber",
+    "scientificName": "Physiological greening (chlorophyll accumulation)",
+    "category": "physiological",
+    "categoryIcon": "tuber_warning.svg",
+    "causeType": "Tuber greening occurs when potato tubers are exposed to light either in the field or during storage. Light exposure triggers chlorophyll synthesis in the tuber skin and outer tissues. Although chlorophyll itself is harmless, its formation is closely associated with increased production of glycoalkaloids such as solanine, which are toxic and make tubers unfit for consumption.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "high",
+    "commonness": "very-common",
+    "symptoms": [
+      "Green discoloration develops on the tuber skin, particularly on exposed areas.",
+      "Greening may be light green initially and darken with prolonged exposure.",
+      "Affected areas often taste bitter due to glycoalkaloid accumulation.",
+      "In severe cases, green coloration penetrates deeper into tuber tissue.",
+      "Tubers become unsafe for consumption when greening is extensive."
+    ],
+    "visualSigns": [
+      "Green patches on tuber skin",
+      "More intense greening on exposed surfaces",
+      "Normal internal tissue initially"
+    ],
+    "stageAffected": [
+      "tuber-formation",
+      "storage"
+    ],
+    "favorableConditions": [
+      "Exposure to sunlight in the field",
+      "Shallow planting",
+      "Poor earthing-up",
+      "Light exposure during storage"
+    ],
+    "spreadMethod": [],
+    "prevention": [
+      "Ensure proper earthing-up to keep tubers covered.",
+      "Avoid shallow planting practices.",
+      "Store tubers in dark, well-ventilated conditions.",
+      "Use opaque packaging during transport and storage."
+    ],
+    "treatment": [
+      "Greening cannot be reversed once it occurs.",
+      "Lightly greened tubers may be peeled deeply, but heavily greened tubers should be discarded.",
+      "Improve field and storage practices to prevent further greening.",
+      "Remove affected tubers from seed stock to prevent quality loss."
+    ],
+    "control": {
+      "organicControl": [
+        "Use mulching and soil cover to protect tubers from light.",
+        "Adopt proper storage management with complete darkness.",
+        "Practice timely harvesting to avoid tuber exposure."
+      ],
+      "chemicalControl": [
+        "Chemical control is not applicable.",
+        "Avoid use of sprout inhibitors that may not prevent greening.",
+        "Focus on physical and environmental management."
+      ]
+    },
+    "images": [
+      "https://i1.wp.com/potatonewstoday.com/wp-content/uploads/2019/09/cropped-Greening.jpg?resize=700%2C393&ssl=1",
+      "https://media.sciencephoto.com/image/c0092484/800wm/C0092484-Greening_potato_tubers.jpg"
+    ],
+    "confusableWith": [
+      "Surface Mold Growth",
+      "Bruising"
+    ],
+    "nutshellPoints": [
+      "Caused by light exposure",
+      "Associated with toxic solanine",
+      "Irreversible once developed"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "growth-cracks",
+    "name": "Growth Cracks",
+    "scientificName": "Physiological tuber cracking",
+    "category": "physiological",
+    "categoryIcon": "tuber_warning.svg",
+    "causeType": "Growth cracks develop when potato tubers experience sudden changes in growth rate, usually caused by irregular water availability. Periods of drought followed by heavy irrigation or rainfall cause rapid tuber expansion, resulting in splitting of the tuber skin and underlying tissue.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Deep longitudinal or radial cracks form on tuber surface.",
+      "Cracks may heal partially, forming rough scar tissue.",
+      "Affected tubers are more prone to secondary infections.",
+      "Market quality is significantly reduced.",
+      "Internal tissue usually remains healthy unless infected."
+    ],
+    "visualSigns": [
+      "Deep cracks on tuber surface",
+      "Rough, corky healed tissue",
+      "Irregular tuber appearance"
+    ],
+    "stageAffected": [
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Irregular irrigation",
+      "Drought followed by heavy rain",
+      "Rapid growth spurts",
+      "High nitrogen levels"
+    ],
+    "spreadMethod": [],
+    "prevention": [
+      "Maintain consistent soil moisture.",
+      "Avoid excessive nitrogen fertilization.",
+      "Use irrigation scheduling to prevent stress cycles.",
+      "Select varieties less prone to cracking."
+    ],
+    "treatment": [
+      "Cracked tubers cannot be repaired.",
+      "Harvest affected tubers early to reduce secondary rot.",
+      "Improve water management practices for future crops.",
+      "Sort cracked tubers to prevent storage losses."
+    ],
+    "control": {
+      "organicControl": [
+        "Mulching to stabilize soil moisture.",
+        "Use of organic matter to improve soil structure.",
+        "Balanced organic nutrition."
+      ],
+      "chemicalControl": [
+        "Chemical control is not applicable.",
+        "Use fertilizers judiciously.",
+        "Avoid growth-stimulating overdoses."
+      ]
+    },
+    "images": [
+      "https://www.ndsu.edu/agriculture/sites/default/files/styles/large_non_crop/public/2025-05/Fig_12a._Kashia_Duellman%2C_U_of_I-2.png.webp?itok=O1q2hg3v"
+    ],
+    "confusableWith": [
+      "Mechanical Injury",
+      "Common Scab"
+    ],
+    "nutshellPoints": [
+      "Caused by uneven growth",
+      "Linked to water stress",
+      "Reduces market value"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "hollow-heart",
+    "name": "Hollow Heart",
+    "scientificName": "Physiological internal disorder",
+    "category": "physiological",
+    "categoryIcon": "tuber_warning.svg",
+    "causeType": "Hollow heart is an internal physiological disorder characterized by the formation of cavities inside the tuber. It occurs when rapid tuber growth causes internal tissues to separate faster than they can fill in, often triggered by sudden changes in moisture, temperature, or nutrient availability.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "medium",
+    "commonness": "occasional",
+    "symptoms": [
+      "Externally, tubers often appear normal.",
+      "Internally, irregular hollow cavities form in the center of the tuber.",
+      "Cavities may have star-shaped or angular outlines.",
+      "Internal tissue around the cavity may turn brown.",
+      "Affected tubers are unsuitable for processing and fresh markets."
+    ],
+    "visualSigns": [
+      "No external symptoms",
+      "Internal cavities when cut open",
+      "Brown internal discoloration"
+    ],
+    "stageAffected": [
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Rapid tuber bulking",
+      "Sudden moisture availability",
+      "High nitrogen fertilization",
+      "Large tuber size"
+    ],
+    "spreadMethod": [],
+    "prevention": [
+      "Avoid sudden changes in irrigation.",
+      "Apply nitrogen in split doses.",
+      "Maintain steady tuber growth rate.",
+      "Harvest at appropriate maturity."
+    ],
+    "treatment": [
+      "Hollow heart cannot be corrected once formed.",
+      "Affected tubers must be removed during grading.",
+      "Adjust agronomic practices to prevent recurrence.",
+      "Focus on uniform growth conditions."
+    ],
+    "control": {
+      "organicControl": [
+        "Use organic matter to buffer moisture fluctuations.",
+        "Avoid excessive organic nitrogen inputs.",
+        "Promote steady plant growth."
+      ],
+      "chemicalControl": [
+        "No chemical treatment available.",
+        "Use fertilizers in balanced proportions.",
+        "Avoid growth-promoting excesses."
+      ]
+    },
+    "images": [
+      "https://tse2.mm.bing.net/th/id/OIP.OpE8wCOmrhgaToy0qh9S9QHaEB?pid=Api&P=0&h=180",
+      "https://cdn.mos.cms.futurecdn.net/tqDniBJFFpXUdWRu7LGfBE.jpg",
+      "https://c8.alamy.com/comp/A155PB/hollow-heart-at-the-centre-of-a-large-overgrown-potato-tuber-A155PB.jpg"
+    ],
+    "confusableWith": [
+      "Brown Center",
+      "Internal Bruising"
+    ],
+    "nutshellPoints": [
+      "Internal defect only",
+      "Linked to rapid growth",
+      "Detected after cutting"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "misshapen-tubers",
+    "name": "Misshapen Tubers",
+    "scientificName": "Physiological tuber deformation",
+    "category": "physiological",
+    "categoryIcon": "tuber_warning.svg",
+    "causeType": "Misshapen tubers develop when normal tuber growth is disrupted by environmental stress, soil compaction, uneven moisture, pest injury, or nutrient imbalance. Physical barriers in soil force tubers to grow irregularly, resulting in distorted shapes.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Tubers exhibit irregular, twisted, or elongated shapes.",
+      "Uneven swelling or lopsided growth is common.",
+      "Skin may remain healthy but shape is deformed.",
+      "Market and processing quality are reduced.",
+      "Yield weight may remain normal despite poor appearance."
+    ],
+    "visualSigns": [
+      "Irregular tuber shape",
+      "Lopsided or twisted tubers",
+      "Normal skin texture"
+    ],
+    "stageAffected": [
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Compacted or cloddy soil",
+      "Uneven moisture availability",
+      "Mechanical obstruction",
+      "Nutrient imbalance"
+    ],
+    "spreadMethod": [],
+    "prevention": [
+      "Prepare fine, loose seedbed.",
+      "Avoid soil compaction.",
+      "Ensure uniform irrigation.",
+      "Practice balanced fertilization."
+    ],
+    "treatment": [
+      "Misshapen tubers cannot regain normal shape.",
+      "Sort affected tubers during grading.",
+      "Improve soil and water management for next crop.",
+      "Select appropriate planting density."
+    ],
+    "control": {
+      "organicControl": [
+        "Add organic matter to improve soil structure.",
+        "Practice deep tillage where appropriate.",
+        "Maintain proper field preparation."
+      ],
+      "chemicalControl": [
+        "Chemical control is not applicable.",
+        "Avoid excessive fertilizer use.",
+        "Focus on agronomic corrections."
+      ]
+    },
+    "images": [
+      "https://blog.potatoworld.eu/hs-fs/hubfs/Image%20PW%20Blog%2077.jpg?width=1148&name=Image%20PW%20Blog%2077.jpg"
+    ],
+    "confusableWith": [
+      "Knobbiness",
+      "Insect Damage"
+    ],
+    "nutshellPoints": [
+      "Shape defect, not disease",
+      "Soil-related causes",
+      "Reduces marketability"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "knobbiness",
+    "name": "Knobbiness",
+    "scientificName": "Physiological tuber knobbiness",
+    "category": "physiological",
+    "categoryIcon": "tuber_warning.svg",
+    "causeType": "Knobbiness is a tuber deformation disorder characterized by irregular protrusions or knobs on the tuber surface. It is caused by uneven growth rates within the tuber due to stress factors such as fluctuating moisture, nutrient imbalance, insect feeding, or environmental stress.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Tubers develop multiple small to large knobs or bulges.",
+      "Surface becomes uneven and rough.",
+      "Internal tissue usually remains healthy.",
+      "Processing efficiency is reduced due to irregular shape.",
+      "Market value is lowered."
+    ],
+    "visualSigns": [
+      "Knob-like protrusions",
+      "Uneven tuber surface",
+      "Distorted appearance"
+    ],
+    "stageAffected": [
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Irregular moisture supply",
+      "Excessive nitrogen",
+      "Environmental stress",
+      "Insect feeding damage"
+    ],
+    "spreadMethod": [],
+    "prevention": [
+      "Maintain uniform soil moisture.",
+      "Apply balanced fertilization.",
+      "Control soil-dwelling insects.",
+      "Avoid sudden growth stress."
+    ],
+    "treatment": [
+      "Knobbiness cannot be corrected once developed.",
+      "Remove affected tubers during sorting.",
+      "Adjust agronomic practices.",
+      "Focus on prevention in future crops."
+    ],
+    "control": {
+      "organicControl": [
+        "Improve soil structure with organic amendments.",
+        "Use crop rotation to reduce soil pest pressure.",
+        "Maintain stable growing conditions."
+      ],
+      "chemicalControl": [
+        "Chemical control is not directly applicable.",
+        "Manage soil pests when necessary.",
+        "Avoid fertilizer misuse."
+      ]
+    },
+    "images": [
+      "https://www.vegetables.cornell.edu/files/2021/04/1scab.jpg"
+    ],
+    "confusableWith": [
+      "Misshapen Tubers",
+      "Common Scab"
+    ],
+    "nutshellPoints": [
+      "Uneven tuber growth",
+      "Linked to stress and imbalance",
+      "Affects appearance, not edibility"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "black-heart",
+    "name": "Black Heart",
+    "scientificName": "Physiological tuber black heart",
+    "category": "physiological",
+    "categoryIcon": "tuber_warning.svg",
+    "causeType": "Black Heart is a physiological disorder of potato tubers caused by prolonged oxygen deficiency (hypoxia) within the tuber. This often occurs when tubers are stored in poorly ventilated conditions, high temperatures, or compacted soils, preventing sufficient gas exchange. The central tissues undergo cell death due to lack of oxygen, turning black.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "high",
+    "commonness": "occasional",
+    "symptoms": [
+      "Tubers appear normal externally in early stages.",
+      "Internally, the central tissue turns dark brown to black.",
+      "The discoloration progresses from the center outward.",
+      "Affected tissue is soft, water-soaked, and smells faintly musty.",
+      "Severe black heart reduces processing quality and marketability."
+    ],
+    "visualSigns": [
+      "Black central tissue visible when cut",
+      "Soft and water-soaked inner tuber",
+      "External skin often normal"
+    ],
+    "stageAffected": [
+      "storage",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Poorly ventilated storage",
+      "High storage temperatures",
+      "Compacted soil during growth",
+      "Delayed harvesting of large tubers"
+    ],
+    "spreadMethod": [],
+    "prevention": [
+      "Store tubers in well-ventilated, cool, and dry conditions.",
+      "Avoid excessive soil compaction during growth.",
+      "Harvest tubers at optimal maturity.",
+      "Sort and store large tubers separately to prevent oxygen depletion."
+    ],
+    "treatment": [
+      "Black heart cannot be reversed once it occurs.",
+      "Affected tubers must be discarded or used quickly for processing.",
+      "Improve storage conditions to prevent occurrence in subsequent batches."
+    ],
+    "control": {
+      "organicControl": [
+        "Ensure proper aeration in storage facilities.",
+        "Avoid piling tubers too deeply to facilitate airflow.",
+        "Use organic mulches in the field to prevent soil compaction."
+      ],
+      "chemicalControl": [
+        "No chemical control available.",
+        "Focus entirely on environmental and storage management."
+      ]
+    },
+    "images": [
+      "http://krishimala.com/sites/default/files/2018-07/black%20heart.jpg",
+      "https://www.lsuagcenter.com/~/media/system/e/2/f/1/e2f16b35166b4049a3a17fd35d3205ba/potatoleak.jpg?bc=white&as=0&mh=400&mw=1110&sc=25&thn=0",
+      "https://projectbluearchive.blob.core.windows.net/media/Default/Potatoes/Disease%20and%20defects/Black%20heart%201%20resized.jpg"
+    ],
+    "confusableWith": [
+      "Internal Brown Spot",
+      "Hollow Heart"
+    ],
+    "nutshellPoints": [
+      "Internal blackening due to low oxygen",
+      "Occurs in storage or compacted soil",
+      "Irreversible"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "sugar-ends",
+    "name": "Sugar Ends",
+    "scientificName": "Physiological sugar accumulation disorder",
+    "category": "physiological",
+    "categoryIcon": "tuber_warning.svg",
+    "causeType": "Sugar ends is a physiological disorder where the proximal or distal ends of potato tubers accumulate high levels of reducing sugars. It typically develops when tubers are exposed to cold temperatures, drought stress, or uneven water supply. The disorder affects processing quality, especially frying, as sugar-rich areas caramelize and darken.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "The tip or end of the tuber becomes darker during frying due to high sugar content.",
+      "Raw tubers may show slight internal browning at the affected end.",
+      "Tubers are otherwise normal in size and shape.",
+      "High sugar content imparts a bitter taste when cooked.",
+      "More pronounced in late-harvested or stressed crops."
+    ],
+    "visualSigns": [
+      "Darker tuber ends during frying",
+      "Slight browning internally",
+      "Normal skin externally"
+    ],
+    "stageAffected": [
+      "tuber-formation",
+      "storage"
+    ],
+    "favorableConditions": [
+      "Low soil or storage temperature",
+      "Drought or irregular irrigation",
+      "Late maturity or stress periods",
+      "Cold storage of immature tubers"
+    ],
+    "spreadMethod": [],
+    "prevention": [
+      "Harvest at optimal maturity.",
+      "Avoid cold storage of immature tubers.",
+      "Maintain uniform irrigation.",
+      "Provide balanced fertilization to avoid stress."
+    ],
+    "treatment": [
+      "Sugar ends cannot be reversed in affected tubers.",
+      "Process or consume tubers quickly to minimize darkening.",
+      "Sort affected ends to improve product quality."
+    ],
+    "control": {
+      "organicControl": [
+        "Use mulching and proper irrigation to reduce stress.",
+        "Maintain healthy soil structure for uniform growth."
+      ],
+      "chemicalControl": [
+        "Avoid excessive nitrogen and potassium imbalance.",
+        "No chemical correction for sugar ends once developed."
+      ]
+    },
+    "images": [
+      "https://spudsmart.com/wp-content/uploads/2019/07/Screen-Shot-2019-07-16-at-4.42.10-PM-632x467.png"
+    ],
+    "confusableWith": [
+      "Black Heart",
+      "Internal Brown Spot"
+    ],
+    "nutshellPoints": [
+      "High sugar accumulation at tuber ends",
+      "Affects frying quality",
+      "Stress-related disorder"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "internal-brown-spot",
+    "name": "Internal Brown Spot",
+    "scientificName": "Physiological tuber disorder",
+    "category": "physiological",
+    "categoryIcon": "tuber_warning.svg",
+    "causeType": "Internal brown spot is caused by localized necrosis of tuber tissues due to stress factors like abrupt changes in water supply, nutrient imbalance (especially calcium deficiency), or high soil temperature. The disorder affects internal tuber quality but often leaves the external skin intact.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Small, dark brown spots develop inside the tuber.",
+      "External tuber surface usually appears normal.",
+      "Affected tissue is dry and firm.",
+      "May coalesce into larger brown areas in severe cases.",
+      "Reduces marketability and processing quality."
+    ],
+    "visualSigns": [
+      "Brown spots inside when cut open",
+      "Normal skin externally",
+      "Dry, firm discolored tissue"
+    ],
+    "stageAffected": [
+      "tuber-formation",
+      "storage"
+    ],
+    "favorableConditions": [
+      "Calcium or other micronutrient deficiencies",
+      "Rapid changes in soil moisture",
+      "High soil temperature",
+      "Stress during tuber bulking"
+    ],
+    "spreadMethod": [],
+    "prevention": [
+      "Provide balanced nutrition including calcium.",
+      "Maintain consistent soil moisture.",
+      "Avoid abrupt irrigation changes.",
+      "Harvest at proper maturity."
+    ],
+    "treatment": [
+      "Cannot reverse brown spots once formed.",
+      "Sort affected tubers to maintain product quality.",
+      "Improve nutrition and water management for future crops."
+    ],
+    "control": {
+      "organicControl": [
+        "Incorporate calcium-rich organic amendments.",
+        "Use organic matter to buffer soil moisture fluctuations.",
+        "Avoid compaction and promote healthy root growth."
+      ],
+      "chemicalControl": [
+        "Correct calcium and micronutrient deficiencies with appropriate fertilizers.",
+        "No chemical remedy for already formed brown spots."
+      ]
+    },
+    "images": [
+      "https://c8.alamy.com/comp/AJED14/internal-rust-spot-evident-in-potato-tuber-cross-section-irs-is-a-AJED14.jpg",
+      "https://www.researchgate.net/publication/361307730/figure/fig3/AS:1167219279040528@1655298170361/External-and-internal-symptoms-in-potato-tuber-caused-by-Ditylenchus-destructor-a-b.png"
+    ],
+    "confusableWith": [
+      "Black Heart",
+      "Dry Rot"
+    ],
+    "nutshellPoints": [
+      "Internal dark spots",
+      "Stress and nutrient related",
+      "External tuber often normal"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "heat-injury-tuber",
+    "name": "Heat Injury",
+    "scientificName": "Physiological tuber heat stress",
+    "category": "physiological",
+    "categoryIcon": "tuber_warning.svg",
+    "causeType": "Heat injury occurs when potato tubers are exposed to high temperatures either in the field or during storage. Excessive heat damages cell membranes and accelerates metabolic degradation, leading to discoloration, tissue breakdown, and reduced storability.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "medium",
+    "commonness": "occasional",
+    "symptoms": [
+      "Tuber skin becomes discolored, often with sunken or soft areas.",
+      "Tissue beneath the skin may be water-soaked.",
+      "High-temperature exposure may induce rapid sprouting during storage.",
+      "Severely affected tubers have reduced shelf-life.",
+      "External tuber may appear slightly wrinkled due to moisture loss."
+    ],
+    "visualSigns": [
+      "Discolored skin patches",
+      "Soft sunken areas",
+      "Wrinkled or shriveled surface"
+    ],
+    "stageAffected": [
+      "tuber-formation",
+      "storage"
+    ],
+    "favorableConditions": [
+      "High ambient temperature",
+      "Excess sunlight exposure",
+      "Poor storage ventilation",
+      "Low soil moisture"
+    ],
+    "spreadMethod": [],
+    "prevention": [
+      "Store tubers in cool, well-ventilated conditions.",
+      "Avoid prolonged exposure to sun during field growth and harvest.",
+      "Maintain adequate soil moisture.",
+      "Harvest early if high field temperatures persist."
+    ],
+    "treatment": [
+      "Heat damage cannot be reversed once tissue is affected.",
+      "Use damaged tubers quickly or for processing.",
+      "Improve storage conditions for unaffected tubers."
+    ],
+    "control": {
+      "organicControl": [
+        "Use mulching to reduce soil and tuber temperature.",
+        "Shade storage areas or use straw/organic covers.",
+        "Maintain soil moisture to reduce stress."
+      ],
+      "chemicalControl": [
+        "Chemical control is not applicable.",
+        "Focus on physical protection and storage management."
+      ]
+    },
+    "images": [
+      "https://ephytia.inra.fr/en/IC/30720/Chaleur3"
+    ],
+    "confusableWith": [
+      "Black Heart",
+      "Sunburn"
+    ],
+    "nutshellPoints": [
+      "Heat-induced tissue damage",
+      "Affects field and storage tubers",
+      "Reduces storability"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "dry-rot",
+    "name": "Dry Rot",
+    "scientificName": "Fusarium spp.",
+    "category": "fungal",
+    "categoryIcon": "fungus.svg",
+    "causeType": "Dry rot is caused by soil-borne fungal pathogens (mainly Fusarium species) that infect tubers through wounds or natural openings. The fungus invades tuber tissue, extracting nutrients and causing cell death. Dry rot often develops during storage but can originate from field infection.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "high",
+    "commonness": "common",
+    "symptoms": [
+      "Initial symptoms include small, dry, sunken patches on tuber surface.",
+      "Tissue beneath becomes dark brown to black and brittle.",
+      "Lesions may be circular or irregular in shape.",
+      "Fungal mycelium may appear as fine white to pinkish threads in advanced stages.",
+      "Severe infection causes extensive internal rotting and shriveling."
+    ],
+    "visualSigns": [
+      "Sunken, dry lesions",
+      "Brittle and darkened internal tissue",
+      "White/pink fungal threads in advanced cases"
+    ],
+    "stageAffected": [
+      "storage",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Wounded tubers",
+      "High storage temperature",
+      "High relative humidity",
+      "Poor ventilation in storage"
+    ],
+    "spreadMethod": [
+      "soil",
+      "tools",
+      "seed-tuber"
+    ],
+    "prevention": [
+      "Handle tubers carefully to avoid wounds.",
+      "Use disease-free seed tubers.",
+      "Ensure proper storage conditions with ventilation and low humidity.",
+      "Clean tools and storage facilities to reduce inoculum."
+    ],
+    "treatment": [
+      "Remove and discard infected tubers to prevent spread.",
+      "Improve storage conditions immediately.",
+      "Fungicidal treatments can be applied to prevent infection on healthy tubers."
+    ],
+    "control": {
+      "organicControl": [
+        "Use biocontrol agents such as Trichoderma spp. on seed tubers.",
+        "Store tubers on clean organic bedding to reduce fungal contact.",
+        "Crop rotation with non-host crops."
+      ],
+      "chemicalControl": [
+        "Treat seed tubers with approved fungicides before storage.",
+        "Apply fungicide dust or dips to prevent initial infection.",
+        "Ensure chemical use follows label recommendations and pre-harvest intervals."
+      ]
+    },
+    "images": [
+      "https://tse3.mm.bing.net/th/id/OIP.e8GagpIdYb2Ef_UhlXJ4GAHaFj?pid=Api&P=0&h=180",
+      "https://worldofplants.ai/wp-content/uploads/elementor/thumbs/Image3557-qq747m7dks6r5haqxlf6uqeu5ongrwdpzs24b3xytk.jpeg"
+    ],
+    "confusableWith": [
+      "Black Heart",
+      "Internal Brown Spot"
+    ],
+    "nutshellPoints": [
+      "Fungal tuber disease",
+      "Often enters through wounds",
+      "High storage humidity favors infection"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "black-scurf",
+    "name": "Black Scurf",
+    "scientificName": "Rhizoctonia solani",
+    "category": "fungal",
+    "categoryIcon": "fungus.svg",
+    "causeType": "Black scurf is caused by the soil-borne fungus Rhizoctonia solani. The fungus survives as sclerotia on tubers and in soil, infecting both stems and tubers. It impairs nutrient and water uptake, affects tuber skin appearance, and can reduce yield. Infection occurs mainly through contact with contaminated soil or infected seed tubers.",
+    "affectedPart": [
+      "tuber",
+      "stem"
+    ],
+    "severity": "medium",
+    "commonness": "very-common",
+    "symptoms": [
+      "Small, irregular black sclerotia develop on tuber surfaces, resembling dirt but firmly attached.",
+      "Tuber skin becomes rough and cracked in severe cases.",
+      "Stems may show brown sunken lesions near the soil line.",
+      "Seedling emergence may be delayed due to stem infection.",
+      "Yield loss occurs if infection is extensive, though internal tuber tissue is often unaffected."
+    ],
+    "visualSigns": [
+      "Black, irregular sclerotia on tuber skin",
+      "Rough or cracked tuber surface",
+      "Brown lesions at stem base"
+    ],
+    "stageAffected": [
+      "tuber-formation",
+      "vegetative",
+      "storage"
+    ],
+    "favorableConditions": [
+      "Cool, moist soils during early growth",
+      "Contaminated seed tubers",
+      "Heavy, compacted soils",
+      "Monoculture or poor crop rotation"
+    ],
+    "spreadMethod": [
+      "soil",
+      "seed-tuber",
+      "tools"
+    ],
+    "prevention": [
+      "Use certified disease-free seed tubers.",
+      "Rotate crops with non-host plants for 2-3 years.",
+      "Ensure good soil drainage and avoid compacted soils.",
+      "Remove infected debris from fields."
+    ],
+    "treatment": [
+      "Seed treatment with fungicides before planting.",
+      "Physical removal of sclerotia from tubers for seed use.",
+      "Improve soil conditions to reduce fungal survival.",
+      "Monitor plants and stems for early stem lesions."
+    ],
+    "control": {
+      "organicControl": [
+        "Apply organic compost to improve soil microbial competition.",
+        "Use biocontrol fungi like Trichoderma spp. to suppress Rhizoctonia.",
+        "Practice deep plowing to bury sclerotia and reduce inoculum."
+      ],
+      "chemicalControl": [
+        "Treat seed tubers with systemic or contact fungicides effective against Rhizoctonia solani.",
+        "Fungicide application must follow label instructions and pre-plant timing."
+      ]
+    },
+    "images": [
+      "https://c8.alamy.com/comp/ACG6M5/black-scurf-rhizoctonia-solani-lesions-on-potato-tuber-ACG6M5.jpg",
+      "https://apps.lucidcentral.org/pppw_v11/images/entities/potato_black_scurf_295/rhizoctpotato.jpg"
+    ],
+    "confusableWith": [
+      "Common Scab",
+      "Knobbiness"
+    ],
+    "nutshellPoints": [
+      "Fungal disease caused by Rhizoctonia solani",
+      "Black sclerotia on tubers",
+      "Affects stems and tuber skin, not internal tissue"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "silver-scurf",
+    "name": "Silver Scurf",
+    "scientificName": "Helminthosporium solani",
+    "category": "fungal",
+    "categoryIcon": "fungus.svg",
+    "causeType": "Silver scurf is caused by the fungus Helminthosporium solani. It primarily affects potato tubers in storage, reducing skin quality and increasing water loss. The fungus survives on seed tubers and spreads during storage via water or high humidity conditions, often exacerbated by wounds or bruises on tubers.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Small, circular, silvery-gray lesions appear on tuber skin.",
+      "Lesions enlarge and coalesce, giving a shiny or silvered appearance.",
+      "Infected areas may become slightly roughened but rarely penetrate deeply.",
+      "Tuber weight loss increases during storage due to moisture loss.",
+      "Seed tubers infected with silver scurf may transmit the fungus to the next crop."
+    ],
+    "visualSigns": [
+      "Silvery patches on tuber surface",
+      "Shiny, reflective lesions",
+      "Slightly roughened skin"
+    ],
+    "stageAffected": [
+      "storage",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "High humidity in storage",
+      "Warm storage temperatures",
+      "Bruised or wounded tubers",
+      "Contaminated seed tubers"
+    ],
+    "spreadMethod": [
+      "seed-tuber",
+      "storage",
+      "tools"
+    ],
+    "prevention": [
+      "Use certified disease-free seed tubers.",
+      "Maintain low humidity and temperature during storage.",
+      "Handle tubers carefully to avoid bruising.",
+      "Clean storage bins and tools regularly."
+    ],
+    "treatment": [
+      "Fungicide treatment of seed tubers before planting.",
+      "Remove and discard severely infected tubers.",
+      "Maintain proper storage conditions to minimize fungal growth."
+    ],
+    "control": {
+      "organicControl": [
+        "Biocontrol using Trichoderma spp. to reduce fungal spread on seed.",
+        "Improve tuber handling practices to prevent wounds.",
+        "Store tubers on organic bedding to absorb excess moisture."
+      ],
+      "chemicalControl": [
+        "Fungicide seed treatment effective against Helminthosporium solani.",
+        "Apply curative fungicide sprays on seed lots before storage if recommended."
+      ]
+    },
+    "images": [
+      "https://c8.alamy.com/comp/BJPXNP/silver-scurf-helminthosporium-solani-infection-on-a-potato-tuber-BJPXNP.jpg",
+      "https://www.potatogrower.com/Images/0212/Infected%20Tubers_opt.jpeg"
+    ],
+    "confusableWith": [
+      "Black Scurf",
+      "Skin Bruising"
+    ],
+    "nutshellPoints": [
+      "Fungal tuber disease",
+      "Shiny silver lesions on skin",
+      "Primarily a storage problem"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "pink-rot",
+    "name": "Pink Rot",
+    "scientificName": "Phytophthora erythroseptica",
+    "category": "fungal",
+    "categoryIcon": "fungus.svg",
+    "causeType": "Pink rot is caused by the oomycete Phytophthora erythroseptica, a water-mold pathogen. It infects tubers through soil or water-saturated conditions, entering via lenticels, wounds, or root contact. Infection is favored by cool, wet soil and poor drainage, and the disease can continue in storage.",
+    "affectedPart": [
+      "tuber",
+      "stem"
+    ],
+    "severity": "high",
+    "commonness": "common",
+    "symptoms": [
+      "Tuber surface shows slight water-soaked lesions which enlarge over time.",
+      "Infected tissue turns pink when exposed to air after cutting.",
+      "Advanced stages show soft, rotten tissue with a characteristic foul odor.",
+      "Stem bases may show black lesions leading to plant wilting.",
+      "Disease spreads rapidly in wet soils and poorly ventilated storage."
+    ],
+    "visualSigns": [
+      "Water-soaked tuber lesions",
+      "Pink discoloration inside tissue",
+      "Soft rot with foul smell"
+    ],
+    "stageAffected": [
+      "tuber-formation",
+      "storage",
+      "vegetative"
+    ],
+    "favorableConditions": [
+      "Saturated or poorly drained soils",
+      "Cool temperatures (12–18°C) during tuber formation",
+      "High humidity",
+      "Wounded tubers or stems"
+    ],
+    "spreadMethod": [
+      "soil",
+      "water",
+      "seed-tuber",
+      "tools"
+    ],
+    "prevention": [
+      "Plant in well-drained fields.",
+      "Avoid excess irrigation and waterlogging.",
+      "Use certified disease-free seed tubers.",
+      "Harvest promptly and handle tubers carefully."
+    ],
+    "treatment": [
+      "Remove infected tubers from storage immediately.",
+      "Fungicide treatment of seed tubers before planting.",
+      "Maintain dry storage conditions to inhibit pathogen growth.",
+      "Avoid prolonged storage of wet or bruised tubers."
+    ],
+    "control": {
+      "organicControl": [
+        "Ensure good soil drainage using raised beds or ridges.",
+        "Use organic amendments to improve soil structure and microbial competition.",
+        "Solarization or compost teas may reduce inoculum in soil."
+      ],
+      "chemicalControl": [
+        "Treat seed tubers with systemic fungicides effective against Phytophthora.",
+        "Apply soil fungicides in heavily infested fields according to label instructions."
+      ]
+    },
+    "images": [
+      "https://c8.alamy.com/comp/ACG5H8/pink-rot-phytophthora-erythroseptica-infection-within-potato-tuber-ACG5H8.jpg",
+      "https://www.growingproduce.com/wp-content/uploads/2018/09/potato-pink-rot.jpg",
+      "https://vegpath.plantpath.wisc.edu/wp-content/uploads/sites/210/2022/08/potato-pink-rot-1.png"
+    ],
+    "confusableWith": [
+      "Soft Rot",
+      "Fusarium Rot"
+    ],
+    "nutshellPoints": [
+      "Water-mold disease",
+      "Pink discoloration in tubers",
+      "Favored by wet soils and poor drainage"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "fusarium-rot",
+    "name": "Fusarium Rot",
+    "scientificName": "Fusarium spp.",
+    "category": "fungal",
+    "categoryIcon": "fungus.svg",
+    "causeType": "Fusarium rot is caused by soil-borne Fusarium species such as F. sambucinum. The fungus infects tubers through wounds, lenticels, or bruises, producing dry, corky rot that reduces tuber quality and yield. Fusarium species survive in soil and crop debris, and infection is favored by poor storage conditions and high soil temperatures.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "high",
+    "commonness": "common",
+    "symptoms": [
+      "Tuber shows dry, sunken lesions with hard, corky texture.",
+      "Lesions often have concentric rings of dark brown to black color.",
+      "In severe cases, the rot can penetrate deep into the tuber.",
+      "Fungal mycelium may appear as white or pink growth in advanced stages.",
+      "Yield and market value are significantly reduced."
+    ],
+    "visualSigns": [
+      "Dry, corky lesions on tuber",
+      "Sunken, darkened tissue",
+      "White/pink fungal threads in advanced cases"
+    ],
+    "stageAffected": [
+      "tuber-formation",
+      "storage"
+    ],
+    "favorableConditions": [
+      "Wounded or bruised tubers",
+      "Warm storage or soil temperatures",
+      "High soil moisture",
+      "Contaminated seed tubers"
+    ],
+    "spreadMethod": [
+      "soil",
+      "seed-tuber",
+      "tools"
+    ],
+    "prevention": [
+      "Use certified disease-free seed tubers.",
+      "Handle tubers carefully to avoid bruises.",
+      "Crop rotation to reduce soil Fusarium population.",
+      "Maintain proper storage conditions."
+    ],
+    "treatment": [
+      "Remove infected tubers promptly from storage.",
+      "Seed tubers may be treated with fungicides before planting.",
+      "Improve storage ventilation and maintain low humidity.",
+      "Avoid mixing infected tubers with healthy stock."
+    ],
+    "control": {
+      "organicControl": [
+        "Soil amendments with compost and Trichoderma spp. to suppress Fusarium.",
+        "Ensure proper crop rotation with non-host crops.",
+        "Clean and disinfect storage areas."
+      ],
+      "chemicalControl": [
+        "Fungicidal seed treatments targeting Fusarium spp.",
+        "Use approved fungicides for soil application if needed."
+      ]
+    },
+    "images": [
+      "https://c8.alamy.com/comp/A61J1B/dry-rot-fusarium-on-potato-tubers-A61J1B.jpg",
+      "https://www.nexles.com/articles/wp-content/uploads/2019/10/Fusarium-solani-var.-coeruleum-affected-tubercle-768x576.jpg"
+    ],
+    "confusableWith": [
+      "Dry Rot",
+      "Pink Rot"
+    ],
+    "nutshellPoints": [
+      "Fungal dry rot of tubers",
+      "Enters through wounds or bruises",
+      "Reduces storage quality and marketability"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "stem-canker",
+    "name": "Stem Canker",
+    "scientificName": "Rhizoctonia solani / Fusarium spp.",
+    "category": "fungal",
+    "categoryIcon": "fungus.svg",
+    "causeType": "Stem canker is caused by soil-borne fungi, primarily Rhizoctonia solani and Fusarium spp. These fungi infect stems at or below the soil line, causing sunken, necrotic lesions. Infection weakens stems, reduces nutrient transport to tubers, and can lead to poor emergence and lower yields.",
+    "affectedPart": [
+      "stem",
+      "tuber"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Sunken, brown or black lesions develop on stems near soil surface.",
+      "Lesions may girdle stems, causing partial wilting.",
+      "Stem bases become rough and cracked over time.",
+      "Seedling emergence is delayed or uneven.",
+      "Tuber set and development may be reduced."
+    ],
+    "visualSigns": [
+      "Necrotic, sunken lesions on stems",
+      "Stem base roughness",
+      "Partial plant wilting"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Cool, moist soils",
+      "Heavy or compacted soils",
+      "Contaminated seed tubers",
+      "Poor crop rotation"
+    ],
+    "spreadMethod": [
+      "soil",
+      "seed-tuber",
+      "tools"
+    ],
+    "prevention": [
+      "Use certified disease-free seed tubers.",
+      "Practice crop rotation with non-host crops.",
+      "Avoid compacted soils and improve drainage.",
+      "Remove plant debris from fields."
+    ],
+    "treatment": [
+      "No curative treatment for infected stems.",
+      "Ensure healthy growth of uninfected plants.",
+      "Improve soil conditions for remaining crop.",
+      "Seed tuber treatment for next planting season."
+    ],
+    "control": {
+      "organicControl": [
+        "Incorporate organic matter to improve soil health and microbial competition.",
+        "Use biocontrol agents like Trichoderma spp. to suppress pathogens.",
+        "Deep plowing to bury infected plant debris."
+      ],
+      "chemicalControl": [
+        "Seed treatment with fungicides effective against Rhizoctonia and Fusarium.",
+        "Soil fungicide application may be applied pre-planting following label guidance."
+      ]
+    },
+    "images": [
+      "https://www.alamy.com/aggregator-api/download?url=https://c8.alamy.com/comp/BY88G1/stem-canker-rhizoctonia-solani-lesions-on-the-roots-and-lower-stem-BY88G1.jpg"
+    ],
+    "confusableWith": [
+      "Black Scurf",
+      "Fusarium Rot"
+    ],
+    "nutshellPoints": [
+      "Fungal stem disease",
+      "Necrotic lesions at stem base",
+      "Affects tuber development indirectly"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "gangrene",
+    "name": "Gangrene",
+    "scientificName": "Phytophthora spp.",
+    "category": "fungal",
+    "categoryIcon": "fungus.svg",
+    "causeType": "Gangrene is caused by Phytophthora species, which are water-mold pathogens. The fungus infects tubers through wounds, lenticels, or cracked skin, often during wet conditions in the field or poor storage. Infection leads to dark, dry, and firm lesions, affecting tuber quality and storability.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "high",
+    "commonness": "occasional",
+    "symptoms": [
+      "Dark brown to black dry lesions appear on the tuber surface.",
+      "Affected tissue becomes firm and corky rather than soft.",
+      "Lesions may penetrate into the tuber, reducing internal quality.",
+      "Severely affected tubers lose market and processing value.",
+      "Infection may continue or worsen in storage if humidity is high."
+    ],
+    "visualSigns": [
+      "Dark, dry lesions",
+      "Firm corky tissue",
+      "No soft rotting initially"
+    ],
+    "stageAffected": [
+      "tuber-formation",
+      "storage"
+    ],
+    "favorableConditions": [
+      "Wet field conditions",
+      "High soil moisture",
+      "Wounded or cracked tubers",
+      "Poorly ventilated storage"
+    ],
+    "spreadMethod": [
+      "soil",
+      "water",
+      "seed-tuber",
+      "tools"
+    ],
+    "prevention": [
+      "Plant certified disease-free seed tubers.",
+      "Avoid wounding tubers during harvest.",
+      "Maintain well-drained soils and avoid prolonged wet conditions.",
+      "Ensure proper ventilation in storage to reduce humidity."
+    ],
+    "treatment": [
+      "Remove and discard infected tubers.",
+      "Treat seed tubers with appropriate fungicides before planting.",
+      "Store healthy tubers under dry, ventilated conditions."
+    ],
+    "control": {
+      "organicControl": [
+        "Use composted organic matter to improve soil microbial activity.",
+        "Apply biocontrol agents like Trichoderma spp. to suppress Phytophthora in soil.",
+        "Maintain field hygiene by removing infected plant debris."
+      ],
+      "chemicalControl": [
+        "Treat seed tubers with systemic fungicides effective against Phytophthora spp.",
+        "Apply recommended fungicides to soil pre-planting in heavily infested fields."
+      ]
+    },
+    "images": [
+      "https://images.ctfassets.net/l2hapltrg3cz/5ButqmI8U1F8yd5xpD8NTQ/4357d07bcdd734108dd25b854bc29a33/gangrene.png?fm=webp&w=1080&q=85"
+    ],
+    "confusableWith": [
+      "Soft Rot",
+      "Pink Rot"
+    ],
+    "nutshellPoints": [
+      "Fungal water-mold disease",
+      "Firm, dark, corky lesions",
+      "Favored by wet conditions"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "leak-disease",
+    "name": "Leak Disease",
+    "scientificName": "Pectobacterium carotovorum / Erwinia carotovora",
+    "category": "bacterial",
+    "categoryIcon": "bacteria.svg",
+    "causeType": "Leak disease is caused by bacterial pathogens such as Pectobacterium carotovorum (formerly Erwinia carotovora). These bacteria enter tubers through wounds, lenticels, or bruises, producing soft, watery tissue. Infection is favored by wet, warm conditions, and the disease can rapidly spread in storage and during handling.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "high",
+    "commonness": "common",
+    "symptoms": [
+      "Tubers become soft, water-soaked, and emit a characteristic foul odor.",
+      "Infection often starts at the stem end or wounds and spreads internally.",
+      "Skin may remain initially intact but soon ruptures as rot progresses.",
+      "Rapid progression can affect entire storage lots.",
+      "Severely infected tubers are unfit for consumption or sale."
+    ],
+    "visualSigns": [
+      "Watery, soft tissue",
+      "Brownish discoloration",
+      "Foul odor"
+    ],
+    "stageAffected": [
+      "tuber-formation",
+      "storage"
+    ],
+    "favorableConditions": [
+      "Warm, wet field conditions",
+      "Poor drainage or waterlogged soils",
+      "Bruised or wounded tubers",
+      "High humidity storage"
+    ],
+    "spreadMethod": [
+      "water",
+      "seed-tuber",
+      "tools",
+      "handling"
+    ],
+    "prevention": [
+      "Plant disease-free seed tubers.",
+      "Avoid wounding tubers during harvest and handling.",
+      "Ensure proper field drainage.",
+      "Store tubers in cool, dry conditions with good ventilation."
+    ],
+    "treatment": [
+      "Remove and destroy infected tubers immediately.",
+      "Disinfect storage areas and tools.",
+      "Apply bactericidal seed treatment if recommended.",
+      "Do not store tubers in high humidity conditions."
+    ],
+    "control": {
+      "organicControl": [
+        "Use biocontrol agents like Bacillus subtilis to reduce bacterial population on seed tubers.",
+        "Ensure proper aeration and reduce moisture in storage.",
+        "Crop rotation to reduce bacterial buildup in soil."
+      ],
+      "chemicalControl": [
+        "Treat seed tubers with approved bactericides.",
+        "Use chemical disinfectants for storage areas and tools.",
+        "Avoid chemical treatments on tubers already showing soft rot."
+      ]
+    },
+    "images": [
+      "https://s3.amazonaws.com/plantvillage-production-new/images/pics/000/000/947/original/PVY_2.jpg?1374179737"
+    ],
+    "confusableWith": [
+      "Soft Rot",
+      "Pink Rot"
+    ],
+    "nutshellPoints": [
+      "Bacterial soft rot disease",
+      "Watery tissue with foul odor",
+      "Favored by warm, wet conditions"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "soft-rot",
+    "name": "Soft Rot",
+    "scientificName": "Pectobacterium / Dickeya spp.",
+    "category": "bacterial",
+    "categoryIcon": "bacteria.svg",
+    "causeType": "Soft rot is caused by bacterial pathogens such as Pectobacterium and Dickeya species. These bacteria attack tubers through wounds, bruises, or lenticels, leading to rapid tissue maceration. High moisture and warm temperatures in the field or storage accelerate the disease.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "very-high",
+    "commonness": "common",
+    "symptoms": [
+      "Tubers become soft, watery, and collapse under slight pressure.",
+      "A strong foul smell develops as bacteria degrade tissue.",
+      "Skin may initially remain intact but ruptures quickly.",
+      "In storage, infection spreads rapidly to neighboring tubers.",
+      "Severely affected lots may be completely lost."
+    ],
+    "visualSigns": [
+      "Watery, mushy tissue",
+      "Ruptured skin",
+      "Foul odor"
+    ],
+    "stageAffected": [
+      "tuber-formation",
+      "storage"
+    ],
+    "favorableConditions": [
+      "High soil and storage moisture",
+      "Warm temperatures (20–30°C)",
+      "Injured or bruised tubers",
+      "Poor ventilation"
+    ],
+    "spreadMethod": [
+      "water",
+      "seed-tuber",
+      "tools",
+      "handling"
+    ],
+    "prevention": [
+      "Handle tubers gently during harvest.",
+      "Avoid planting in waterlogged fields.",
+      "Store tubers in cool, dry, ventilated conditions.",
+      "Use disease-free seed tubers."
+    ],
+    "treatment": [
+      "Remove infected tubers immediately.",
+      "Disinfect storage areas and handling tools.",
+      "Apply bactericidal treatment on seed tubers pre-planting.",
+      "Separate infected tubers to prevent spread."
+    ],
+    "control": {
+      "organicControl": [
+        "Use biocontrol bacteria to suppress pathogen populations.",
+        "Maintain dry and ventilated storage to slow bacterial growth.",
+        "Crop rotation to reduce pathogen load in soil."
+      ],
+      "chemicalControl": [
+        "Seed treatment with approved bactericides.",
+        "Disinfect storage bins with chemical sanitizers.",
+        "Avoid chemical treatment on already rotting tubers."
+      ]
+    },
+    "images": [
+      "https://thumbs.dreamstime.com/z/potato-tuber-diseases-comprehensive-look-blackleg-soft-rot-scab-late-blight-including-close-up-image-reveals-349414100.jpg",
+      "https://c8.alamy.com/comp/A61J14/bacterial-soft-rot-on-potato-tubers-A61J14.jpg"
+    ],
+    "confusableWith": [
+      "Leak Disease",
+      "Pink Rot"
+    ],
+    "nutshellPoints": [
+      "Rapid bacterial soft rot",
+      "Watery, foul-smelling tubers",
+      "Severe losses in storage"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "common-scab",
+    "name": "Common Scab",
+    "scientificName": "Streptomyces scabies",
+    "category": "bacterial",
+    "categoryIcon": "bacteria.svg",
+    "causeType": "Common scab is caused by soil-borne actinobacteria Streptomyces scabies. The bacteria infect tubers through lenticels or wounds, causing rough, corky lesions on the skin. While internal quality is usually unaffected, tuber appearance is damaged, reducing market value. Disease development is favored by dry soils and neutral to alkaline pH.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Raised, rough, corky lesions develop on tuber skin.",
+      "Lesions may be superficial or deep, covering part of the tuber surface.",
+      "No internal rot occurs; tuber flesh remains healthy.",
+      "Severe scab reduces commercial value for fresh markets.",
+      "Seed tubers with scab can spread the bacteria to new fields."
+    ],
+    "visualSigns": [
+      "Rough, corky tuber surface",
+      "Light brown to grayish lesions",
+      "No internal discoloration"
+    ],
+    "stageAffected": [
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Dry soils",
+      "Neutral to alkaline pH",
+      "Sandy or light-textured soils",
+      "Infested seed tubers"
+    ],
+    "spreadMethod": [
+      "soil",
+      "seed-tuber",
+      "tools"
+    ],
+    "prevention": [
+      "Use certified disease-free seed tubers.",
+      "Maintain slightly acidic soil pH (5.0–5.5).",
+      "Avoid planting in infested soils without crop rotation.",
+      "Irrigate to maintain moderate soil moisture during tuber formation."
+    ],
+    "treatment": [
+      "No curative treatment exists for common scab.",
+      "Preventive measures like irrigation and soil pH management are key.",
+      "Select resistant varieties if available."
+    ],
+    "control": {
+      "organicControl": [
+        "Incorporate organic matter to enhance soil microbial competition.",
+        "Avoid dry stress during tuber bulking.",
+        "Use composted material to reduce Streptomyces survival."
+      ],
+      "chemicalControl": [
+        "Chemical control is limited.",
+        "Focus on seed treatment with approved bactericides for field use if necessary."
+      ]
+    },
+    "images": [
+      "https://c8.alamy.com/comp/2G75T03/a-shallow-focus-of-a-potato-tuber-with-common-scab-diseases-in-potatoes-2G75T03.jpg"
+    ],
+    "confusableWith": [
+      "Black Scurf",
+      "Misshapen Tubers"
+    ],
+    "nutshellPoints": [
+      "Bacterial scab disease",
+      "Rough corky lesions on tuber skin",
+      "Internal tissue remains healthy"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "powdery-scab",
+    "name": "Powdery Scab",
+    "scientificName": "Spongospora subterranea f. sp. subterranea",
+    "category": "fungal",
+    "categoryIcon": "fungus.svg",
+    "causeType": "Powdery scab is caused by the soil-borne protozoan-like pathogen Spongospora subterranea f. sp. subterranea. It infects tubers through lenticels, forming pustules that release spores in a powdery mass. The pathogen survives in soil for many years and can also transmit potato mop-top virus (PMTV).",
+    "affectedPart": [
+      "tuber",
+      "root"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Small, raised pustules appear on tuber skin.",
+      "Lesions rupture to release powdery spores.",
+      "Tuber surface becomes rough and pitted.",
+      "Severely infected tubers have reduced marketability.",
+      "Root galls may also occur, affecting plant vigor."
+    ],
+    "visualSigns": [
+      "Powdery pustules on tuber skin",
+      "Pitted and roughened surface",
+      "Spore mass visible when lesions rupture"
+    ],
+    "stageAffected": [
+      "tuber-formation",
+      "vegetative",
+      "storage"
+    ],
+    "favorableConditions": [
+      "Wet soils during tuber formation",
+      "Cool temperatures (10–20°C)",
+      "Infested soil or infected seed tubers",
+      "Heavy clay soils retain moisture"
+    ],
+    "spreadMethod": [
+      "soil",
+      "seed-tuber",
+      "water",
+      "tools"
+    ],
+    "prevention": [
+      "Use disease-free seed tubers.",
+      "Rotate with non-host crops.",
+      "Avoid planting in heavily infested soils.",
+      "Improve drainage to reduce soil moisture."
+    ],
+    "treatment": [
+      "No curative treatment exists once tubers are infected.",
+      "Remove infected tubers to reduce inoculum.",
+      "Seed tubers can be treated with fungicides before planting."
+    ],
+    "control": {
+      "organicControl": [
+        "Solarize soil before planting to reduce pathogen load.",
+        "Use biocontrol agents to suppress Spongospora in soil.",
+        "Apply well-decomposed organic matter to improve soil health."
+      ],
+      "chemicalControl": [
+        "Treat seed tubers with fungicides effective against Spongospora.",
+        "Apply soil-applied fungicides in infested fields according to label recommendations."
+      ]
+    },
+    "images": [
+      "https://l450v.alamy.com/450v/2c89jaf/powdery-scab-spongospora-subterranea-fsp-subterranea-lesions-of-a-cercozoan-disease-on-a-washed-potato-tuber-2c89jaf.jpg",
+      "https://c8.alamy.com/comp/2BD27JK/a-cercozoan-disease-powdery-scab-spongospora-subterranea-on-a-cankerous-and-warty-potato-tuber-2BD27JK.jpg"
+    ],
+    "confusableWith": [
+      "Common Scab",
+      "Knobbiness"
+    ],
+    "nutshellPoints": [
+      "Fungal-like protozoan disease",
+      "Powdery pustules on tubers",
+      "Reduces market quality and can transmit PMTV"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "bacterial-wilt-brown-rot",
+    "name": "Bacterial Wilt (Brown Rot)",
+    "scientificName": "Ralstonia solanacearum",
+    "category": "bacterial",
+    "categoryIcon": "bacteria.svg",
+    "causeType": "Bacterial wilt, also called brown rot in potatoes, is caused by the soil-borne bacterium Ralstonia solanacearum. The pathogen enters tubers and stems through wounds or root systems, colonizes vascular tissues, and blocks water transport, causing wilting. The disease is favored by warm temperatures and poorly drained soils.",
+    "affectedPart": [
+      "tuber",
+      "stem",
+      "root",
+      "whole-plant"
+    ],
+    "severity": "very-high",
+    "commonness": "common",
+    "symptoms": [
+      "Initial wilting of lower leaves during warm periods of the day.",
+      "Progressive yellowing and collapse of entire plant.",
+      "Cut tubers show brown discoloration in vascular tissues, often with a foul odor.",
+      "Tubers may become soft internally and decay rapidly in storage.",
+      "Infected plants often die before tuber formation is complete."
+    ],
+    "visualSigns": [
+      "Brown vascular tissue inside tubers",
+      "Leaf wilting and yellowing",
+      "Foul smell from infected tubers"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation",
+      "storage"
+    ],
+    "favorableConditions": [
+      "Warm temperatures (25–35°C)",
+      "Poorly drained or waterlogged soils",
+      "High soil moisture",
+      "Contaminated seed tubers or tools"
+    ],
+    "spreadMethod": [
+      "soil",
+      "water",
+      "seed-tuber",
+      "tools"
+    ],
+    "prevention": [
+      "Use certified disease-free seed tubers.",
+      "Avoid planting in infested or waterlogged fields.",
+      "Practice crop rotation with non-host crops.",
+      "Sanitize tools and machinery before use."
+    ],
+    "treatment": [
+      "No curative treatment once infection occurs.",
+      "Remove and destroy infected plants immediately.",
+      "Ensure proper field drainage to reduce pathogen survival.",
+      "Store uninfected tubers under cool, dry conditions."
+    ],
+    "control": {
+      "organicControl": [
+        "Solarize soil or use organic amendments to reduce bacterial load.",
+        "Promote healthy soil microbiome with compost and beneficial microbes.",
+        "Implement sanitation of fields and storage to reduce inoculum."
+      ],
+      "chemicalControl": [
+        "Chemical control is limited; focus on seed treatment with bactericides where recommended.",
+        "Avoid chemical treatment on already infected plants or tubers."
+      ]
+    },
+    "images": [
+      "https://c8.alamy.com/comp/A61J10/bacterial-wilt-symptoms-on-potato-tuber-A61J10.jpg",
+      "https://apps.lucidcentral.org/pppw_v10/images/entities/potato_bacterial_wilt_race_3_biovar_2_479/internal_tubers.jpg"
+    ],
+    "confusableWith": [
+      "Soft Rot",
+      "Leak Disease"
+    ],
+    "nutshellPoints": [
+      "Bacterial wilt caused by Ralstonia solanacearum",
+      "Brown vascular tissue and leaf wilting",
+      "Severe yield loss, favored by warm wet soils"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "ring-rot",
+    "name": "Ring Rot",
+    "scientificName": "Clavibacter michiganensis subsp. sepedonicus",
+    "category": "bacterial",
+    "categoryIcon": "bacteria.svg",
+    "causeType": "Ring rot is caused by the Gram-positive bacterium Clavibacter michiganensis subsp. sepedonicus. It infects tubers through wounds, lenticels, or vascular connections, colonizing xylem vessels. The disease spreads slowly and causes internal browning, leading to tuber decay and wilting in severe cases. Seed tubers are the primary source of infection.",
+    "affectedPart": [
+      "tuber",
+      "stem",
+      "root"
+    ],
+    "severity": "high",
+    "commonness": "rare",
+    "symptoms": [
+      "Vascular ring of brown discoloration inside tubers.",
+      "Progressive yellowing and wilting of foliage.",
+      "Tubers may become soft and hollow internally.",
+      "Severely infected plants die before harvest.",
+      "Tuber surfaces often appear normal initially."
+    ],
+    "visualSigns": [
+      "Brown ring in tuber vascular tissue",
+      "Wilting leaves",
+      "Soft internal tuber tissue"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation",
+      "storage"
+    ],
+    "favorableConditions": [
+      "Temperate climates",
+      "Contaminated seed tubers",
+      "Mechanical injury during harvest",
+      "Poor sanitation in storage"
+    ],
+    "spreadMethod": [
+      "seed-tuber",
+      "tools",
+      "soil",
+      "handling"
+    ],
+    "prevention": [
+      "Use certified disease-free seed tubers.",
+      "Disinfect tools and machinery before use.",
+      "Avoid mechanical injuries to tubers.",
+      "Implement strict hygiene in storage facilities."
+    ],
+    "treatment": [
+      "No curative treatment once infection occurs.",
+      "Destroy infected tubers to prevent spread.",
+      "Ensure clean storage and field sanitation.",
+      "Quarantine infested fields to prevent introduction to new areas."
+    ],
+    "control": {
+      "organicControl": [
+        "Improve soil health to suppress bacterial survival.",
+        "Use crop rotation with non-host crops.",
+        "Remove and compost plant debris carefully to prevent bacterial buildup."
+      ],
+      "chemicalControl": [
+        "Limited chemical options; seed treatment with bactericides may reduce risk.",
+        "Focus primarily on hygiene and preventive measures."
+      ]
+    },
+    "images": [
+      "https://tse4.mm.bing.net/th/id/OIP.7uy1snYXVcieXKtqSAVJrgHaE5?pid=Api&P=0&h=180",
+      "https://www.alamy.com/cross-section-of-potato-tuber-showing-symptons-of-ring-rot-corynebacterium-image2383589.html?imageid=F7115058-82FE-44D2-84C3-41BD64306C45&pn=1&searchId=2d81d7654180115582120ff79dcba12a&searchtype=0"
+    ],
+    "confusableWith": [
+      "Bacterial Wilt",
+      "Soft Rot"
+    ],
+    "nutshellPoints": [
+      "Bacterial tuber and stem disease",
+      "Brown vascular ring in tubers",
+      "Seed tubers are main source of infection"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "tuber-necrosis-pvy",
+    "name": "Tuber Necrosis (PVY related)",
+    "scientificName": "Potato Virus Y (PVY)",
+    "category": "viral",
+    "categoryIcon": "virus.svg",
+    "causeType": "Tuber necrosis is a physiological disorder caused by Potato Virus Y (PVY). The virus infects the plant systemically, and certain strains induce necrotic patches in tubers. Infection occurs through aphid vectors and contaminated seed tubers. Necrotic areas reduce tuber quality and marketability.",
+    "affectedPart": [
+      "tuber",
+      "leaf",
+      "stem"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Necrotic patches or spots develop internally in tubers.",
+      "External skin may show rough, discolored areas in severe cases.",
+      "Leaves may show mosaic or mottling patterns.",
+      "Plants are often stunted and yield is reduced.",
+      "Necrosis is especially severe in potato varieties sensitive to PVY."
+    ],
+    "visualSigns": [
+      "Internal brown necrotic spots in tubers",
+      "Leaf mosaic or mottling",
+      "Stunted growth"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation",
+      "storage"
+    ],
+    "favorableConditions": [
+      "High aphid populations",
+      "Warm growing conditions",
+      "Contaminated seed tubers",
+      "Stress conditions increase severity"
+    ],
+    "spreadMethod": [
+      "aphids",
+      "seed-tuber",
+      "handling"
+    ],
+    "prevention": [
+      "Use PVY-free certified seed tubers.",
+      "Control aphid populations in the field.",
+      "Rogue and destroy infected plants promptly.",
+      "Avoid mechanical transmission via tools."
+    ],
+    "treatment": [
+      "No curative treatment once infection occurs.",
+      "Remove and destroy infected plants.",
+      "Prevent secondary spread by controlling vectors.",
+      "Use virus-free seed for next crop cycles."
+    ],
+    "control": {
+      "organicControl": [
+        "Encourage natural aphid predators to reduce vector populations.",
+        "Use reflective mulches to deter aphids.",
+        "Practice rogueing and proper field sanitation."
+      ],
+      "chemicalControl": [
+        "Apply approved insecticides to reduce aphid vectors.",
+        "Seed tubers can be treated with certified systemic virus-control agents where allowed.",
+        "Focus on preventive management rather than cure."
+      ]
+    },
+    "images": [
+      "https://vegpath.plantpath.wisc.edu/wp-content/uploads/sites/210/2025/09/hollow-heart-768x417.png"
+    ],
+    "confusableWith": [
+      "Internal Necrosis",
+      "Mosaic Disease"
+    ],
+    "nutshellPoints": [
+      "PVY virus-induced tuber necrosis",
+      "Internal brown patches in tubers",
+      "Spread via aphids and infected seed"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "internal-necrosis",
+    "name": "Internal Necrosis",
+    "scientificName": "Physiological / virus-induced",
+    "category": "physiological",
+    "categoryIcon": "tuber_warning.svg",
+    "causeType": "Internal necrosis is a physiological or virus-induced tuber disorder resulting in brown or black necrotic patches inside the tuber. Causes include stress conditions (water or nutrient deficiency), PVY infection, or combination of virus and environmental factors. It reduces market value but may not be externally visible.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Dark brown or black patches inside tubers.",
+      "Skin may remain normal externally.",
+      "Necrotic tissue is dry and firm.",
+      "Yield may be reduced if infection is systemic.",
+      "Affected tubers have lower processing quality."
+    ],
+    "visualSigns": [
+      "Internal brown or black patches",
+      "Normal external skin",
+      "Firm necrotic tissue"
+    ],
+    "stageAffected": [
+      "tuber-formation",
+      "storage"
+    ],
+    "favorableConditions": [
+      "Water stress during tuber bulking",
+      "Nutrient deficiencies, especially calcium and magnesium",
+      "Virus infections like PVY",
+      "High temperature fluctuations"
+    ],
+    "spreadMethod": [
+      "seed-tuber",
+      "environmental stress"
+    ],
+    "prevention": [
+      "Maintain balanced irrigation and nutrients.",
+      "Use virus-free seed tubers.",
+      "Harvest tubers at optimal maturity.",
+      "Avoid stress conditions during tuber bulking."
+    ],
+    "treatment": [
+      "Cannot reverse necrosis once formed.",
+      "Sort affected tubers for processing or discard.",
+      "Ensure proper storage to prevent secondary decay."
+    ],
+    "control": {
+      "organicControl": [
+        "Mulching and soil organic matter to buffer environmental stress.",
+        "Crop rotation and stress mitigation in field."
+      ],
+      "chemicalControl": [
+        "No chemical treatment for existing internal necrosis.",
+        "Focus on nutrient management to prevent recurrence."
+      ]
+    },
+    "images": [
+      "https://vegpath.plantpath.wisc.edu/wp-content/uploads/sites/210/2025/09/hollow-heart-768x417.png"
+    ],
+    "confusableWith": [
+      "Tuber Necrosis (PVY)",
+      "Black Heart"
+    ],
+    "nutshellPoints": [
+      "Internal tuber necrotic patches",
+      "Caused by stress or PVY",
+      "External skin often normal"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "potato-tuber-moth",
+    "name": "Potato Tuber Moth",
+    "scientificName": "Phthorimaea operculella",
+    "category": "insect",
+    "categoryIcon": "insect.svg",
+    "causeType": "Potato tuber moth is an insect pest. The larvae feed on leaves, stems, and especially tubers, creating tunnels and galleries. Adult moths lay eggs on foliage and soil near tubers. The pest is favored by warm conditions, poor storage, and open-field tubers. Infestation reduces yield, tuber quality, and makes tubers prone to secondary infections.",
+    "affectedPart": [
+      "tuber",
+      "leaf",
+      "stem"
+    ],
+    "severity": "high",
+    "commonness": "common",
+    "symptoms": [
+      "Larval feeding produces tunnels in tubers, often filled with frass.",
+      "Leaves show irregular holes and skeletonization.",
+      "Stems may be bored or weakened by larval feeding.",
+      "Tuber infestations promote secondary fungal or bacterial infections.",
+      "Storage losses are significant if tubers are infested before storage."
+    ],
+    "visualSigns": [
+      "Tunnels in tubers",
+      "Frass deposits inside tubers",
+      "Leaf and stem damage by larvae",
+      "Presence of adult moths on plants"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation",
+      "storage"
+    ],
+    "favorableConditions": [
+      "Warm, dry climates",
+      "Exposed or shallow tubers",
+      "Poor storage hygiene",
+      "Lack of natural predators"
+    ],
+    "spreadMethod": [
+      "insect",
+      "handling",
+      "storage"
+    ],
+    "prevention": [
+      "Cover tubers during field storage.",
+      "Harvest early or deep to reduce exposure.",
+      "Maintain clean storage areas.",
+      "Encourage natural predators such as parasitoid wasps."
+    ],
+    "treatment": [
+      "Apply approved insecticides on foliage and soil before harvest.",
+      "Treat stored tubers with appropriate fumigants or insecticides.",
+      "Monitor and remove infested tubers promptly.",
+      "Rotate crops to reduce pest buildup in fields."
+    ],
+    "control": {
+      "organicControl": [
+        "Use biocontrol agents such as Bacillus thuringiensis (Bt) against larvae.",
+        "Install pheromone traps to monitor and reduce adult moths.",
+        "Ensure deep planting and mulching to protect tubers."
+      ],
+      "chemicalControl": [
+        "Apply foliar or soil insecticides effective against potato tuber moth.",
+        "Treat stored tubers with approved chemicals to prevent infestation during storage.",
+        "Follow label instructions to prevent resistance and environmental damage."
+      ]
+    },
+    "images": [
+      "https://apps.lucidcentral.org/pppw_v11/images/entities/potato_tuber_moth_298/thumbs/tubertunnel_sml.jpg",
+      "https://www.cropscience.bayer.co.nz/-/media/bcs-inter/ws_newzealand/pests/insects/potato-tuber-mouth/potato-tube-rmoth-damage-small.jpg?h=299&w=448&la=en&hash=E0722FBD624E4A7C19A26E6FCCA91BA6"
+    ],
+    "confusableWith": [
+      "Cutworms",
+      "Flea Beetles"
+    ],
+    "nutshellPoints": [
+      "Insect pest damaging tubers, leaves, and stems",
+      "Larval tunneling causes yield and storage loss",
+      "Favored by warm conditions and poor storage"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "wireworms",
+    "name": "Wireworms",
+    "scientificName": "Agriotes spp.",
+    "category": "insect",
+    "categoryIcon": "insect.svg",
+    "causeType": "Wireworms are the larval stage of click beetles (Agriotes spp.). They feed on underground parts of the potato plant, primarily tubers and roots, creating tunnels and holes. They thrive in fields with previous grass crops or high organic matter, and infestation can lead to secondary infections in tubers.",
+    "affectedPart": [
+      "tuber",
+      "root"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Small, deep holes or tunnels in tubers.",
+      "Stunted plant growth due to root feeding.",
+      "Surface tuber scarring and reduced market quality.",
+      "Secondary fungal or bacterial infections may develop in damaged areas.",
+      "Infestation is patchy, often appearing in hotspots in the field."
+    ],
+    "visualSigns": [
+      "Tunnels in tubers",
+      "Wireworm larvae in soil",
+      "Scarring on tuber surface"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation",
+      "storage"
+    ],
+    "favorableConditions": [
+      "Fields previously under grass or cereals",
+      "High organic matter content",
+      "Moist soils",
+      "Mild climates"
+    ],
+    "spreadMethod": [
+      "soil",
+      "contaminated seed-tuber",
+      "field equipment"
+    ],
+    "prevention": [
+      "Rotate crops with non-host crops like legumes.",
+      "Avoid planting potatoes after grass-heavy crops.",
+      "Inspect seed tubers before planting.",
+      "Maintain good field hygiene and plow deeply to expose larvae."
+    ],
+    "treatment": [
+      "Apply approved soil insecticides before planting in heavily infested fields.",
+      "Remove and destroy severely damaged tubers.",
+      "Encourage natural predators like ground beetles to reduce wireworm populations."
+    ],
+    "control": {
+      "organicControl": [
+        "Introduce entomopathogenic nematodes or fungi that target wireworms.",
+        "Maintain healthy soil microbiome to suppress pest survival.",
+        "Mechanical soil disturbance (plowing) to expose larvae to predators."
+      ],
+      "chemicalControl": [
+        "Apply soil-applied insecticides before planting.",
+        "Treat seed tubers with approved insecticidal coatings.",
+        "Rotate chemicals to prevent resistance development."
+      ]
+    },
+    "images": [
+      "https://pestadvisories.usu.edu/wp-content/uploads/2019/09/potato_wireworm_06_zoom.jpg",
+      "https://gardenerspath.com/wp-content/uploads/2024/04/Wireworm-in-a-Potato.jpg"
+    ],
+    "confusableWith": [
+      "White Grubs",
+      "Cutworms"
+    ],
+    "nutshellPoints": [
+      "Soil-borne larval pest of potatoes",
+      "Tunnels in tubers and roots",
+      "Promotes secondary infections"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "cutworms",
+    "name": "Cutworms",
+    "scientificName": "Agrotis spp.",
+    "category": "insect",
+    "categoryIcon": "insect.svg",
+    "causeType": "Cutworms are nocturnal larvae of several moth species (Agrotis spp.) that feed on potato stems at or near soil level and on tubers underground. They damage seedlings and young plants, severing stems or creating shallow tunnels in tubers. Infestation is favored by warm soil, high moisture, and fields with grassy residues.",
+    "affectedPart": [
+      "tuber",
+      "stem",
+      "root"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Seedlings or young plants cut off at soil level.",
+      "Shallow tunnels or holes in tubers.",
+      "Stunted plant growth or plant death.",
+      "Patchy field damage with irregular clusters of affected plants.",
+      "Secondary rot may occur in damaged tubers during storage."
+    ],
+    "visualSigns": [
+      "Plants cut at soil level",
+      "Larvae hiding under soil near damaged plants",
+      "Shallow tunnels in tubers"
+    ],
+    "stageAffected": [
+      "seedling",
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Warm, moist soil",
+      "Fields with grassy residues",
+      "Nighttime activity of larvae",
+      "Nocturnal feeding reduces early detection"
+    ],
+    "spreadMethod": [
+      "soil",
+      "field residues",
+      "equipment"
+    ],
+    "prevention": [
+      "Remove weeds and grassy residues before planting.",
+      "Avoid late planting in warm, infested fields.",
+      "Use barriers or collars around seedlings if practical.",
+      "Rotate crops with non-host plants."
+    ],
+    "treatment": [
+      "Apply approved insecticides targeting cutworms during active periods.",
+      "Manually remove larvae in small plots.",
+      "Use bait traps to monitor and reduce populations."
+    ],
+    "control": {
+      "organicControl": [
+        "Introduce entomopathogenic nematodes or fungi that target cutworms.",
+        "Use hand-picking and soil disturbance to expose larvae.",
+        "Maintain natural predator populations (birds, beetles)."
+      ],
+      "chemicalControl": [
+        "Apply soil or foliar insecticides approved for cutworm control.",
+        "Treat seedbeds with insecticidal dusts or granules.",
+        "Follow integrated pest management (IPM) guidelines to prevent resistance."
+      ]
+    },
+    "images": [
+      "https://www.researchgate.net/publication/337741993/figure/fig10/AS:832434836885510@1575479339185/Cutworm-larval-damage-on-potato-tuber-a-and-freshly-cut-potato-plant-b-Cutworm.ppm",
+      "https://www.researchgate.net/publication/337741993/figure/fig3/AS:832434832691201@1575479338659/Adult-of-Premnotrypes-suturicallus-a-male-left-female-right-and-symptoms-of-weevil_Q640.jpg"
+    ],
+    "confusableWith": [
+      "Wireworms",
+      "Flea Beetles"
+    ],
+    "nutshellPoints": [
+      "Nocturnal larvae feeding on stems and tubers",
+      "Seedling death and shallow tuber damage",
+      "Patchy field infestation"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "white-grubs",
+    "name": "White Grubs",
+    "scientificName": "Phyllophaga / Holotrichia spp.",
+    "category": "insect",
+    "categoryIcon": "insect.svg",
+    "causeType": "White grubs are the larval stage of scarab beetles (Phyllophaga spp. or Holotrichia spp.). They feed on potato tubers and roots, creating tunnels and irregular feeding damage. They prefer sandy soils with high organic content. Severe infestations lead to stunted plants and secondary infections in storage.",
+    "affectedPart": [
+      "tuber",
+      "root"
+    ],
+    "severity": "medium",
+    "commonness": "occasional",
+    "symptoms": [
+      "Tubers with deep holes and tunnels.",
+      "Roots partially consumed, leading to poor plant vigor.",
+      "Irregular patches of stunted or dying plants in the field.",
+      "Damage predisposes tubers to fungal and bacterial rots.",
+      "Larvae can survive in soil for multiple seasons."
+    ],
+    "visualSigns": [
+      "C-shaped white larvae in soil",
+      "Tunnels in tubers",
+      "Root damage and stunted plants"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation",
+      "storage"
+    ],
+    "favorableConditions": [
+      "Sandy, loose soils",
+      "High organic matter",
+      "Moist soil",
+      "Fields with previous grass or cereal crops"
+    ],
+    "spreadMethod": [
+      "soil",
+      "contaminated seed-tuber",
+      "equipment"
+    ],
+    "prevention": [
+      "Rotate crops with non-host plants.",
+      "Plow fields to expose larvae to predators.",
+      "Avoid planting potatoes after grass-heavy crops.",
+      "Inspect seed tubers before planting."
+    ],
+    "treatment": [
+      "Apply approved soil insecticides for grub control before planting.",
+      "Remove heavily infested tubers.",
+      "Encourage natural predators to reduce larval populations."
+    ],
+    "control": {
+      "organicControl": [
+        "Introduce entomopathogenic nematodes targeting grubs.",
+        "Mechanical soil disturbance to expose larvae.",
+        "Promote bird activity in fields to feed on larvae."
+      ],
+      "chemicalControl": [
+        "Soil-applied insecticides prior to planting or at early growth stages.",
+        "Treat seed tubers with approved insecticidal coatings.",
+        "Follow IPM principles to prevent resistance."
+      ]
+    },
+    "images": [
+      "https://www.epicgardening.com/wp-content/uploads/2023/05/grub-larva-eats-potatoes.jpeg",
+      "https://www.researchgate.net/publication/350330824/figure/fig3/AS:1008440654696451@1617442396713/White-grub-infestation-on-potato-tuber-ib-skardu-baltistan.png"
+    ],
+    "confusableWith": [
+      "Wireworms",
+      "Cutworms"
+    ],
+    "nutshellPoints": [
+      "Soil-borne larval pest",
+      "Feeds on tubers and roots",
+      "Promotes secondary infections"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "root-knot-nematode",
+    "name": "Root-Knot Nematode",
+    "scientificName": "Meloidogyne spp.",
+    "category": "nematode",
+    "categoryIcon": "nematode.svg",
+    "causeType": "Root-knot nematodes (Meloidogyne spp.) are microscopic roundworms that attack potato roots. They invade root tissue, causing galls or knots, disrupting water and nutrient transport. Infested plants show stunted growth, reduced yield, and are more susceptible to secondary infections.",
+    "affectedPart": [
+      "root"
+    ],
+    "severity": "high",
+    "commonness": "common",
+    "symptoms": [
+      "Formation of galls or swellings on roots.",
+      "Stunted plant growth and reduced vigor.",
+      "Yellowing of leaves due to impaired nutrient uptake.",
+      "Patchy field infestations where nematode population is high.",
+      "Tubers may be smaller due to root damage."
+    ],
+    "visualSigns": [
+      "Galls on roots",
+      "Stunted plants",
+      "Yellowing foliage"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Sandy or light-textured soils",
+      "Warm soil temperatures",
+      "Moist but well-drained soils",
+      "Continuous potato cultivation"
+    ],
+    "spreadMethod": [
+      "soil",
+      "contaminated seed-tuber",
+      "tools",
+      "water"
+    ],
+    "prevention": [
+      "Rotate crops with non-host crops like cereals or legumes.",
+      "Use nematode-free seed tubers.",
+      "Avoid movement of contaminated soil between fields.",
+      "Maintain healthy soil with organic amendments."
+    ],
+    "treatment": [
+      "Apply approved nematicides pre-planting in infested fields.",
+      "Remove and destroy heavily infested plants.",
+      "Solarize soil in small plots to reduce nematode populations."
+    ],
+    "control": {
+      "organicControl": [
+        "Use nematode-suppressive crops or trap crops.",
+        "Incorporate organic matter to promote nematode-suppressive soil microbes.",
+        "Apply biocontrol agents such as Paecilomyces lilacinus."
+      ],
+      "chemicalControl": [
+        "Apply nematicides according to label instructions.",
+        "Seed tubers may be treated with nematicidal coatings.",
+        "Combine chemical control with crop rotation for long-term management."
+      ]
+    },
+    "images": [
+      "https://tse2.mm.bing.net/th/id/OIP.67CkJSWzyeH-wrW95BYfAAHaE0?pid=Api&P=0&h=180",
+      "https://www.researchgate.net/profile/Mahfouz-Abd-Elgawad/publication/346019655/figure/fig1/AS:988911455182850@1612786272749/sible-nematode-galls-on-two-potato-tubers-induced-by-root-knot-nematode-Meloidogyne.png"
+    ],
+    "confusableWith": [
+      "Cyst Nematode"
+    ],
+    "nutshellPoints": [
+      "Soil-borne nematode attacking roots",
+      "Causes galls, stunting, and reduced yield",
+      "Promotes secondary infections"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "cyst-nematode",
+    "name": "Cyst Nematode",
+    "scientificName": "Globodera rostochiensis / Globodera pallida",
+    "category": "nematode",
+    "categoryIcon": "nematode.svg",
+    "causeType": "Potato cyst nematodes are soil-borne parasitic roundworms (Globodera spp.) that invade potato roots, forming cysts containing eggs. Infection reduces plant vigor, stunts growth, and decreases tuber yield. Cysts can survive in soil for many years, making the pest difficult to eradicate.",
+    "affectedPart": [
+      "root"
+    ],
+    "severity": "high",
+    "commonness": "occasional",
+    "symptoms": [
+      "Yellowing and wilting of leaves.",
+      "Stunted and poorly developed plants.",
+      "Roots show small cysts (white to brown) attached externally.",
+      "Patchy infestations with low-density plant growth.",
+      "Reduced tuber size and yield."
+    ],
+    "visualSigns": [
+      "Cysts on roots",
+      "Stunted plants",
+      "Yellowing foliage"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Sandy or light-textured soils",
+      "Temperate climates",
+      "Continuous potato cultivation",
+      "Infested seed tubers"
+    ],
+    "spreadMethod": [
+      "soil",
+      "seed-tuber",
+      "tools",
+      "water"
+    ],
+    "prevention": [
+      "Plant cyst-nematode-free seed tubers.",
+      "Rotate crops with non-host plants for 3–4 years.",
+      "Avoid transferring contaminated soil to clean fields.",
+      "Monitor fields regularly for nematode presence."
+    ],
+    "treatment": [
+      "Apply approved nematicides to infested soil pre-planting.",
+      "Remove and destroy heavily infested plants.",
+      "Solarize small plots to reduce nematode populations."
+    ],
+    "control": {
+      "organicControl": [
+        "Use trap crops like Solanaceae species that induce cyst hatching without supporting development.",
+        "Enhance soil microbial activity with organic amendments to suppress nematodes.",
+        "Avoid monoculture and maintain crop rotation."
+      ],
+      "chemicalControl": [
+        "Apply soil-applied nematicides according to recommended doses.",
+        "Treat seed tubers with nematicidal coatings if permitted.",
+        "Combine chemical application with long-term preventive practices."
+      ]
+    },
+    "images": [
+      "https://c8.alamy.com/comp/B00F8G/pale-or-yellow-potato-cyst-nematode-heterodera-pallida-cysts-on-a-B00F8G.jpg",
+      "https://www.alamy.com/aggregator-api/download?url=https://c8.alamy.com/comp/BHCB5A/pale-or-yellow-potato-cyst-nematode-heterodera-pallida-cysts-on-a-BHCB5A.jpg"
+    ],
+    "confusableWith": [
+      "Root-Knot Nematode"
+    ],
+    "nutshellPoints": [
+      "Soil-borne parasitic nematode",
+      "Forms cysts on roots, stunting plants",
+      "Long-term soil survival, reduces yield"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "sprouting",
+    "name": "Sprouting",
+    "scientificName": "Physiological (Dormancy Breakage)",
+    "category": "physiological",
+    "categoryIcon": "tuber_warning.svg",
+    "causeType": "Sprouting occurs when dormant tubers break dormancy and initiate growth of shoots. This is triggered by high storage temperatures, long storage duration, or hormonal imbalance (cytokinins and gibberellins). Sprouting reduces tuber quality, weight, and marketability.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "medium",
+    "commonness": "very-common",
+    "symptoms": [
+      "Emergence of small green or white shoots from eyes.",
+      "Reduction in starch content as sprouting consumes stored nutrients.",
+      "Tuber becomes lighter and softer over time.",
+      "Secondary fungal or bacterial infections may develop at sprout bases.",
+      "Prolonged sprouting leads to complete loss of commercial value."
+    ],
+    "visualSigns": [
+      "Visible shoots from tuber eyes",
+      "Softening tuber tissue near sprouts",
+      "Slight discoloration around sprouting areas"
+    ],
+    "stageAffected": [
+      "storage"
+    ],
+    "favorableConditions": [
+      "Warm storage temperatures (>12°C)",
+      "High humidity",
+      "Long storage duration",
+      "Exposure to light"
+    ],
+    "spreadMethod": [
+      "storage conditions",
+      "temperature fluctuations"
+    ],
+    "prevention": [
+      "Store tubers at cool temperatures (4–10°C) in dark, ventilated conditions.",
+      "Use sprout inhibitors if permitted (e.g., chlorpropham).",
+      "Select cultivars with longer dormancy periods."
+    ],
+    "treatment": [
+      "Remove sprouted tubers for immediate processing or consumption.",
+      "Apply safe sprout-inhibiting treatments according to regulations.",
+      "Refrigerate tubers to slow sprouting progression."
+    ],
+    "control": {
+      "organicControl": [
+        "Maintain cool, dark, and well-ventilated storage.",
+        "Use natural sprout retardants like essential oils in experimental setups.",
+        "Store tubers on breathable surfaces to reduce moisture accumulation."
+      ],
+      "chemicalControl": [
+        "Use approved chemical sprout inhibitors (e.g., CIPC) following regulatory guidelines.",
+        "Avoid overuse and ensure proper ventilation after chemical application."
+      ]
+    },
+    "images": [
+      "images/sprouting.jpg"
+    ],
+    "confusableWith": [
+      "Secondary Growth"
+    ],
+    "nutshellPoints": [
+      "Breakage of tuber dormancy",
+      "Sprouts from eyes",
+      "Reduces starch and market value"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "shriveling",
+    "name": "Shriveling",
+    "scientificName": "Physiological (Moisture Loss)",
+    "category": "physiological",
+    "categoryIcon": "tuber_warning.svg",
+    "causeType": "Shriveling occurs due to excessive water loss from tubers during storage. It results from low humidity, poor storage ventilation, or prolonged storage. Shriveling reduces tuber weight, firmness, and visual quality.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Tuber surface becomes wrinkled and shrunken.",
+      "Weight loss due to dehydration.",
+      "Firmness decreases, making tubers soft or rubbery.",
+      "Visual appeal is reduced, affecting marketability.",
+      "Severe shriveling can make tubers unfit for processing."
+    ],
+    "visualSigns": [
+      "Wrinkled tuber surface",
+      "Reduced size and weight",
+      "Softened tissue"
+    ],
+    "stageAffected": [
+      "storage"
+    ],
+    "favorableConditions": [
+      "Low storage humidity (<85%)",
+      "High temperature storage (>15°C)",
+      "Prolonged storage",
+      "Airflow causing desiccation"
+    ],
+    "spreadMethod": [
+      "storage conditions"
+    ],
+    "prevention": [
+      "Maintain moderate humidity (85–90%) in storage.",
+      "Avoid excessive ventilation that dries tubers.",
+      "Store tubers on ventilated but moisture-conserving platforms."
+    ],
+    "treatment": [
+      "Rehydrate shriveled tubers by increasing storage humidity slightly.",
+      "Use affected tubers quickly for processing or consumption.",
+      "Avoid further weight loss by separating severely shriveled tubers."
+    ],
+    "control": {
+      "organicControl": [
+        "Use humidity-retaining storage materials (e.g., straw or sawdust).",
+        "Regularly monitor storage humidity and temperature.",
+        "Group tubers to reduce surface exposure to air currents."
+      ],
+      "chemicalControl": [
+        "No chemical treatment; focus on preventive environmental management."
+      ]
+    },
+    "images": [
+      "images/shriveling.jpg"
+    ],
+    "confusableWith": [
+      "Pressure Bruising",
+      "Freezing Injury"
+    ],
+    "nutshellPoints": [
+      "Dehydration of tubers",
+      "Wrinkled surface and weight loss",
+      "Caused by low humidity and warm storage"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "mechanical-damage",
+    "name": "Mechanical Damage",
+    "scientificName": "Physical Injury",
+    "category": "physiological",
+    "categoryIcon": "tuber_warning.svg",
+    "causeType": "Mechanical damage occurs due to physical impact or pressure during harvesting, transport, or handling. It leads to cuts, bruises, or broken tubers, which can predispose tubers to secondary infections by fungi or bacteria.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Visible cuts, cracks, or bruises on tuber surface.",
+      "Softened tissue under damaged areas.",
+      "Tuber may rot faster if secondary infection occurs.",
+      "Discoloration near impact zones.",
+      "Reduction in market value and storability."
+    ],
+    "visualSigns": [
+      "Cuts, cracks, and bruises",
+      "Discoloration at damage site",
+      "Softened or crushed tissue"
+    ],
+    "stageAffected": [
+      "tuber-formation",
+      "storage",
+      "handling"
+    ],
+    "favorableConditions": [
+      "Rough handling during harvest or transport",
+      "Heavy machinery or dropping tubers",
+      "Stacking under high pressure",
+      "Inadequate cushioning in storage"
+    ],
+    "spreadMethod": [
+      "handling",
+      "transport",
+      "storage"
+    ],
+    "prevention": [
+      "Handle tubers gently during harvest and transport.",
+      "Use padded containers and avoid overloading.",
+      "Train labor on careful handling.",
+      "Minimize mechanical contact with tubers."
+    ],
+    "treatment": [
+      "Sort damaged tubers and process immediately to reduce losses.",
+      "Apply fungicidal dusts or protective coatings to minimize secondary infections.",
+      "Separate severely damaged tubers from healthy ones."
+    ],
+    "control": {
+      "organicControl": [
+        "Use cushioning materials like straw, sawdust, or mesh crates during storage and transport.",
+        "Minimize handling and maintain gentle workflows."
+      ],
+      "chemicalControl": [
+        "Apply protective fungicides or wound sealants on minor cuts if permitted."
+      ]
+    },
+    "images": [
+      "images/mechanical_damage.jpg"
+    ],
+    "confusableWith": [
+      "Pressure Bruising",
+      "Freezing Injury"
+    ],
+    "nutshellPoints": [
+      "Physical injury from handling or harvest",
+      "Cuts, bruises, cracks",
+      "Predisposes to secondary infection"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "pressure-bruising",
+    "name": "Pressure Bruising",
+    "scientificName": "Physical Injury",
+    "category": "physiological",
+    "categoryIcon": "tuber_warning.svg",
+    "causeType": "Pressure bruising occurs when tubers are subjected to prolonged or concentrated weight or pressure, often during storage or stacking. Unlike mechanical cuts, bruising causes internal tissue damage without breaking the skin. Bruised areas may later darken or rot.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Discoloration of internal tissue, often dark brown or black.",
+      "Skin remains intact but may be slightly indented.",
+      "Soft spots develop internally.",
+      "Affected tubers are more susceptible to secondary infection.",
+      "Marketability is reduced due to hidden defects."
+    ],
+    "visualSigns": [
+      "Darkened internal tissue",
+      "Slight skin indentation",
+      "Soft internal spots"
+    ],
+    "stageAffected": [
+      "storage",
+      "handling"
+    ],
+    "favorableConditions": [
+      "Heavy stacking in storage",
+      "Long-duration storage without rotation",
+      "Tubers under pressure from machinery or containers"
+    ],
+    "spreadMethod": [
+      "handling",
+      "storage pressure"
+    ],
+    "prevention": [
+      "Store tubers with moderate stacking to prevent weight concentration.",
+      "Use ventilated and cushioned storage trays.",
+      "Rotate tubers during long-term storage."
+    ],
+    "treatment": [
+      "Sort and remove heavily bruised tubers.",
+      "Use minor bruised tubers for immediate processing.",
+      "Ensure proper storage to prevent worsening."
+    ],
+    "control": {
+      "organicControl": [
+        "Cushion tubers using straw, sawdust, or mesh trays.",
+        "Avoid prolonged pressure during storage or transport."
+      ],
+      "chemicalControl": [
+        "No chemical treatment; focus on handling and storage management."
+      ]
+    },
+    "images": [
+      "https://spudsmart.com/wp-content/uploads/2019/09/PB-1-427x320.jpg",
+      "https://ephytia.inra.fr/en/Images/view/32032"
+    ],
+    "confusableWith": [
+      "Mechanical Damage",
+      "Freezing Injury"
+    ],
+    "nutshellPoints": [
+      "Internal tuber damage from prolonged pressure",
+      "Skin intact but tissue discolored",
+      "Leads to secondary decay"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "secondary-growth",
+    "name": "Secondary Growth",
+    "scientificName": "Physiological (Hormonal Imbalance)",
+    "category": "physiological",
+    "categoryIcon": "tuber_warning.svg",
+    "causeType": "Secondary growth occurs when tubers begin sprouting internally while still attached to the plant or in storage. It is often triggered by hormonal imbalance, delayed harvest, or excessive soil nitrogen. Secondary growth causes misshapen tubers and affects quality.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Tubers develop extra growths or elongated shapes.",
+      "Surface may crack or split as tuber expands irregularly.",
+      "Uneven maturation and reduced tuber uniformity.",
+      "Secondary growth may predispose tubers to infection.",
+      "Reduces marketability for fresh sale or processing."
+    ],
+    "visualSigns": [
+      "Elongated or misshapen tubers",
+      "Surface cracks",
+      "Irregular tuber size"
+    ],
+    "stageAffected": [
+      "tuber-formation",
+      "storage"
+    ],
+    "favorableConditions": [
+      "Excess nitrogen in soil",
+      "Delayed harvest",
+      "Excessive soil moisture",
+      "Hormonal imbalance in tubers"
+    ],
+    "spreadMethod": [
+      "storage",
+      "plant physiology"
+    ],
+    "prevention": [
+      "Harvest tubers at proper maturity.",
+      "Avoid over-fertilization with nitrogen.",
+      "Store tubers under cool conditions to prevent internal sprouting."
+    ],
+    "treatment": [
+      "Sort affected tubers for processing.",
+      "Avoid long storage of irregularly shaped tubers.",
+      "Use unaffected tubers for seed or fresh sale."
+    ],
+    "control": {
+      "organicControl": [
+        "Balance soil fertility to prevent excessive nitrogen.",
+        "Harvest on time and handle gently to avoid stress.",
+        "Monitor tuber development closely in the field."
+      ],
+      "chemicalControl": [
+        "No direct chemical treatment; management is cultural and physiological."
+      ]
+    },
+    "images": [
+      "https://c8.alamy.com/comp/A157T0/secondary-growth-of-a-potato-tuber-A157T0.jpg"
+    ],
+    "confusableWith": [
+      "Sprouting",
+      "Misshapen Tubers"
+    ],
+    "nutshellPoints": [
+      "Irregular tuber growth due to hormonal imbalance",
+      "Misshapen or elongated tubers",
+      "Triggered by delayed harvest or excess nitrogen"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "freezing-injury",
+    "name": "Freezing Injury",
+    "scientificName": "Physiological (Cold Stress)",
+    "category": "physiological",
+    "categoryIcon": "tuber_warning.svg",
+    "causeType": "Freezing injury occurs when tubers are exposed to sub-zero temperatures during storage or field frost events. Ice formation within tuber cells ruptures tissues, leading to cell death. Freezing injury predisposes tubers to secondary infection and quality loss.",
+    "affectedPart": [
+      "tuber"
+    ],
+    "severity": "high",
+    "commonness": "occasional",
+    "symptoms": [
+      "Tubers become hard and translucent initially.",
+      "Surface may crack as thawing occurs.",
+      "Discoloration inside tuber flesh (dark patches).",
+      "Increased susceptibility to fungal or bacterial rot.",
+      "Severe injury can render tubers unfit for consumption."
+    ],
+    "visualSigns": [
+      "Cracked or split tubers",
+      "Darkened internal tissue",
+      "Translucent or water-soaked appearance"
+    ],
+    "stageAffected": [
+      "storage",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Exposure to sub-zero temperatures",
+      "Poorly insulated storage",
+      "Sudden frost events in the field",
+      "Inadequate soil or storage cover"
+    ],
+    "spreadMethod": [
+      "environmental stress"
+    ],
+    "prevention": [
+      "Store tubers above freezing temperatures (preferably 4–10°C).",
+      "Use insulated storage or soil cover to protect tubers.",
+      "Avoid late planting in frost-prone areas."
+    ],
+    "treatment": [
+      "Remove and process affected tubers immediately.",
+      "Avoid prolonged storage of frost-damaged tubers.",
+      "Monitor for secondary rot and remove infected ones promptly."
+    ],
+    "control": {
+      "organicControl": [
+        "Mulch tubers in-field before frost events.",
+        "Use straw, sawdust, or insulating layers in storage.",
+        "Plant frost-tolerant cultivars if available."
+      ],
+      "chemicalControl": [
+        "No chemical remedy; focus on preventive storage and field protection."
+      ]
+    },
+    "images": [
+      "images/freezing_injury.jpg"
+    ],
+    "confusableWith": [
+      "Shriveling",
+      "Pressure Bruising"
+    ],
+    "nutshellPoints": [
+      "Tuber damage due to sub-zero temperatures",
+      "Internal tissue darkening and cracking",
+      "Leads to secondary rot and quality loss"
+    ],
+    "lastUpdated": "2026-01-13"
+  }
+]

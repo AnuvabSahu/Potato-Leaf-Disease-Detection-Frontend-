@@ -1,7 +1,10 @@
 const Auth=()=>{
     return(
-        <div>
-            Auth
+        <div className="flex justify-center items-center">
+            <div className="bg-pink-300">
+                <div></div>
+                <div></div>
+            </div>
         </div>
     );
 }

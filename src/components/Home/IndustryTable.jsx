@@ -2,8 +2,8 @@
 
 const IndustryTable = ({ item }) => {
     return (
-        <div className='w-7/12'>
-            <h2 className='text-2xl font-semibold text-center '>{item.title}</h2>
+        <div className='md:w-7/12 text-sm md:text-md'>
+            <h2 className='text-lg md:text-2xl font-semibold text-center '>{item.title}</h2>
             <div className="overflow-x-auto">
                 <table className="table table-zebra ">
                     {/* head */}

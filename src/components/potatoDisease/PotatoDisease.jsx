@@ -38,7 +38,7 @@ const PotatoDisease = () => {
             <div className="m-5 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-y-10 justify-items-center items-center ">
                 {
                     diseaseList.map((item, index) => (
-                        <div className="card bg-base-100 w-64 md:w-72 shadow-sm" key={index}>
+                        <div className="card bg-base-100 w-64 md:w-72 shadow-sm cursor-pointer hover:scale-95 transition-transform duration-200" key={index}>
                             <figure>
                                 <img
                                     src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"

@@ -1,0 +1,3471 @@
+[
+  {
+    "id": "late-blight",
+    "name": "Late Blight",
+    "scientificName": "Phytophthora infestans",
+    "category": "fungal",
+    "categoryIcon": "fungus.svg",
+    "causeType": "Caused by the oomycete pathogen Phytophthora infestans. It infects leaves, stems, and tubers by penetrating plant tissues through stomata or wounds, thriving in wet, humid conditions. The pathogen reproduces rapidly under cool, moist weather, producing sporangia that spread via wind, rain-splash, and contaminated seed tubers.",
+    "affectedPart": [
+      "leaf",
+      "stem",
+      "tuber"
+    ],
+    "severity": "very-high",
+    "commonness": "very-common",
+    "symptoms": [
+      "Initial infection appears as small, water-soaked, pale green or yellow lesions on the upper surface of leaves.",
+      "Lesions enlarge rapidly, turning brown with irregular edges, often surrounded by a pale yellow halo.",
+      "Underside of leaves may show white to gray fungal growth under moist conditions, especially at night or in the early morning.",
+      "Leaves may curl, wilt, and die quickly under severe infection.",
+      "Stems develop dark brown to black lesions, often girdling the stem and causing collapse of the above-ground portion.",
+      "Tubers show irregular, firm, brown to purplish lesions beneath the skin, which may expand internally, causing a foul-smelling rot in advanced stages.",
+      "Infected tubers may sprout poorly or not at all and can carry the pathogen into storage or the next season if used as seed."
+    ],
+    "visualSigns": [
+      "Brown irregular leaf spots with yellow halos",
+      "White fungal growth on leaf undersides",
+      "Black/brown lesions on stems",
+      "Rotting tubers with purplish-brown discoloration"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation",
+      "storage"
+    ],
+    "favorableConditions": [
+      "Cool temperatures (10–20°C)",
+      "High humidity (>90%)",
+      "Frequent rainfall or prolonged leaf wetness",
+      "Poorly drained soils"
+    ],
+    "spreadMethod": [
+      "air",
+      "rain-splash",
+      "seed-tuber",
+      "tools",
+      "soil"
+    ],
+    "prevention": [
+      "Use certified disease-free seed tubers",
+      "Plant resistant potato varieties",
+      "Avoid planting in poorly drained areas",
+      "Rotate crops with non-host species for at least 2 years",
+      "Ensure adequate plant spacing for air circulation",
+      "Remove and destroy infected plant debris after harvest"
+    ],
+    "treatment": [
+      "Immediately remove and destroy heavily infected leaves and stems by burning or deep burial to reduce spore load in the field.",
+      "Start fungicide application as soon as early symptoms appear; do not wait for severe infection as Late Blight spreads extremely fast.",
+      "Maintain a strict spray interval (5–7 days during high-risk weather) to continuously protect new plant growth.",
+      "Avoid overhead irrigation during active infection, as water splashes spread spores to healthy plants.",
+      "Harvest tubers only after foliage has completely died down to reduce tuber infection from infected leaves.",
+      "During storage, discard infected or wounded tubers and maintain cool, dry, well-ventilated conditions to prevent disease progression."
+    ],
+    "control": {
+      "organicControl": [
+        "Apply bio-fungicides containing Trichoderma harzianum or Trichoderma viride to suppress pathogen growth in soil and on plant surfaces.",
+        "Use Bacillus subtilis-based formulations that produce antifungal compounds and compete with the pathogen.",
+        "Spray neem oil or neem-based botanical extracts at early stages to reduce sporangia formation and surface infection.",
+        "Improve soil health using well-decomposed organic matter and compost to enhance beneficial microbial populations that naturally suppress disease.",
+        "Practice strict field sanitation by removing volunteer potato plants and destroying infected crop residues."
+      ],
+      "chemicalControl": [
+        "Apply protective contact fungicides such as mancozeb or chlorothalonil before disease onset to create a chemical barrier on leaf surfaces.",
+        "Use systemic fungicides like metalaxyl-M or fosetyl-Al when early infection is detected, allowing the chemical to move within plant tissues and stop disease development.",
+        "Rotate fungicides with different modes of action (contact + systemic) to prevent resistance development in Phytophthora infestans.",
+        "Increase spray frequency during cool, humid weather when disease pressure is high, especially during night-time dew formation.",
+        "Follow recommended dosage strictly and stop spraying well before harvest to avoid chemical residues on tubers."
+      ]
+    },
+    "images": [
+      "https://assets.syngenta.ca/images/pest/125/ca2024_potato_late_blight.png",
+      "https://blogs.cornell.edu/livegpath/files/2021/02/potatolb_upper_leafcux1200.jpg",
+      "https://vegpath.plantpath.wisc.edu/wp-content/uploads/sites/210/2021/02/potato-blight-leaf-lesions.png",
+      "https://storage.googleapis.com/kaggle-datasets-images/4374455/7510772/8b35cc13b3c3f3a1dcb3cccbd92ff731/dataset-card.jpg?t=2024-01-30-06-07-39",
+      "https://www.hutton.ac.uk/wp-content/uploads/2024/02/Blight-infected-Potato-plant-1024x671.jpg"
+    ],
+    "confusableWith": [
+      "Early Blight",
+      "Black Scurf"
+    ],
+    "nutshellPoints": [
+      "Most destructive potato disease worldwide",
+      "Spreads rapidly in cool, humid weather",
+      "Affects leaves, stems, and tubers",
+      "Can survive in infected seed tubers and crop debris"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "nitrogen-deficiency",
+    "name": "Nitrogen Deficiency",
+    "scientificName": "Nitrogen (N) Deficiency",
+    "category": "nutrient",
+    "categoryIcon": "nutrient.svg",
+    "causeType": "Caused by insufficient availability of nitrogen in the soil, often due to low soil organic matter, excessive rainfall leading to leaching, poor fertilizer management, or continuous cropping without replenishment. Nitrogen is essential for chlorophyll formation and vegetative growth, so deficiency directly affects leaf color, plant vigor, and yield.",
+    "affectedPart": [
+      "leaf",
+      "stem",
+      "whole-plant"
+    ],
+    "severity": "high",
+    "commonness": "very-common",
+    "symptoms": [
+      "Early symptoms appear as uniform pale green coloration on older, lower leaves.",
+      "Leaves gradually turn yellow (chlorosis), starting from the leaf tips and moving inward.",
+      "Plants show reduced vegetative growth with thin, weak stems.",
+      "Leaf size becomes smaller and canopy remains sparse.",
+      "Severe deficiency leads to premature leaf drop and overall stunted plant development.",
+      "Tuber formation is poor, resulting in fewer and smaller tubers with reduced yield."
+    ],
+    "visualSigns": [
+      "Uniform yellowing of older leaves",
+      "Weak, thin stems",
+      "Overall pale plant appearance"
+    ],
+    "stageAffected": [
+      "seedling",
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Low organic matter soils",
+      "Sandy soils prone to leaching",
+      "Excessive rainfall",
+      "Imbalanced fertilizer application"
+    ],
+    "spreadMethod": [
+      "soil"
+    ],
+    "prevention": [
+      "Conduct soil testing before planting to assess nitrogen levels.",
+      "Apply well-decomposed farmyard manure or compost to improve soil nitrogen reserves.",
+      "Use balanced fertilizer programs instead of nitrogen-only applications.",
+      "Avoid excessive irrigation that causes nutrient leaching."
+    ],
+    "treatment": [
+      "Apply nitrogen fertilizers immediately after deficiency symptoms are observed to restore vegetative growth.",
+      "Split nitrogen application into multiple doses to ensure continuous availability and reduce losses.",
+      "Incorporate fertilizers into soil rather than surface application to improve uptake.",
+      "Monitor crop response and avoid over-application, which can increase disease susceptibility."
+    ],
+    "control": {
+      "organicControl": [
+        "Apply compost, vermicompost, or green manures to gradually supply nitrogen.",
+        "Use biofertilizers such as Azotobacter or Azospirillum to enhance nitrogen availability.",
+        "Practice crop rotation with leguminous crops to naturally enrich soil nitrogen."
+      ],
+      "chemicalControl": [
+        "Apply nitrogen fertilizers such as urea or ammonium sulfate in split doses during early vegetative growth.",
+        "Use controlled-release nitrogen fertilizers to maintain steady nutrient supply.",
+        "Avoid late heavy nitrogen application, which may delay tuber maturity."
+      ]
+    },
+    "images": [
+      "https://www.thegrowingplace.com/wp-content/uploads/2025/07/yellow-leaves-1024x577.jpg",
+      "https://ephytia.inra.fr/en/I/30838/Carence-magnesium-2"
+    ],
+    "confusableWith": [
+      "Sulfur Deficiency",
+      "Magnesium Deficiency"
+    ],
+    "nutshellPoints": [
+      "Most common nutrient deficiency in potato",
+      "First appears on older leaves",
+      "Directly reduces tuber yield"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "potassium-deficiency",
+    "name": "Potassium Deficiency",
+    "scientificName": "Potassium (K) Deficiency",
+    "category": "nutrient",
+    "categoryIcon": "nutrient.svg",
+    "causeType": "Occurs due to inadequate potassium levels in soil, often in sandy or heavily cropped soils. Potassium regulates water balance, enzyme activation, and disease resistance. Deficiency weakens plant tissues and reduces tolerance to stress and diseases.",
+    "affectedPart": [
+      "leaf",
+      "tuber",
+      "whole-plant"
+    ],
+    "severity": "high",
+    "commonness": "common",
+    "symptoms": [
+      "Early symptoms include marginal yellowing on older leaves.",
+      "Leaf edges gradually turn brown and dry, giving a scorched appearance.",
+      "Leaves may curl upward and become brittle.",
+      "Plants show weak stems and reduced resistance to drought and disease.",
+      "Tubers may be small, misshapen, and show poor storage quality."
+    ],
+    "visualSigns": [
+      "Leaf edge scorching",
+      "Upward curling of leaves",
+      "Weak plant structure"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation",
+      "storage"
+    ],
+    "favorableConditions": [
+      "Sandy soils",
+      "Low potassium reserves",
+      "High rainfall",
+      "Imbalanced fertilization"
+    ],
+    "spreadMethod": [
+      "soil"
+    ],
+    "prevention": [
+      "Apply potassium fertilizers based on soil test recommendations.",
+      "Maintain balanced NPK fertilization.",
+      "Improve soil organic matter to enhance nutrient retention."
+    ],
+    "treatment": [
+      "Apply potassium fertilizers immediately when marginal scorching symptoms appear.",
+      "Ensure adequate soil moisture to facilitate potassium uptake.",
+      "Avoid excessive nitrogen that can aggravate potassium deficiency."
+    ],
+    "control": {
+      "organicControl": [
+        "Apply wood ash in small quantities to supply potassium.",
+        "Use compost enriched with potassium-rich organic residues.",
+        "Incorporate crop residues back into soil."
+      ],
+      "chemicalControl": [
+        "Apply muriate of potash (KCl) or sulfate of potash as per crop stage.",
+        "Split potassium application to ensure availability during tuber bulking.",
+        "Avoid chloride-sensitive stages if using KCl."
+      ]
+    },
+    "images": [
+      "https://blog.potatoworld.eu/hs-fs/hubfs/Image%20blog%2065.png?width=1484&name=Image%20blog%2065.png",
+      "https://www.naturepl.com/cache/pcache2/01338473.jpg",
+      "https://ephytia.inra.fr/en/I/30832/Carence-potassium-2",
+      "https://ephytia.inra.fr/en/I/30831/Carence-potassium"
+    ],
+    "confusableWith": [
+      "Leaf Scorch",
+      "Salt Injury"
+    ],
+    "nutshellPoints": [
+      "Causes leaf edge burn",
+      "Reduces stress tolerance",
+      "Affects tuber quality and storage"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "phosphorus-deficiency",
+    "name": "Phosphorus Deficiency",
+    "scientificName": "Phosphorus (P) Deficiency",
+    "category": "nutrient",
+    "categoryIcon": "nutrient.svg",
+    "causeType": "Develops due to low phosphorus availability, often in cold, acidic, or compacted soils. Phosphorus is essential for root development, energy transfer, and early plant establishment. Deficiency slows growth and delays maturity.",
+    "affectedPart": [
+      "leaf",
+      "root",
+      "whole-plant"
+    ],
+    "severity": "medium",
+    "commonness": "occasional",
+    "symptoms": [
+      "Plants show slow and stunted growth from early stages.",
+      "Leaves may appear dark green with a dull or bluish tint.",
+      "Older leaves may develop purplish discoloration on veins and margins.",
+      "Root development remains poor, reducing nutrient uptake.",
+      "Tuber initiation is delayed, leading to uneven tuber size."
+    ],
+    "visualSigns": [
+      "Dark green or purplish leaves",
+      "Slow early growth",
+      "Weak root system"
+    ],
+    "stageAffected": [
+      "seedling",
+      "vegetative"
+    ],
+    "favorableConditions": [
+      "Cold soil temperatures",
+      "Acidic soils",
+      "Poor root development",
+      "Low available phosphorus"
+    ],
+    "spreadMethod": [
+      "soil"
+    ],
+    "prevention": [
+      "Apply phosphorus fertilizers at planting time for early availability.",
+      "Maintain optimal soil pH for phosphorus uptake.",
+      "Ensure proper soil aeration and drainage."
+    ],
+    "treatment": [
+      "Apply readily available phosphorus fertilizers near root zone.",
+      "Improve soil temperature and aeration to enhance uptake.",
+      "Avoid late-stage correction as phosphorus is most critical early."
+    ],
+    "control": {
+      "organicControl": [
+        "Apply rock phosphate in acidic soils for slow-release phosphorus.",
+        "Use bone meal or phosphorus-rich composts.",
+        "Encourage mycorrhizal fungi for improved phosphorus uptake."
+      ],
+      "chemicalControl": [
+        "Apply single super phosphate or diammonium phosphate at planting.",
+        "Band placement near roots to increase efficiency.",
+        "Avoid over-application to prevent nutrient imbalance."
+      ]
+    },
+    "images": [
+      "https://content.peat-cloud.com/thumbnails/phosphorus-deficiency-in-potato-potato-1.jpg",
+      "https://plantura.garden/uk/wp-content/uploads/sites/2/2021/10/diseased-potato-leaves.jpg",
+      "https://businesswales.gov.wales/farmingconnect/sites/farmingconnect/files/styles/wysiwyg_lg/public/images/deilen.jpg?itok=2GbrWqBh"
+    ],
+    "confusableWith": [
+      "Cold Stress",
+      "Zinc Deficiency"
+    ],
+    "nutshellPoints": [
+      "Affects early growth most",
+      "Causes dark or purplish leaves",
+      "Delays tuber initiation"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "magnesium-deficiency",
+    "name": "Magnesium Deficiency",
+    "scientificName": "Magnesium (Mg) Deficiency",
+    "category": "nutrient",
+    "categoryIcon": "nutrient.svg",
+    "causeType": "Occurs when magnesium availability is low due to acidic soils, excessive potassium or calcium fertilization, or sandy soil conditions. Magnesium is a central component of chlorophyll, so deficiency directly disrupts photosynthesis.",
+    "affectedPart": [
+      "leaf",
+      "whole-plant"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Initial symptoms appear on older leaves as interveinal chlorosis.",
+      "Leaf veins remain green while areas between veins turn yellow.",
+      "As deficiency progresses, yellow areas may turn reddish or brown.",
+      "Leaves may curl upward and become brittle.",
+      "Photosynthesis efficiency decreases, reducing plant vigor and yield."
+    ],
+    "visualSigns": [
+      "Interveinal yellowing on older leaves",
+      "Green veins with yellow tissue",
+      "Reddish discoloration in severe cases"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Acidic soils",
+      "High potassium fertilization",
+      "Sandy soils",
+      "Low magnesium reserves"
+    ],
+    "spreadMethod": [
+      "soil"
+    ],
+    "prevention": [
+      "Maintain balanced fertilization to avoid nutrient antagonism.",
+      "Apply magnesium-containing amendments in deficient soils.",
+      "Monitor soil pH and correct acidity."
+    ],
+    "treatment": [
+      "Apply magnesium fertilizers immediately after symptom appearance.",
+      "Use foliar sprays for rapid correction during active growth.",
+      "Avoid excessive potassium application during treatment period."
+    ],
+    "control": {
+      "organicControl": [
+        "Apply dolomitic lime to supply magnesium and correct soil pH.",
+        "Use compost enriched with magnesium-containing materials.",
+        "Incorporate organic matter to improve nutrient retention."
+      ],
+      "chemicalControl": [
+        "Apply magnesium sulfate (Epsom salt) through soil or foliar spray.",
+        "Use magnesium nitrate for quick uptake if deficiency is severe.",
+        "Apply in split doses to avoid leaching losses."
+      ]
+    },
+    "images": [
+      "https://c8.alamy.com/comp/ACG0R5/magnesium-deficiency-symptoms-on-some-potato-leaves-in-this-organic-ACG0R5.jpg",
+      "https://c8.alamy.com/comp/B913NA/potato-leaf-necrosis-magnesium-deficiency-due-to-excessive-potassium-B913NA.jpg",
+      "https://c8.alamy.com/comp/B912C2/potato-leaf-necrosis-magnesium-deficiency-due-to-excessive-potassium-B912C2.jpg",
+      "https://c8.alamy.com/comp/AP9XF7/magnesium-mg-deficiency-symptoms-necrosis-and-chlorosis-on-potato-AP9XF7.jpg"
+    ],
+    "confusableWith": [
+      "Nitrogen Deficiency",
+      "Iron Deficiency"
+    ],
+    "nutshellPoints": [
+      "Causes interveinal chlorosis",
+      "Appears first on older leaves",
+      "Directly affects photosynthesis"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "iron-deficiency",
+    "name": "Iron Deficiency (Iron Chlorosis)",
+    "scientificName": "Iron (Fe) Deficiency",
+    "category": "nutrient",
+    "categoryIcon": "nutrient.svg",
+    "causeType": "Occurs when iron is present in soil but unavailable to the plant, commonly in alkaline or calcareous soils. High soil pH, excess calcium carbonate, poor aeration, and waterlogged conditions reduce iron solubility. Iron is essential for chlorophyll synthesis and enzyme activity, so deficiency primarily affects young, actively growing tissues.",
+    "affectedPart": [
+      "leaf",
+      "whole-plant"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Initial symptoms appear on young, upper leaves as interveinal chlorosis.",
+      "Leaf veins remain green while the tissue between veins turns pale yellow to white.",
+      "In severe deficiency, entire young leaves may become almost white and fragile.",
+      "Plant growth slows due to reduced photosynthesis.",
+      "Prolonged deficiency can lead to leaf necrosis and overall yield reduction."
+    ],
+    "visualSigns": [
+      "Yellowing of young leaves",
+      "Green veins with yellow or white leaf tissue",
+      "Top canopy looks pale"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "flowering"
+    ],
+    "favorableConditions": [
+      "Alkaline or calcareous soils",
+      "Waterlogged or compacted soils",
+      "High calcium levels",
+      "Cold soil conditions"
+    ],
+    "spreadMethod": [
+      "soil"
+    ],
+    "prevention": [
+      "Maintain optimal soil pH for iron availability.",
+      "Improve soil drainage and aeration.",
+      "Avoid excessive liming in iron-deficient soils.",
+      "Use iron-efficient potato varieties where available."
+    ],
+    "treatment": [
+      "Apply foliar iron sprays for rapid correction of visible chlorosis.",
+      "Improve soil aeration and drainage to enhance root activity.",
+      "Avoid over-irrigation that restricts oxygen availability to roots.",
+      "Monitor young leaves regularly, as iron deficiency develops rapidly."
+    ],
+    "control": {
+      "organicControl": [
+        "Apply compost and organic matter to enhance microbial activity and iron solubility.",
+        "Use chelated iron derived from organic sources for foliar application.",
+        "Encourage beneficial soil microorganisms that improve micronutrient availability."
+      ],
+      "chemicalControl": [
+        "Apply iron chelates (Fe-EDDHA or Fe-EDTA) depending on soil pH.",
+        "Use foliar sprays for immediate symptom correction, repeated if necessary.",
+        "Avoid soil application of non-chelated iron in alkaline soils due to poor effectiveness."
+      ]
+    },
+    "images": [
+      "https://c7.alamy.com/comp/2XE2XTG/phytophthora-a-disease-affecting-the-leaves-of-potato-plants-2XE2XTG.jpg"
+    ],
+    "confusableWith": [
+      "Magnesium Deficiency",
+      "Zinc Deficiency"
+    ],
+    "nutshellPoints": [
+      "Affects young leaves first",
+      "Caused by iron unavailability, not absence",
+      "Common in alkaline soils"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "zinc-deficiency",
+    "name": "Zinc Deficiency",
+    "scientificName": "Zinc (Zn) Deficiency",
+    "category": "nutrient",
+    "categoryIcon": "nutrient.svg",
+    "causeType": "Results from low zinc availability in soil, often associated with high soil pH, high phosphorus application, or sandy soils. Zinc is required for enzyme activation, hormone production, and internode elongation. Deficiency disrupts normal leaf and shoot development.",
+    "affectedPart": [
+      "leaf",
+      "stem",
+      "whole-plant"
+    ],
+    "severity": "medium",
+    "commonness": "occasional",
+    "symptoms": [
+      "Young leaves show interveinal chlorosis with pale green to yellow coloration.",
+      "Leaves become narrow, shortened, and distorted.",
+      "Shortened internodes cause a rosette appearance at shoot tips.",
+      "Overall plant growth becomes stunted.",
+      "Delayed maturity and reduced tuber yield occur in prolonged deficiency."
+    ],
+    "visualSigns": [
+      "Small, narrow leaves",
+      "Rosette growth pattern",
+      "Yellowing between veins on young leaves"
+    ],
+    "stageAffected": [
+      "seedling",
+      "vegetative"
+    ],
+    "favorableConditions": [
+      "High soil phosphorus",
+      "Alkaline soils",
+      "Sandy soils",
+      "Low organic matter"
+    ],
+    "spreadMethod": [
+      "soil"
+    ],
+    "prevention": [
+      "Apply micronutrient fertilizers based on soil testing.",
+      "Avoid excessive phosphorus application.",
+      "Maintain adequate organic matter in soil."
+    ],
+    "treatment": [
+      "Apply zinc fertilizers at early growth stages for best response.",
+      "Use foliar zinc sprays to quickly correct visible symptoms.",
+      "Correct soil pH if zinc availability is persistently low."
+    ],
+    "control": {
+      "organicControl": [
+        "Apply compost enriched with micronutrients.",
+        "Encourage microbial activity to improve zinc availability.",
+        "Use organic zinc chelates where permitted."
+      ],
+      "chemicalControl": [
+        "Apply zinc sulfate to soil or as foliar spray.",
+        "Use chelated zinc formulations for better uptake.",
+        "Apply in recommended doses to avoid toxicity."
+      ]
+    },
+    "images": [
+      "https://vegpath.plantpath.wisc.edu/wp-content/uploads/sites/210/2023/11/potato-early-blight-leaves.jpg",
+      "https://plantura.garden/uk/wp-content/uploads/sites/2/2021/10/potato-diseases.jpg"
+    ],
+    "confusableWith": [
+      "Iron Deficiency",
+      "Phosphorus Deficiency"
+    ],
+    "nutshellPoints": [
+      "Causes small, distorted leaves",
+      "Common in high phosphorus soils",
+      "Leads to stunted plant growth"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "calcium-deficiency",
+    "name": "Calcium Deficiency",
+    "scientificName": "Calcium (Ca) Deficiency",
+    "category": "nutrient",
+    "categoryIcon": "nutrient.svg",
+    "causeType": "Occurs when calcium uptake is limited due to irregular water supply, poor root activity, or excessive potassium and magnesium. Calcium is essential for cell wall strength and membrane stability. Deficiency mainly affects growing tissues and developing tubers.",
+    "affectedPart": [
+      "leaf",
+      "tuber"
+    ],
+    "severity": "high",
+    "commonness": "common",
+    "symptoms": [
+      "Young leaves show distorted growth with curling or tip burn.",
+      "Leaf margins may turn brown and necrotic.",
+      "Root development is weak, reducing water and nutrient uptake.",
+      "Tubers develop internal defects such as hollow heart or internal browning.",
+      "Storage quality of tubers declines significantly."
+    ],
+    "visualSigns": [
+      "Deformed young leaves",
+      "Leaf tip burn",
+      "Internal tuber discoloration"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation",
+      "storage"
+    ],
+    "favorableConditions": [
+      "Irregular irrigation",
+      "Sandy soils",
+      "High potassium fertilization",
+      "Poor root growth"
+    ],
+    "spreadMethod": [
+      "soil"
+    ],
+    "prevention": [
+      "Maintain uniform soil moisture throughout growth.",
+      "Apply calcium amendments before planting.",
+      "Avoid excessive potassium and magnesium fertilization."
+    ],
+    "treatment": [
+      "Apply calcium fertilizers during active growth stages.",
+      "Use foliar sprays to support leaf calcium needs.",
+      "Improve irrigation management to ensure steady calcium transport."
+    ],
+    "control": {
+      "organicControl": [
+        "Apply gypsum or dolomitic lime to improve calcium supply.",
+        "Incorporate organic matter to improve soil moisture retention.",
+        "Encourage deep root growth through proper soil preparation."
+      ],
+      "chemicalControl": [
+        "Apply calcium nitrate for readily available calcium.",
+        "Use calcium chloride foliar sprays during deficiency symptoms.",
+        "Split applications to ensure continuous availability."
+      ]
+    },
+    "images": [
+      "https://ephytia.inra.fr/en/I/30848/Carence-calcium-1"
+    ],
+    "confusableWith": [
+      "Potassium Deficiency",
+      "Boron Deficiency"
+    ],
+    "nutshellPoints": [
+      "Affects young tissues and tubers",
+      "Linked to irregular water supply",
+      "Reduces tuber storage quality"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "sulphur-deficiency",
+    "name": "Sulphur Deficiency",
+    "scientificName": "Sulphur (S) Deficiency",
+    "category": "nutrient",
+    "categoryIcon": "nutrient.svg",
+    "causeType": "Develops when soil sulphur levels are low, commonly in sandy soils or where sulphur-free fertilizers are used continuously. Sulphur is essential for protein synthesis and enzyme function. Deficiency resembles nitrogen deficiency but affects younger leaves first.",
+    "affectedPart": [
+      "leaf",
+      "whole-plant"
+    ],
+    "severity": "medium",
+    "commonness": "occasional",
+    "symptoms": [
+      "Young leaves show uniform pale green to yellow coloration.",
+      "Chlorosis appears evenly across the leaf rather than between veins.",
+      "Plants exhibit slow and weak growth.",
+      "Stems may become thin and woody.",
+      "Tuber yield decreases due to reduced protein synthesis."
+    ],
+    "visualSigns": [
+      "Yellowing of young leaves",
+      "Uniform pale plant color",
+      "Thin stems"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Sandy soils",
+      "Low organic matter",
+      "Continuous use of sulphur-free fertilizers",
+      "High rainfall causing leaching"
+    ],
+    "spreadMethod": [
+      "soil"
+    ],
+    "prevention": [
+      "Include sulphur-containing fertilizers in nutrient programs.",
+      "Maintain soil organic matter.",
+      "Monitor sulphur levels through soil testing."
+    ],
+    "treatment": [
+      "Apply sulphur fertilizers immediately after symptom identification.",
+      "Use readily available sulphate forms for quick correction.",
+      "Ensure balanced nitrogen-sulphur ratio to avoid recurrence."
+    ],
+    "control": {
+      "organicControl": [
+        "Apply compost and farmyard manure to supply slow-release sulphur.",
+        "Use oil-cake manures containing sulphur.",
+        "Improve soil organic matter to reduce leaching losses."
+      ],
+      "chemicalControl": [
+        "Apply ammonium sulphate or potassium sulphate as sulphur sources.",
+        "Use gypsum in sulphur-deficient soils.",
+        "Apply in split doses to ensure availability during growth."
+      ]
+    },
+    "images": [
+      "https://www.shutterstock.com/editorial/image-editorial/MezfM5xcOeT2I7xaNzAyNA==/potato-solanum-tuberosum-sulphur-deficiency-leaves-550nw-3298967a.jpg",
+      "https://ephytia.inra.fr/en/I/35221/Carence-soufre",
+      "https://ephytia.inra.fr/en/I/30855/Carence-soufre-1"
+    ],
+    "confusableWith": [
+      "Nitrogen Deficiency",
+      "Iron Deficiency"
+    ],
+    "nutshellPoints": [
+      "Looks like nitrogen deficiency but on young leaves",
+      "Common in sandy soils",
+      "Affects protein synthesis"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "boron-deficiency",
+    "name": "Boron Deficiency",
+    "scientificName": "Boron (B) Deficiency",
+    "category": "nutrient",
+    "categoryIcon": "nutrient.svg",
+    "causeType": "Boron deficiency occurs due to low boron availability in soil, commonly in sandy, acidic, or highly leached soils. Excessive rainfall, drought stress, or high soil pH can further reduce boron uptake. Boron plays a crucial role in cell wall formation, sugar transport, and meristematic tissue development. Deficiency primarily affects growing points and developing tubers.",
+    "affectedPart": [
+      "leaf",
+      "stem",
+      "tuber",
+      "whole-plant"
+    ],
+    "severity": "high",
+    "commonness": "occasional",
+    "symptoms": [
+      "Early symptoms appear on young leaves as thickening, brittleness, and distortion.",
+      "Leaf tips and margins may crack or curl abnormally.",
+      "Growing points may die, leading to bushy or rosette-like growth.",
+      "Stems become brittle and may crack longitudinally.",
+      "Tubers develop internal browning, corky tissues, or hollow cavities.",
+      "Severe deficiency results in reduced tuber quality and poor market value."
+    ],
+    "visualSigns": [
+      "Distorted young leaves",
+      "Cracked or brittle stems",
+      "Internal tuber browning"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Sandy or light-textured soils",
+      "High rainfall or leaching",
+      "Dry soil conditions",
+      "Low organic matter"
+    ],
+    "spreadMethod": [
+      "soil"
+    ],
+    "prevention": [
+      "Conduct soil testing for boron before planting.",
+      "Apply boron in very small, recommended doses.",
+      "Maintain soil organic matter to improve micronutrient retention.",
+      "Avoid over-liming which reduces boron availability."
+    ],
+    "treatment": [
+      "Apply boron fertilizers immediately after deficiency symptoms appear.",
+      "Use foliar sprays for rapid correction during active growth.",
+      "Avoid repeated high-dose application due to boron toxicity risk.",
+      "Monitor new growth to confirm recovery."
+    ],
+    "control": {
+      "organicControl": [
+        "Apply compost or organic manures containing trace amounts of boron.",
+        "Improve soil moisture management to enhance nutrient uptake.",
+        "Use boron-enriched organic amendments where permitted."
+      ],
+      "chemicalControl": [
+        "Apply borax or boric acid in very low, precise doses.",
+        "Use foliar boron sprays to avoid soil accumulation.",
+        "Apply only once per season unless deficiency persists."
+      ]
+    },
+    "images": [
+      "https://ephytia.inra.fr/en/I/30851/Carence-bore-1",
+      "https://c8.alamy.com/comp/2PFTF7C/potato-solanum-tuberosum-potato-solanaceae-potato-boron-deficiency-close-up-of-leaves-2PFTF7C.jpg"
+    ],
+    "confusableWith": [
+      "Calcium Deficiency",
+      "Hollow Heart"
+    ],
+    "nutshellPoints": [
+      "Affects growing points and tuber quality",
+      "Very small margin between deficiency and toxicity",
+      "Common in sandy, leached soils"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "manganese-deficiency",
+    "name": "Manganese Deficiency",
+    "scientificName": "Manganese (Mn) Deficiency",
+    "category": "nutrient",
+    "categoryIcon": "nutrient.svg",
+    "causeType": "Manganese deficiency develops when manganese becomes unavailable due to high soil pH, excessive liming, or high organic matter binding the nutrient. Manganese is essential for photosynthesis, enzyme activation, and nitrogen metabolism. Deficiency mainly affects young to mid-aged leaves.",
+    "affectedPart": [
+      "leaf",
+      "whole-plant"
+    ],
+    "severity": "medium",
+    "commonness": "occasional",
+    "symptoms": [
+      "Initial symptoms appear as interveinal chlorosis on younger leaves.",
+      "Small brown or gray specks may appear within yellowed areas.",
+      "Leaf tissue between veins turns pale while veins remain green.",
+      "Photosynthetic efficiency declines, slowing plant growth.",
+      "Severe cases cause leaf necrosis and yield reduction."
+    ],
+    "visualSigns": [
+      "Interveinal yellowing",
+      "Brown speckling on leaves",
+      "Pale upper canopy"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "flowering"
+    ],
+    "favorableConditions": [
+      "Alkaline soils",
+      "Over-liming",
+      "High organic matter soils",
+      "Cold soil temperatures"
+    ],
+    "spreadMethod": [
+      "soil"
+    ],
+    "prevention": [
+      "Avoid excessive liming of soils.",
+      "Maintain soil pH within optimal range.",
+      "Monitor micronutrient levels regularly."
+    ],
+    "treatment": [
+      "Apply manganese fertilizers when early symptoms appear.",
+      "Use foliar sprays for rapid symptom correction.",
+      "Improve soil pH management for long-term control."
+    ],
+    "control": {
+      "organicControl": [
+        "Apply compost to improve micronutrient balance.",
+        "Encourage microbial activity for nutrient release.",
+        "Avoid excessive organic binding of manganese."
+      ],
+      "chemicalControl": [
+        "Apply manganese sulfate as foliar or soil treatment.",
+        "Use chelated manganese in high pH soils.",
+        "Repeat foliar sprays if symptoms persist."
+      ]
+    },
+    "images": [
+      "https://ephytia.inra.fr/en/I/30850/Carence-manganese-2",
+      "https://c8.alamy.com/comp/A530PT/necrotic-spotting-on-potato-leaves-caused-by-manganese-deficiency-A530PT.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDB0XzgGxb620lo1Ep26D3ygqlqAcxk6e13pUBnilDxl7wdtSFduEnASRxaW38Ow5wELI&usqp=CAU"
+    ],
+    "confusableWith": [
+      "Iron Deficiency",
+      "Magnesium Deficiency"
+    ],
+    "nutshellPoints": [
+      "Causes speckled interveinal chlorosis",
+      "Common in over-limed soils",
+      "Affects photosynthesis directly"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "copper-deficiency",
+    "name": "Copper Deficiency",
+    "scientificName": "Copper (Cu) Deficiency",
+    "category": "nutrient",
+    "categoryIcon": "nutrient.svg",
+    "causeType": "Copper deficiency occurs in organic-rich, sandy, or peat soils where copper is strongly bound and unavailable. Copper is essential for enzyme systems, lignin formation, and reproductive growth. Deficiency weakens plant structure and impairs physiological processes.",
+    "affectedPart": [
+      "leaf",
+      "stem",
+      "whole-plant"
+    ],
+    "severity": "medium",
+    "commonness": "rare",
+    "symptoms": [
+      "Young leaves become pale, twisted, or narrow.",
+      "Leaf tips may wither or dry prematurely.",
+      "Stems become weak and prone to lodging.",
+      "Delayed maturity and reduced vigor are observed.",
+      "Prolonged deficiency leads to yield loss."
+    ],
+    "visualSigns": [
+      "Twisted young leaves",
+      "Weak stems",
+      "Leaf tip dieback"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "flowering"
+    ],
+    "favorableConditions": [
+      "Peaty or organic soils",
+      "Sandy soils",
+      "High soil organic matter",
+      "Low native copper levels"
+    ],
+    "spreadMethod": [
+      "soil"
+    ],
+    "prevention": [
+      "Apply copper only based on soil test results.",
+      "Avoid excessive organic amendments that bind copper.",
+      "Maintain balanced micronutrient nutrition."
+    ],
+    "treatment": [
+      "Apply copper fertilizers immediately after diagnosis.",
+      "Use foliar sprays for faster response.",
+      "Avoid repeated applications due to copper toxicity risk."
+    ],
+    "control": {
+      "organicControl": [
+        "Use compost with trace copper content.",
+        "Improve soil structure for better root uptake.",
+        "Avoid over-application of organic matter."
+      ],
+      "chemicalControl": [
+        "Apply copper sulfate or chelated copper at low doses.",
+        "Use foliar application for rapid correction.",
+        "Apply once per season unless deficiency persists."
+      ]
+    },
+    "images": [
+      "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-potato/Copperimg.jpg"
+    ],
+    "confusableWith": [
+      "Zinc Deficiency",
+      "Herbicide Injury"
+    ],
+    "nutshellPoints": [
+      "Rare but serious when present",
+      "Weakens stems and plant vigor",
+      "Toxic if over-applied"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "early-blight",
+    "name": "Early Blight",
+    "scientificName": "Alternaria solani",
+    "category": "fungal",
+    "categoryIcon": "fungus.svg",
+    "causeType": "Early Blight is caused by the fungal pathogen Alternaria solani. It primarily infects older leaves and spreads through airborne spores, rain splash, and infected plant debris. The disease is favored by warm temperatures and alternating wet and dry conditions. It weakens plants by reducing photosynthetic area and can significantly reduce yield.",
+    "affectedPart": [
+      "leaf",
+      "stem",
+      "tuber"
+    ],
+    "severity": "high",
+    "commonness": "very-common",
+    "symptoms": [
+      "Initial symptoms appear on older leaves as small brown spots.",
+      "Spots enlarge and develop characteristic concentric rings, giving a target-like appearance.",
+      "Surrounding leaf tissue turns yellow and gradually dries.",
+      "Severely infected leaves wither and drop prematurely.",
+      "Stem lesions appear as dark, sunken areas.",
+      "Tubers may show shallow, dark, corky lesions in advanced cases."
+    ],
+    "visualSigns": [
+      "Target-like concentric leaf spots",
+      "Yellowing around lesions",
+      "Premature leaf drop"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Warm temperatures (24–30°C)",
+      "High humidity",
+      "Alternating wet and dry periods",
+      "Plant stress or nutrient imbalance"
+    ],
+    "spreadMethod": [
+      "air",
+      "rain-splash",
+      "soil",
+      "tools"
+    ],
+    "prevention": [
+      "Use certified disease-free seed tubers.",
+      "Rotate crops with non-host plants.",
+      "Maintain balanced nutrition to reduce plant stress.",
+      "Remove and destroy infected plant debris."
+    ],
+    "treatment": [
+      "Apply fungicides at the first appearance of leaf spots.",
+      "Maintain regular spray intervals during favorable weather.",
+      "Remove heavily infected leaves to reduce spore load.",
+      "Avoid overhead irrigation during active disease periods."
+    ],
+    "control": {
+      "organicControl": [
+        "Apply bio-fungicides containing Trichoderma or Bacillus species.",
+        "Use neem-based sprays to suppress fungal growth.",
+        "Improve air circulation through proper spacing."
+      ],
+      "chemicalControl": [
+        "Apply protective fungicides like mancozeb or chlorothalonil.",
+        "Use systemic fungicides if disease pressure is high.",
+        "Rotate fungicides to prevent resistance development."
+      ]
+    },
+    "images": [
+      "https://vegpath.plantpath.wisc.edu/wp-content/uploads/sites/210/2023/11/potato-early-blight-leaves.jpg",
+      "https://blogs.cornell.edu/livegpath/files/2021/03/Early-Blight-Potato-whole-leaf-2_7-7-17_0962-CROP.jpg",
+      "https://assets.syngenta.ca/images/pest/125/ca2020_early_blight_potato_damage1.png",
+      "https://assets.syngenta.ca/images/pest/125/ca2020_early_blight_potato_damage2.png",
+      "https://cdn9.dissolve.com/p/D869_15_283/D869_15_283_1200.jpg"
+    ],
+    "confusableWith": [
+      "Late Blight",
+      "Septoria Leaf Spot"
+    ],
+    "nutshellPoints": [
+      "Very common potato fungal disease",
+      "Identified by target-like leaf spots",
+      "Favored by warm, humid conditions"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "alternaria-leaf-spot",
+    "name": "Alternaria Leaf Spot",
+    "scientificName": "Alternaria alternata",
+    "category": "fungal",
+    "categoryIcon": "fungus.svg",
+    "causeType": "Caused by the fungal pathogen Alternaria alternata, which survives on infected plant debris and spreads through airborne spores. The pathogen infects leaves through natural openings or minor injuries. Disease development is favored by warm temperatures, high humidity, and plant stress conditions such as nutrient imbalance or drought.",
+    "affectedPart": [
+      "leaf"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Initial symptoms appear as small, dark brown to black pinpoint spots on older leaves.",
+      "Spots gradually enlarge into circular or irregular lesions with well-defined margins.",
+      "Lesions may develop faint concentric rings but are usually smaller than Early Blight lesions.",
+      "Surrounding leaf tissue turns yellow, especially under severe infection.",
+      "Heavily infected leaves dry up, curl, and may drop prematurely.",
+      "Disease reduces photosynthetic area, weakening overall plant vigor."
+    ],
+    "visualSigns": [
+      "Small dark brown leaf spots",
+      "Yellow halo around lesions",
+      "Dry, brittle infected leaves"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Warm temperatures (25–30°C)",
+      "High relative humidity",
+      "Leaf wetness from dew or rain",
+      "Plant stress due to nutrient deficiency"
+    ],
+    "spreadMethod": [
+      "air",
+      "rain-splash",
+      "soil",
+      "tools"
+    ],
+    "prevention": [
+      "Remove and destroy infected plant debris after harvest.",
+      "Maintain balanced fertilization to reduce plant stress.",
+      "Ensure proper plant spacing for good air circulation.",
+      "Avoid overhead irrigation during evening hours."
+    ],
+    "treatment": [
+      "Apply fungicides at the first appearance of leaf spots to limit spread.",
+      "Remove heavily infected leaves to reduce spore load.",
+      "Maintain regular spray intervals during favorable weather conditions.",
+      "Monitor field regularly, especially during warm and humid periods."
+    ],
+    "control": {
+      "organicControl": [
+        "Apply bio-fungicides containing Trichoderma or Bacillus species.",
+        "Use neem-based botanical sprays to suppress fungal growth.",
+        "Improve soil health with organic matter to strengthen plant immunity."
+      ],
+      "chemicalControl": [
+        "Apply protective fungicides such as mancozeb or chlorothalonil.",
+        "Rotate fungicides with different modes of action to prevent resistance.",
+        "Ensure thorough leaf coverage during spraying."
+      ]
+    },
+    "images": [
+      "https://t3.ftcdn.net/jpg/09/62/10/24/360_F_962102456_3CI0SrItj3AKv09LT82lfKva6U6elAS9.jpg"
+    ],
+    "confusableWith": [
+      "Early Blight",
+      "Septoria Leaf Spot"
+    ],
+    "nutshellPoints": [
+      "Caused by Alternaria alternata",
+      "Smaller spots than Early Blight",
+      "Favored by warm, humid conditions"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "brown-leaf-spot",
+    "name": "Brown Leaf Spot",
+    "scientificName": "Alternaria tenuissima",
+    "category": "fungal",
+    "categoryIcon": "fungus.svg",
+    "causeType": "Brown Leaf Spot is caused by Alternaria tenuissima, a fungus that survives on crop residues and infected plant material. It infects leaves under favorable environmental conditions and spreads through airborne spores and rain splash. The disease often develops in stressed or aging plants.",
+    "affectedPart": [
+      "leaf"
+    ],
+    "severity": "medium",
+    "commonness": "occasional",
+    "symptoms": [
+      "Small brown spots appear on older leaves, initially circular to oval in shape.",
+      "Spots gradually enlarge and may merge, forming larger necrotic patches.",
+      "Lesions usually lack prominent concentric rings.",
+      "Affected leaf tissue dries and turns brittle.",
+      "Severe infection causes premature leaf senescence and reduced canopy cover."
+    ],
+    "visualSigns": [
+      "Uniform brown leaf spots",
+      "Dry necrotic patches",
+      "Premature leaf yellowing"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Warm weather",
+      "High humidity",
+      "Extended leaf wetness",
+      "Weak or aging foliage"
+    ],
+    "spreadMethod": [
+      "air",
+      "rain-splash",
+      "soil"
+    ],
+    "prevention": [
+      "Practice crop rotation with non-host crops.",
+      "Remove infected plant debris from the field.",
+      "Maintain adequate plant nutrition.",
+      "Improve airflow within crop canopy."
+    ],
+    "treatment": [
+      "Apply fungicides promptly when symptoms are first detected.",
+      "Remove severely affected foliage where feasible.",
+      "Avoid excessive irrigation during disease outbreaks."
+    ],
+    "control": {
+      "organicControl": [
+        "Use neem oil or botanical fungicides as preventive sprays.",
+        "Apply microbial bio-control agents to suppress pathogen growth.",
+        "Enhance plant vigor through organic soil amendments."
+      ],
+      "chemicalControl": [
+        "Apply contact fungicides such as mancozeb.",
+        "Rotate fungicides to reduce resistance risk.",
+        "Ensure correct dosage and spray timing."
+      ]
+    },
+    "images": [
+      "https://thebloompot.com/wp-content/uploads/2021/12/12-3Early-Blight-and-Brown-Leaf-SpotJAMES.jpg",
+      "https://vegpath.plantpath.wisc.edu/wp-content/uploads/sites/210/2022/08/potato-brown-spot.jpg"
+    ],
+    "confusableWith": [
+      "Alternaria Leaf Spot",
+      "Early Blight"
+    ],
+    "nutshellPoints": [
+      "Common in stressed plants",
+      "Causes brown necrotic leaf patches",
+      "Reduces photosynthetic area"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "septoria-leaf-spot",
+    "name": "Septoria Leaf Spot",
+    "scientificName": "Septoria lycopersici",
+    "category": "fungal",
+    "categoryIcon": "fungus.svg",
+    "causeType": "Septoria Leaf Spot is caused by the fungus Septoria lycopersici, which survives on infected debris and spreads through rain splash and contaminated tools. The pathogen infects lower leaves first and progresses upward under moist conditions, leading to significant defoliation.",
+    "affectedPart": [
+      "leaf"
+    ],
+    "severity": "high",
+    "commonness": "common",
+    "symptoms": [
+      "Initial symptoms appear on lower leaves as small, water-soaked spots.",
+      "Spots enlarge into circular lesions with grayish centers and dark brown margins.",
+      "Tiny black fruiting bodies may appear in lesion centers.",
+      "Leaves gradually turn yellow and drop prematurely.",
+      "Defoliation exposes tubers to sunlight, affecting yield quality."
+    ],
+    "visualSigns": [
+      "Gray-centered leaf spots",
+      "Black specks within lesions",
+      "Rapid lower leaf drop"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Cool to moderate temperatures",
+      "High humidity",
+      "Frequent rainfall",
+      "Dense crop canopy"
+    ],
+    "spreadMethod": [
+      "rain-splash",
+      "tools",
+      "soil"
+    ],
+    "prevention": [
+      "Remove and destroy infected plant debris.",
+      "Avoid working in fields when foliage is wet.",
+      "Rotate crops for at least two seasons.",
+      "Use proper plant spacing."
+    ],
+    "treatment": [
+      "Apply fungicides at early stages of infection.",
+      "Remove lower infected leaves to slow disease progression.",
+      "Maintain consistent spray intervals during wet weather."
+    ],
+    "control": {
+      "organicControl": [
+        "Use bio-fungicides based on Bacillus species.",
+        "Apply compost teas to enhance leaf surface microflora.",
+        "Improve air circulation within the crop."
+      ],
+      "chemicalControl": [
+        "Apply chlorothalonil or mancozeb for protection.",
+        "Use systemic fungicides if infection pressure is high.",
+        "Rotate fungicides to avoid resistance."
+      ]
+    },
+    "images": [
+      "images/septoria_leaf_spot.jpg"
+    ],
+    "confusableWith": [
+      "Early Blight",
+      "Alternaria Leaf Spot"
+    ],
+    "nutshellPoints": [
+      "Starts on lower leaves",
+      "Gray spots with black centers",
+      "Causes rapid defoliation"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "cercospora-leaf-spot",
+    "name": "Cercospora Leaf Spot",
+    "scientificName": "Cercospora solani",
+    "category": "fungal",
+    "categoryIcon": "fungus.svg",
+    "causeType": "Cercospora Leaf Spot is caused by Cercospora solani, a fungus that infects potato leaves under warm, humid conditions. The pathogen survives in crop residues and spreads mainly through wind and rain-splash. Infection reduces leaf efficiency and weakens plants.",
+    "affectedPart": [
+      "leaf"
+    ],
+    "severity": "medium",
+    "commonness": "rare",
+    "symptoms": [
+      "Small, circular to angular spots develop on leaves.",
+      "Lesions have light gray to tan centers with dark brown or reddish margins.",
+      "Spots may merge under severe infection, forming larger necrotic areas.",
+      "Leaves gradually yellow, dry, and fall off.",
+      "Overall plant vigor declines due to reduced photosynthesis."
+    ],
+    "visualSigns": [
+      "Gray-centered spots with dark margins",
+      "Leaf yellowing",
+      "Dry necrotic patches"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Warm temperatures",
+      "High humidity",
+      "Frequent rainfall",
+      "Presence of infected debris"
+    ],
+    "spreadMethod": [
+      "air",
+      "rain-splash",
+      "soil"
+    ],
+    "prevention": [
+      "Remove crop residues after harvest.",
+      "Maintain crop rotation.",
+      "Avoid prolonged leaf wetness.",
+      "Ensure balanced nutrition."
+    ],
+    "treatment": [
+      "Apply fungicides promptly when lesions are first noticed.",
+      "Remove severely affected leaves if feasible.",
+      "Monitor disease progression during warm, humid periods."
+    ],
+    "control": {
+      "organicControl": [
+        "Use neem-based sprays as preventive treatment.",
+        "Apply microbial fungicides to suppress pathogen growth.",
+        "Enhance field sanitation practices."
+      ],
+      "chemicalControl": [
+        "Apply broad-spectrum fungicides such as mancozeb.",
+        "Rotate fungicides to prevent resistance development.",
+        "Ensure complete leaf coverage during application."
+      ]
+    },
+    "images": [
+      "https://okrainmygarden.com/wp-content/uploads/2024/06/Potatoes-septoria-leaf-spot-okra-in-my-garden-03-768x1024.jpg"
+    ],
+    "confusableWith": [
+      "Septoria Leaf Spot",
+      "Brown Leaf Spot"
+    ],
+    "nutshellPoints": [
+      "Less common but damaging",
+      "Gray-centered leaf spots",
+      "Favored by warm, humid weather"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "downy-mildew",
+    "name": "Downy Mildew",
+    "scientificName": "Peronospora spp.",
+    "category": "fungal",
+    "categoryIcon": "fungus.svg",
+    "causeType": "Downy Mildew is caused by oomycete pathogens belonging to the genus Peronospora. The pathogen infects leaf tissues through stomata and spreads rapidly under cool, humid, and wet conditions. It survives on infected plant debris and produces spores that disperse through air and rain splash. Although less common in potato compared to other crops, it can cause significant foliage damage under favorable conditions.",
+    "affectedPart": [
+      "leaf",
+      "stem"
+    ],
+    "severity": "medium",
+    "commonness": "rare",
+    "symptoms": [
+      "Initial symptoms appear as pale green to yellow patches on the upper leaf surface.",
+      "Corresponding undersides of leaves develop grayish to purplish downy fungal growth under humid conditions.",
+      "Lesions expand irregularly and may merge, covering large leaf areas.",
+      "Infected leaves gradually turn brown, dry, and collapse.",
+      "Severe infection leads to premature defoliation and reduced plant vigor."
+    ],
+    "visualSigns": [
+      "Yellow patches on upper leaf surface",
+      "Gray or purplish downy growth on leaf underside",
+      "Rapid leaf collapse in humid weather"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Cool temperatures (10–20°C)",
+      "High relative humidity",
+      "Prolonged leaf wetness",
+      "Dense crop canopy"
+    ],
+    "spreadMethod": [
+      "air",
+      "rain-splash",
+      "soil"
+    ],
+    "prevention": [
+      "Ensure proper plant spacing to improve air circulation.",
+      "Avoid overhead irrigation during cool, humid periods.",
+      "Remove infected plant debris after harvest.",
+      "Practice crop rotation with non-host crops."
+    ],
+    "treatment": [
+      "Apply fungicides immediately upon first detection of symptoms.",
+      "Remove severely infected leaves to reduce inoculum load.",
+      "Maintain consistent spray intervals during favorable conditions.",
+      "Avoid working in fields when foliage is wet."
+    ],
+    "control": {
+      "organicControl": [
+        "Apply bio-fungicides containing Bacillus species to suppress pathogen growth.",
+        "Use neem-based botanical sprays as a preventive measure.",
+        "Improve field sanitation and airflow within the canopy."
+      ],
+      "chemicalControl": [
+        "Apply protective fungicides such as mancozeb before disease onset.",
+        "Use systemic fungicides effective against oomycetes when disease pressure is high.",
+        "Rotate fungicides with different modes of action to prevent resistance."
+      ]
+    },
+    "images": [
+      "https://media.istockphoto.com/id/1942312104/photo/detail-of-potato-crop-affected-by-downy-mildew-phytophthora-infestans-fungus-attacking-potato.jpg?s=2048x2048&w=is&k=20&c=TjTdF18maNzCh80oWfmRlBypPyEF4zdIHR0rkTby6mg="
+    ],
+    "confusableWith": [
+      "Late Blight",
+      "Powdery Mildew"
+    ],
+    "nutshellPoints": [
+      "Thrives in cool, humid weather",
+      "Downy growth on leaf underside",
+      "Causes rapid defoliation"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "powdery-mildew",
+    "name": "Powdery Mildew",
+    "scientificName": "Erysiphe spp.",
+    "category": "fungal",
+    "categoryIcon": "fungus.svg",
+    "causeType": "Powdery Mildew is caused by fungal pathogens of the genus Erysiphe. Unlike many fungal diseases, it does not require free water for infection and spreads primarily through airborne spores. The pathogen grows on the leaf surface and draws nutrients from plant cells, reducing photosynthetic efficiency.",
+    "affectedPart": [
+      "leaf",
+      "stem"
+    ],
+    "severity": "medium",
+    "commonness": "rare",
+    "symptoms": [
+      "White, powdery fungal growth appears on upper leaf surfaces.",
+      "Infected leaves may develop yellow patches beneath the powdery coating.",
+      "Leaf tissue becomes distorted or curled under severe infection.",
+      "As disease progresses, leaves dry up and may drop prematurely.",
+      "Plant vigor declines due to reduced photosynthesis."
+    ],
+    "visualSigns": [
+      "White powdery coating on leaves",
+      "Yellowing beneath fungal growth",
+      "Dry, brittle foliage"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "flowering"
+    ],
+    "favorableConditions": [
+      "Moderate temperatures (18–25°C)",
+      "High humidity without free water",
+      "Poor air circulation",
+      "Dense crop growth"
+    ],
+    "spreadMethod": [
+      "air"
+    ],
+    "prevention": [
+      "Ensure adequate spacing between plants.",
+      "Avoid excessive nitrogen fertilization.",
+      "Remove infected plant residues.",
+      "Monitor crop regularly during warm periods."
+    ],
+    "treatment": [
+      "Apply fungicides immediately after powdery growth is observed.",
+      "Remove heavily infected leaves to reduce spore production.",
+      "Improve ventilation and reduce canopy density.",
+      "Repeat treatments if favorable conditions persist."
+    ],
+    "control": {
+      "organicControl": [
+        "Apply sulfur-based sprays to inhibit fungal growth.",
+        "Use neem oil or potassium bicarbonate sprays.",
+        "Encourage natural antagonistic microorganisms."
+      ],
+      "chemicalControl": [
+        "Apply systemic fungicides effective against powdery mildew.",
+        "Rotate fungicides to prevent resistance development.",
+        "Ensure thorough coverage of leaf surfaces."
+      ]
+    },
+    "images": [
+      "https://pnwhandbooks.org/sites/pnwhandbooks/files/plant/images/potato-solanum-tuberosum-powdery-mildew/potatopowderymildew.jpg"
+    ],
+    "confusableWith": [
+      "Downy Mildew",
+      "Dust Deposition"
+    ],
+    "nutshellPoints": [
+      "Does not need free water",
+      "White powdery leaf coating",
+      "Spreads through air"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "bacterial-wilt",
+    "name": "Bacterial Wilt (Brown Rot)",
+    "scientificName": "Ralstonia solanacearum",
+    "category": "bacterial",
+    "categoryIcon": "bacteria.svg",
+    "causeType": "Bacterial Wilt, also known as Brown Rot, is caused by the soil-borne bacterium Ralstonia solanacearum. The pathogen enters plants through roots or wounds and colonizes the vascular system, blocking water transport. It survives in soil, water, infected tubers, and weeds, making it extremely difficult to eradicate.",
+    "affectedPart": [
+      "root",
+      "stem",
+      "tuber",
+      "whole-plant"
+    ],
+    "severity": "very-high",
+    "commonness": "common",
+    "symptoms": [
+      "Sudden wilting of leaves during the hottest part of the day, with partial recovery at night.",
+      "Permanent wilting and collapse of entire plant as infection advances.",
+      "Brown discoloration of vascular tissues in stems and tubers.",
+      "Milky bacterial ooze may exude from cut stems or tubers when squeezed.",
+      "Infected tubers rot internally and emit foul odor in advanced stages."
+    ],
+    "visualSigns": [
+      "Sudden plant wilting",
+      "Brown vascular discoloration",
+      "Bacterial ooze from cut stems"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation",
+      "storage"
+    ],
+    "favorableConditions": [
+      "Warm temperatures (25–35°C)",
+      "High soil moisture",
+      "Poor drainage",
+      "Continuous potato cultivation"
+    ],
+    "spreadMethod": [
+      "soil",
+      "water",
+      "seed-tuber",
+      "tools"
+    ],
+    "prevention": [
+      "Use certified disease-free seed tubers.",
+      "Avoid planting in infested fields.",
+      "Practice long crop rotations with non-host crops.",
+      "Ensure proper field drainage."
+    ],
+    "treatment": [
+      "Immediately remove and destroy infected plants.",
+      "Avoid movement of soil and water from infected fields.",
+      "Do not use infected tubers for seed or consumption.",
+      "No curative chemical treatment once infection occurs."
+    ],
+    "control": {
+      "organicControl": [
+        "Practice strict field sanitation and crop rotation.",
+        "Use biological soil treatments to suppress pathogen populations.",
+        "Improve soil drainage and structure."
+      ],
+      "chemicalControl": [
+        "Chemical control is largely ineffective once infection is established.",
+        "Soil fumigation may reduce pathogen load but is not always practical.",
+        "Focus on preventive rather than curative strategies."
+      ]
+    },
+    "images": [
+      "https://www.shutterstock.com/image-photo/symptoms-bacterial-wilt-potato-caused-260nw-2365929541.jpg",
+      "https://www.researchgate.net/publication/328080172/figure/fig2/AS:678079856922626@1538678244778/Bacterial-wilt-symptoms-on-potato.jpg"
+    ],
+    "confusableWith": [
+      "Fusarium Wilt",
+      "Drought Stress"
+    ],
+    "nutshellPoints": [
+      "Most destructive bacterial disease of potato",
+      "Blocks water transport system",
+      "No effective cure after infection"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "bacterial-leaf-blight",
+    "name": "Bacterial Leaf Blight",
+    "scientificName": "Xanthomonas spp.",
+    "category": "bacterial",
+    "categoryIcon": "bacteria.svg",
+    "causeType": "Bacterial Leaf Blight is caused by Xanthomonas species that infect potato leaves through natural openings or wounds. The bacteria survive on crop residues, weeds, and contaminated tools, spreading rapidly under warm, wet conditions. Infection damages leaf tissues and reduces photosynthetic capacity.",
+    "affectedPart": [
+      "leaf",
+      "stem"
+    ],
+    "severity": "medium",
+    "commonness": "occasional",
+    "symptoms": [
+      "Small, water-soaked lesions appear on leaf margins or between veins.",
+      "Lesions enlarge and turn brown with yellow halos.",
+      "Affected leaf tissue dries and becomes brittle.",
+      "Severe infection leads to leaf tearing and premature drop.",
+      "Overall plant growth and vigor decline."
+    ],
+    "visualSigns": [
+      "Water-soaked leaf spots",
+      "Brown lesions with yellow halos",
+      "Leaf tearing and blight"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "flowering"
+    ],
+    "favorableConditions": [
+      "Warm temperatures",
+      "High humidity",
+      "Frequent rainfall",
+      "Mechanical injury to leaves"
+    ],
+    "spreadMethod": [
+      "rain-splash",
+      "tools",
+      "insect"
+    ],
+    "prevention": [
+      "Use disease-free planting material.",
+      "Avoid working in wet fields.",
+      "Disinfect tools and equipment.",
+      "Remove infected crop residues."
+    ],
+    "treatment": [
+      "Remove infected leaves to reduce bacterial spread.",
+      "Avoid overhead irrigation during outbreaks.",
+      "Monitor crop closely during wet weather.",
+      "Apply treatments early for best results."
+    ],
+    "control": {
+      "organicControl": [
+        "Use copper-based organic sprays in early stages.",
+        "Improve field sanitation and air circulation.",
+        "Encourage plant vigor through balanced nutrition."
+      ],
+      "chemicalControl": [
+        "Apply copper-based bactericides as preventive sprays.",
+        "Rotate products to avoid resistance buildup.",
+        "Apply during early infection stages for effectiveness."
+      ]
+    },
+    "images": [
+      "images/bacterial_leaf_blight_leaf.jpg"
+    ],
+    "confusableWith": [
+      "Septoria Leaf Spot",
+      "Early Blight"
+    ],
+    "nutshellPoints": [
+      "Favored by warm, wet conditions",
+      "Water-soaked lesions are key sign",
+      "Spreads through rain and tools"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "potato-leaf-roll-virus",
+    "name": "Potato Leaf Roll Virus (PLRV)",
+    "scientificName": "Potato leafroll virus",
+    "category": "viral",
+    "categoryIcon": "virus.svg",
+    "causeType": "Potato Leaf Roll Virus (PLRV) is caused by a phloem-limited virus transmitted primarily by aphids, especially Myzus persicae, in a persistent manner. Once acquired, the aphid remains infectious for life. The virus moves through the plant’s vascular system, disrupting nutrient transport and causing systemic physiological damage. It also spreads through infected seed tubers, making it a serious seed-borne disease.",
+    "affectedPart": [
+      "leaf",
+      "stem",
+      "tuber",
+      "whole-plant"
+    ],
+    "severity": "very-high",
+    "commonness": "common",
+    "symptoms": [
+      "Early symptoms include upward rolling of lower leaves along the margins, giving a stiff, leathery appearance.",
+      "Leaves become thickened, brittle, and produce a characteristic rustling sound when handled.",
+      "Leaf color changes from normal green to pale green or yellow, often starting from older leaves.",
+      "Plants become erect, stunted, and show reduced lateral branching.",
+      "Tuber formation is severely affected, resulting in small, net necrotic tubers with poor market value."
+    ],
+    "visualSigns": [
+      "Upward rolling of leaves",
+      "Stiff, leathery foliage",
+      "Erect and stunted plant growth"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "High aphid population",
+      "Warm and dry weather",
+      "Continuous potato cultivation",
+      "Use of infected seed tubers"
+    ],
+    "spreadMethod": [
+      "insect",
+      "seed-tuber"
+    ],
+    "prevention": [
+      "Use certified virus-free seed tubers.",
+      "Monitor and control aphid populations early.",
+      "Remove infected plants (roguing) promptly.",
+      "Avoid planting near older infected potato fields."
+    ],
+    "treatment": [
+      "There is no curative treatment once plants are infected.",
+      "Remove and destroy infected plants to limit virus spread.",
+      "Focus on vector control to reduce further infections.",
+      "Avoid using tubers from infected plants as seed."
+    ],
+    "control": {
+      "organicControl": [
+        "Use yellow sticky traps to monitor aphid populations.",
+        "Apply neem-based products to reduce aphid activity.",
+        "Encourage natural predators such as lady beetles."
+      ],
+      "chemicalControl": [
+        "Apply systemic insecticides to control aphid vectors early in the season.",
+        "Use seed treatment insecticides to reduce early virus transmission.",
+        "Rotate insecticides to avoid resistance development."
+      ]
+    },
+    "images": [
+      "https://www.nexles.com/articles/wp-content/uploads/2019/10/Potato-leaf-roll-virus.jpg",
+      "https://bugwoodcloud.org/images/1536x1024/5360715.jpg",
+      "https://c8.alamy.com/comp/AETYTE/potato-leaf-roll-virus-symptoms-AETYTE.jpg"
+    ],
+    "confusableWith": [
+      "Physiological Leaf Roll",
+      "Potassium Deficiency"
+    ],
+    "nutshellPoints": [
+      "Persistent aphid-transmitted virus",
+      "Causes severe yield and quality loss",
+      "No cure after infection"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "potato-virus-y",
+    "name": "Potato Virus Y (PVY)",
+    "scientificName": "Potato virus Y",
+    "category": "viral",
+    "categoryIcon": "virus.svg",
+    "causeType": "Potato Virus Y (PVY) is a highly variable and economically important virus transmitted by several aphid species in a non-persistent manner. The virus infects leaf cells and disrupts chloroplast function, leading to mosaic patterns and necrosis. It spreads rapidly through aphids and infected seed tubers, making it difficult to manage once established.",
+    "affectedPart": [
+      "leaf",
+      "stem",
+      "tuber",
+      "whole-plant"
+    ],
+    "severity": "high",
+    "commonness": "very-common",
+    "symptoms": [
+      "Light and dark green mosaic patterns appear on young leaves.",
+      "Leaf margins may become wavy, distorted, or slightly rolled.",
+      "In severe strains, necrotic streaks develop on veins and stems.",
+      "Plants exhibit stunted growth and reduced canopy development.",
+      "Some strains cause tuber necrosis, reducing storage quality."
+    ],
+    "visualSigns": [
+      "Green mosaic pattern on leaves",
+      "Vein necrosis in severe cases",
+      "Distorted leaf shape"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "High aphid activity",
+      "Warm temperatures",
+      "Mixed cultivation with infected plants",
+      "Use of infected seed tubers"
+    ],
+    "spreadMethod": [
+      "insect",
+      "seed-tuber"
+    ],
+    "prevention": [
+      "Plant certified virus-free seed potatoes.",
+      "Remove infected plants early in the season.",
+      "Manage aphids even at low population levels.",
+      "Avoid overlapping potato crops."
+    ],
+    "treatment": [
+      "No direct treatment is available for virus elimination.",
+      "Infected plants should be removed immediately.",
+      "Prevent secondary spread by controlling aphids.",
+      "Maintain strict seed hygiene."
+    ],
+    "control": {
+      "organicControl": [
+        "Apply neem oil to deter aphid feeding.",
+        "Use reflective mulches to repel aphids.",
+        "Promote biodiversity to enhance natural enemies."
+      ],
+      "chemicalControl": [
+        "Use quick-acting insecticides to reduce aphid transmission.",
+        "Apply mineral oils to interfere with virus transmission.",
+        "Rotate insecticide classes to prevent resistance."
+      ]
+    },
+    "images": [
+      "https://tse2.mm.bing.net/th/id/OIP.R5ipxior_by4vkfXahQCiAHaFL?pid=Api&P=0&h=180",
+      "https://blogs.cornell.edu/livegpath/files/2016/08/pvy3x4000-27ibp3e.jpg"
+    ],
+    "confusableWith": [
+      "Mosaic Disease",
+      "Mild Mosaic"
+    ],
+    "nutshellPoints": [
+      "One of the most widespread potato viruses",
+      "Transmitted rapidly by aphids",
+      "Symptom severity varies by strain"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "mosaic-disease",
+    "name": "Mosaic Disease",
+    "scientificName": "Virus complex (PVY, PVA, PVS)",
+    "category": "viral",
+    "categoryIcon": "virus.svg",
+    "causeType": "Mosaic Disease in potato is caused by a complex of viruses, mainly Potato Virus Y (PVY), Potato Virus A (PVA), and Potato Virus S (PVS). These viruses disrupt chlorophyll distribution in leaf tissues, leading to characteristic mosaic patterns. Infection can be latent or visible depending on virus strain and plant variety.",
+    "affectedPart": [
+      "leaf",
+      "stem",
+      "whole-plant"
+    ],
+    "severity": "medium",
+    "commonness": "very-common",
+    "symptoms": [
+      "Leaves show mottled patterns of light and dark green areas.",
+      "Leaf surface may appear uneven or slightly puckered.",
+      "Plants exhibit mild stunting compared to healthy plants.",
+      "Symptoms are more visible under cool conditions.",
+      "Yield reduction occurs gradually without dramatic plant collapse."
+    ],
+    "visualSigns": [
+      "Green mottling on leaves",
+      "Slight leaf puckering",
+      "Uniform but dull canopy"
+    ],
+    "stageAffected": [
+      "vegetative"
+    ],
+    "favorableConditions": [
+      "Presence of aphid vectors",
+      "Cool to moderate temperatures",
+      "Use of infected planting material"
+    ],
+    "spreadMethod": [
+      "insect",
+      "seed-tuber"
+    ],
+    "prevention": [
+      "Use virus-indexed seed tubers.",
+      "Remove infected plants regularly.",
+      "Control aphid populations early.",
+      "Avoid mechanical injury during field operations."
+    ],
+    "treatment": [
+      "There is no treatment to cure infected plants.",
+      "Focus on preventing further spread.",
+      "Maintain clean cultivation practices.",
+      "Replace seed stock periodically."
+    ],
+    "control": {
+      "organicControl": [
+        "Use reflective mulches to reduce aphid landing.",
+        "Apply neem-based repellents.",
+        "Encourage beneficial insects."
+      ],
+      "chemicalControl": [
+        "Use insecticides to manage aphid vectors.",
+        "Apply mineral oils to reduce virus transmission.",
+        "Integrate vector management with cultural practices."
+      ]
+    },
+    "images": [
+      "http://images.wikia.com/gardener/images/8/85/Potato_Mosaic_Virus.jpg",
+      "https://cdn.mos.cms.futurecdn.net/AfBg7B8PZQ9h4rdRV8snP6.jpg",
+      "https://c8.alamy.com/comp/ABHE6D/very-mild-symptom-of-mosaic-virus-on-potato-foliage-generic-virus-ABHE6D.jpg"
+    ],
+    "confusableWith": [
+      "Mild Mosaic",
+      "Nutrient Imbalance"
+    ],
+    "nutshellPoints": [
+      "Caused by multiple viruses",
+      "Produces mottled leaf appearance",
+      "Often underestimated but yield-reducing"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "severe-mosaic",
+    "name": "Severe Mosaic",
+    "scientificName": "Severe strains of PVY / Virus complexes",
+    "category": "viral",
+    "categoryIcon": "virus.svg",
+    "causeType": "Severe Mosaic is caused by aggressive strains of potato mosaic viruses, particularly necrotic strains of PVY. These strains cause extensive disruption of leaf tissue, vascular damage, and systemic infection, resulting in heavy yield loss and plant deformation.",
+    "affectedPart": [
+      "leaf",
+      "stem",
+      "whole-plant"
+    ],
+    "severity": "very-high",
+    "commonness": "common",
+    "symptoms": [
+      "Leaves exhibit intense mosaic patterns with sharp contrast between light and dark green areas.",
+      "Severe leaf distortion, crinkling, and narrowing occur.",
+      "Necrotic streaks develop along veins and petioles.",
+      "Plants become severely stunted with poor canopy formation.",
+      "Flowering and tuber development are drastically reduced."
+    ],
+    "visualSigns": [
+      "Highly distorted leaves",
+      "Sharp mosaic contrast",
+      "Necrotic vein streaks"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "High aphid pressure",
+      "Susceptible potato varieties",
+      "Mixed virus infections"
+    ],
+    "spreadMethod": [
+      "insect",
+      "seed-tuber"
+    ],
+    "prevention": [
+      "Strict use of virus-free certified seed.",
+      "Immediate removal of infected plants.",
+      "Avoid reusing seed from affected fields.",
+      "Maintain effective aphid control programs."
+    ],
+    "treatment": [
+      "No curative treatment is available.",
+      "Remove severely affected plants to prevent spread.",
+      "Prevent secondary infections through vector management.",
+      "Replace contaminated seed stock."
+    ],
+    "control": {
+      "organicControl": [
+        "Use neem oil and botanical repellents.",
+        "Enhance natural predator populations.",
+        "Maintain clean field borders."
+      ],
+      "chemicalControl": [
+        "Apply fast-acting insecticides against aphids.",
+        "Use mineral oils to limit virus transmission.",
+        "Rotate insecticides to reduce resistance risk."
+      ]
+    },
+    "images": [
+      "https://c8.alamy.com/comp/A1W1GK/severe-typical-symptoms-of-mosaic-virus-infection-on-a-potato-leaf-A1W1GK.jpg"
+    ],
+    "confusableWith": [
+      "Mild Mosaic",
+      "Herbicide Injury"
+    ],
+    "nutshellPoints": [
+      "Caused by aggressive virus strains",
+      "Severe leaf deformation",
+      "High yield loss potential"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "mild-mosaic",
+    "name": "Mild Mosaic",
+    "scientificName": "Mild strains of potato mosaic viruses",
+    "category": "viral",
+    "categoryIcon": "virus.svg",
+    "causeType": "Mild Mosaic is caused by less aggressive strains of potato mosaic viruses. These strains cause subtle physiological disruptions without severe tissue damage, often allowing plants to grow nearly normally while still reducing yield potential over time.",
+    "affectedPart": [
+      "leaf",
+      "whole-plant"
+    ],
+    "severity": "low",
+    "commonness": "very-common",
+    "symptoms": [
+      "Leaves show faint mottling of light and dark green shades.",
+      "Symptoms are often subtle and easily overlooked.",
+      "Leaf size may be slightly reduced without distortion.",
+      "Plants appear mostly normal but grow slightly slower.",
+      "Yield reduction occurs gradually over successive generations."
+    ],
+    "visualSigns": [
+      "Faint leaf mottling",
+      "Nearly normal plant appearance",
+      "Subtle canopy dullness"
+    ],
+    "stageAffected": [
+      "vegetative"
+    ],
+    "favorableConditions": [
+      "Low to moderate aphid populations",
+      "Use of farm-saved seed",
+      "Cool growing conditions"
+    ],
+    "spreadMethod": [
+      "insect",
+      "seed-tuber"
+    ],
+    "prevention": [
+      "Regular replacement of seed stock.",
+      "Early-season aphid monitoring.",
+      "Removal of symptomatic plants.",
+      "Use of resistant varieties where available."
+    ],
+    "treatment": [
+      "No direct treatment is possible.",
+      "Focus on long-term seed health management.",
+      "Prevent progression to severe virus complexes.",
+      "Avoid saving seed from infected fields."
+    ],
+    "control": {
+      "organicControl": [
+        "Use neem-based repellents.",
+        "Promote natural aphid predators.",
+        "Maintain field hygiene."
+      ],
+      "chemicalControl": [
+        "Apply insecticides as part of integrated vector management.",
+        "Use mineral oils to reduce virus transmission.",
+        "Avoid excessive insecticide use to protect beneficial insects."
+      ]
+    },
+    "images": [
+      "https://www.researchgate.net/publication/311861850/figure/fig23/AS:442724731101202@1482565209715/Mild-mosaic-symptoms-of-potato-plants.png",
+      "https://c8.alamy.com/comp/ABHE6D/very-mild-symptom-of-mosaic-virus-on-potato-foliage-generic-virus-ABHE6D.jpg"
+    ],
+    "confusableWith": [
+      "Nutrient Deficiency",
+      "Physiological Leaf Variegation"
+    ],
+    "nutshellPoints": [
+      "Often goes unnoticed",
+      "Gradually reduces yield",
+      "Major cause of seed degeneration"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "potato-virus-x",
+    "name": "Potato Virus X (PVX)",
+    "scientificName": "Potato virus X",
+    "category": "viral",
+    "categoryIcon": "virus.svg",
+    "causeType": "Potato Virus X (PVX) is a mechanically transmitted virus that infects potato plants through wounds caused by handling, cultivation tools, or contact between plants. Unlike many potato viruses, PVX is not efficiently transmitted by insects. The virus interferes with chloroplast function, reducing photosynthesis and causing mild to moderate yield losses, especially when combined with other viruses.",
+    "affectedPart": [
+      "leaf",
+      "stem",
+      "whole-plant"
+    ],
+    "severity": "medium",
+    "commonness": "very-common",
+    "symptoms": [
+      "Early symptoms include faint mosaic or mottling on young leaves.",
+      "Leaves may show mild wrinkling or slight deformation without severe distortion.",
+      "In many cultivars, symptoms remain latent and difficult to detect visually.",
+      "Plant growth appears nearly normal under single infection.",
+      "When combined with other viruses, symptoms and yield loss become severe."
+    ],
+    "visualSigns": [
+      "Faint mosaic pattern",
+      "Slight leaf wrinkling",
+      "Often symptomless plants"
+    ],
+    "stageAffected": [
+      "vegetative"
+    ],
+    "favorableConditions": [
+      "Mechanical injury during field operations",
+      "Dense plant contact",
+      "Use of infected seed tubers"
+    ],
+    "spreadMethod": [
+      "tools",
+      "seed-tuber",
+      "contact"
+    ],
+    "prevention": [
+      "Use certified virus-free seed tubers to prevent primary infection.",
+      "Disinfect cutting tools and machinery regularly to avoid mechanical spread.",
+      "Minimize handling of plants when foliage is wet or fragile.",
+      "Avoid planting PVX-infected seed repeatedly to prevent virus buildup."
+    ],
+    "treatment": [
+      "There is no curative treatment to eliminate PVX from infected plants.",
+      "Once infection is detected, affected plants should be removed if seed production is the goal.",
+      "Management focuses on preventing secondary spread through sanitation.",
+      "Seed lots showing increasing PVX incidence should be replaced entirely."
+    ],
+    "control": {
+      "organicControl": [
+        "Strict field hygiene to prevent sap transmission between plants.",
+        "Disinfection of tools using approved sanitizing agents.",
+        "Removal of infected plants in seed production fields.",
+        "Use of resistant or tolerant potato varieties where available."
+      ],
+      "chemicalControl": [
+        "Chemical control is ineffective against PVX itself as it is a virus.",
+        "Chemical treatments are limited to disinfectants for tools and surfaces.",
+        "Focus remains on preventive and cultural control rather than pesticides."
+      ]
+    },
+    "images": [
+      "images/pvx_mosaic.jpg"
+    ],
+    "confusableWith": [
+      "Mild Mosaic",
+      "PVS Infection"
+    ],
+    "nutshellPoints": [
+      "Primarily spread mechanically",
+      "Often symptomless alone",
+      "Severe in mixed infections"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "potato-virus-s",
+    "name": "Potato Virus S (PVS)",
+    "scientificName": "Potato virus S",
+    "category": "viral",
+    "categoryIcon": "virus.svg",
+    "causeType": "Potato Virus S (PVS) is a widespread virus that causes mostly mild or latent infections. It spreads through mechanical contact and infected seed tubers, and occasionally through aphids in a non-persistent manner. Though often underestimated, PVS contributes significantly to seed degeneration over multiple planting cycles.",
+    "affectedPart": [
+      "leaf",
+      "whole-plant"
+    ],
+    "severity": "low",
+    "commonness": "very-common",
+    "symptoms": [
+      "Very mild mosaic or no visible symptoms in most varieties.",
+      "Leaves may show slight dullness or reduced gloss.",
+      "Subtle growth reduction becomes noticeable only in comparison to healthy plants.",
+      "Yield decline occurs slowly over successive generations."
+    ],
+    "visualSigns": [
+      "Very faint leaf mottling",
+      "Nearly normal plant appearance",
+      "Reduced vigor over time"
+    ],
+    "stageAffected": [
+      "vegetative"
+    ],
+    "favorableConditions": [
+      "Repeated use of farm-saved seed",
+      "Mechanical plant injury",
+      "Low-level aphid activity"
+    ],
+    "spreadMethod": [
+      "seed-tuber",
+      "tools",
+      "insect"
+    ],
+    "prevention": [
+      "Use virus-indexed seed tubers to prevent long-term degeneration.",
+      "Regularly replace seed stock after a few generations.",
+      "Reduce mechanical injury during cultivation.",
+      "Monitor virus levels in seed multiplication fields."
+    ],
+    "treatment": [
+      "No treatment exists to cure PVS-infected plants.",
+      "Management aims at preventing accumulation over seasons.",
+      "Infected seed lots should be phased out gradually.",
+      "Roguing is recommended in seed production programs."
+    ],
+    "control": {
+      "organicControl": [
+        "Strict sanitation of tools and hands.",
+        "Use of healthy seed and crop rotation.",
+        "Encouragement of balanced plant nutrition to reduce stress."
+      ],
+      "chemicalControl": [
+        "Chemical control against the virus is not possible.",
+        "Occasional aphid control may reduce secondary spread.",
+        "Avoid unnecessary pesticide use to preserve beneficial insects."
+      ]
+    },
+    "images": [
+      "https://ephytia.inra.fr/en/Images/view/31857"
+    ],
+    "confusableWith": [
+      "Mild Mosaic",
+      "Nutrient Deficiency"
+    ],
+    "nutshellPoints": [
+      "Usually symptomless",
+      "Major cause of seed degeneration",
+      "Spread mainly through seed"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "potato-virus-a",
+    "name": "Potato Virus A (PVA)",
+    "scientificName": "Potato virus A",
+    "category": "viral",
+    "categoryIcon": "virus.svg",
+    "causeType": "Potato Virus A (PVA) is transmitted mainly by aphids in a non-persistent manner and through infected seed tubers. The virus disrupts normal leaf cell metabolism, resulting in mosaic patterns and growth reduction. PVA infections are often moderate alone but severe in mixed virus complexes.",
+    "affectedPart": [
+      "leaf",
+      "stem",
+      "whole-plant"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Distinct light and dark green mosaic patterns on leaves.",
+      "Leaf margins may become wavy or slightly curled.",
+      "Plants show moderate stunting and reduced canopy size.",
+      "Yield loss becomes significant when infection occurs early."
+    ],
+    "visualSigns": [
+      "Clear mosaic pattern",
+      "Leaf waviness",
+      "Moderate plant stunting"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "High aphid activity",
+      "Susceptible potato varieties",
+      "Use of infected seed"
+    ],
+    "spreadMethod": [
+      "insect",
+      "seed-tuber"
+    ],
+    "prevention": [
+      "Plant certified virus-free seed potatoes.",
+      "Control aphid vectors early in the season.",
+      "Avoid overlapping potato crops.",
+      "Remove infected plants promptly."
+    ],
+    "treatment": [
+      "No curative treatment is available once infection occurs.",
+      "Infected plants should be removed to prevent virus spread.",
+      "Focus on preventing new infections rather than curing existing ones.",
+      "Replace contaminated seed stocks."
+    ],
+    "control": {
+      "organicControl": [
+        "Use neem-based repellents to deter aphid feeding.",
+        "Install reflective mulches to reduce aphid landing.",
+        "Promote natural aphid predators."
+      ],
+      "chemicalControl": [
+        "Apply fast-acting insecticides targeting aphid vectors.",
+        "Use mineral oils to disrupt virus transmission during feeding.",
+        "Rotate insecticides to prevent resistance."
+      ]
+    },
+    "images": [
+      "https://www.plantdepommedeterre.org/uploads/2023/04/sized/PVA_2-scaled-e1684235263190-255x175.jpg",
+      "https://www.plantdepommedeterre.org/uploads/2023/04/sized/PVA_3-e1684235502416-255x175.jpg"
+    ],
+    "confusableWith": [
+      "PVY",
+      "Mosaic Disease"
+    ],
+    "nutshellPoints": [
+      "Non-persistent aphid transmission",
+      "Moderate but significant yield loss",
+      "Severe in mixed infections"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "leaf-curl-disease",
+    "name": "Leaf Curl Disease",
+    "scientificName": "Virus complex (primarily PLRV)",
+    "category": "viral",
+    "categoryIcon": "virus.svg",
+    "causeType": "Leaf Curl Disease in potato is primarily associated with viral infections such as Potato Leaf Roll Virus and related complexes. The virus affects phloem tissues, disturbing water and nutrient transport, which leads to characteristic leaf rolling and plant stunting.",
+    "affectedPart": [
+      "leaf",
+      "stem",
+      "whole-plant"
+    ],
+    "severity": "high",
+    "commonness": "common",
+    "symptoms": [
+      "Leaves curl upward along margins, becoming stiff and leathery.",
+      "Lower leaves are affected first, followed by upper foliage.",
+      "Plants appear erect, rigid, and stunted.",
+      "Yield reduction is severe due to poor tuber development."
+    ],
+    "visualSigns": [
+      "Upward leaf curl",
+      "Rigid leaf texture",
+      "Erect growth habit"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "High aphid population",
+      "Warm and dry weather",
+      "Infected seed tubers"
+    ],
+    "spreadMethod": [
+      "insect",
+      "seed-tuber"
+    ],
+    "prevention": [
+      "Use certified virus-free seed.",
+      "Early-season aphid management.",
+      "Remove infected plants immediately.",
+      "Avoid planting near older infected crops."
+    ],
+    "treatment": [
+      "There is no treatment to reverse leaf curl once symptoms appear.",
+      "Affected plants should be removed to reduce inoculum.",
+      "Management focuses entirely on prevention and vector control.",
+      "Seed from affected plants must never be reused."
+    ],
+    "control": {
+      "organicControl": [
+        "Neem oil applications to reduce aphid feeding activity.",
+        "Use of yellow sticky traps for aphid monitoring.",
+        "Encouragement of beneficial insects."
+      ],
+      "chemicalControl": [
+        "Apply systemic insecticides to control aphid vectors.",
+        "Seed treatment insecticides to protect early growth stages.",
+        "Rotate chemicals to delay resistance development."
+      ]
+    },
+    "images": [
+      "https://tse4.mm.bing.net/th/id/OIP.CR1-kgtxzsQY1UMLpPAHpwHaEr?pid=Api&P=0&h=180"
+    ],
+    "confusableWith": [
+      "Physiological Leaf Roll",
+      "Potassium Deficiency"
+    ],
+    "nutshellPoints": [
+      "Caused mainly by viral infection",
+      "Strongly aphid-dependent",
+      "Severely reduces yield"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "aphids",
+    "name": "Aphids",
+    "scientificName": "Myzus persicae and related species",
+    "category": "insect",
+    "categoryIcon": "insect.svg",
+    "causeType": "Aphids are sap-sucking insect pests that directly damage potato plants by extracting phloem sap and indirectly by transmitting multiple viral diseases. Their rapid reproduction and ability to transmit viruses within seconds make them one of the most economically important potato pests.",
+    "affectedPart": [
+      "leaf",
+      "stem",
+      "whole-plant"
+    ],
+    "severity": "very-high",
+    "commonness": "very-common",
+    "symptoms": [
+      "Leaves curl downward or become distorted due to sap loss.",
+      "Yellowing and reduced vigor of plants.",
+      "Sticky honeydew deposits on leaves leading to sooty mold growth.",
+      "Rapid spread of viral diseases even at low aphid populations."
+    ],
+    "visualSigns": [
+      "Clusters of small insects on leaf underside",
+      "Sticky leaf surface",
+      "Presence of ants"
+    ],
+    "stageAffected": [
+      "seedling",
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Warm temperatures",
+      "Dry weather",
+      "Excess nitrogen fertilization"
+    ],
+    "spreadMethod": [
+      "insect"
+    ],
+    "prevention": [
+      "Regular monitoring of aphid populations.",
+      "Avoid excessive nitrogen fertilization.",
+      "Use reflective mulches to deter aphid landing.",
+      "Maintain field hygiene."
+    ],
+    "treatment": [
+      "Early intervention is critical due to virus transmission risk.",
+      "Reduce aphid population before virus spread occurs.",
+      "Combine cultural, biological, and chemical methods.",
+      "Late control is less effective for virus management."
+    ],
+    "control": {
+      "organicControl": [
+        "Neem oil sprays to disrupt feeding and reproduction.",
+        "Release or conserve natural enemies like ladybirds and lacewings.",
+        "Use water sprays to physically remove aphids from plants."
+      ],
+      "chemicalControl": [
+        "Apply selective systemic insecticides for rapid population reduction.",
+        "Use seed treatment insecticides for early-season protection.",
+        "Rotate insecticides with different modes of action."
+      ]
+    },
+    "images": [
+      "https://cdn.claytonpp.com/wp-content/uploads/2021/04/shutterstock_772518421-1-scaled.jpg"
+    ],
+    "confusableWith": [
+      "Thrips",
+      "Whiteflies"
+    ],
+    "nutshellPoints": [
+      "Major virus vector",
+      "Rapid reproduction",
+      "Early control is critical"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "thrips",
+    "name": "Thrips",
+    "scientificName": "Thrips tabaci and related species",
+    "category": "insect",
+    "categoryIcon": "insect.svg",
+    "causeType": "Thrips are tiny, slender, rasping-sucking insects that damage potato plants by scraping leaf surfaces and sucking out cell contents. This feeding destroys chlorophyll-bearing cells, reduces photosynthesis, and creates entry points for secondary infections. Thrips are also important vectors of certain viral diseases and multiply rapidly under hot, dry conditions.",
+    "affectedPart": [
+      "leaf",
+      "stem"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Early symptoms appear as silvery or pale streaks on leaf surfaces caused by rasping feeding.",
+      "Leaves develop fine speckling and gradually lose their healthy green color.",
+      "Leaf margins may curl upward or become distorted under heavy infestation.",
+      "Black dots (thrips excreta) may be visible on damaged leaf surfaces.",
+      "Severe infestation results in reduced plant vigor and stunted growth."
+    ],
+    "visualSigns": [
+      "Silvery streaks on leaves",
+      "Tiny black fecal spots",
+      "Small slender insects on leaf underside"
+    ],
+    "stageAffected": [
+      "seedling",
+      "vegetative"
+    ],
+    "favorableConditions": [
+      "Hot and dry weather",
+      "Low rainfall",
+      "Dusty field conditions"
+    ],
+    "spreadMethod": [
+      "insect"
+    ],
+    "prevention": [
+      "Maintain adequate field moisture to reduce thrips buildup.",
+      "Avoid excessive nitrogen fertilization which promotes soft tissue.",
+      "Remove weeds that serve as alternate hosts.",
+      "Monitor fields regularly using blue or yellow sticky traps."
+    ],
+    "treatment": [
+      "Begin control measures at early infestation stages to prevent population explosion.",
+      "Focus treatment on young foliage where thrips prefer to feed.",
+      "Late intervention is less effective due to rapid reproduction.",
+      "Combine chemical control with cultural practices for sustained suppression."
+    ],
+    "control": {
+      "organicControl": [
+        "Neem oil sprays disrupt feeding and reproduction of thrips.",
+        "Use of botanical extracts such as garlic or chili-based sprays as repellents.",
+        "Encouragement of natural enemies like predatory mites and minute pirate bugs."
+      ],
+      "chemicalControl": [
+        "Apply selective insecticides targeting thrips during early infestation.",
+        "Ensure proper spray coverage on leaf undersides.",
+        "Rotate insecticides with different modes of action to prevent resistance."
+      ]
+    },
+    "images": [
+      "https://apps.lucidcentral.org/ppp_v9/images/entities/thrips_086/image_4.jpeg",
+      "https://www.shutterstock.com/shutterstock/photos/493740796/display_1500/stock-photo-plant-disease-and-aphids-the-disease-leaves-kink-493740796.jpg"
+    ],
+    "confusableWith": [
+      "Mite Damage",
+      "Nutrient Deficiency"
+    ],
+    "nutshellPoints": [
+      "Favored by hot, dry weather",
+      "Causes silvery leaf damage",
+      "Can transmit viruses"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "whiteflies",
+    "name": "Whiteflies",
+    "scientificName": "Bemisia tabaci and related species",
+    "category": "insect",
+    "categoryIcon": "insect.svg",
+    "causeType": "Whiteflies are sap-sucking insects that feed on potato plants by extracting phloem sap. Their feeding weakens plants directly and their honeydew secretion promotes sooty mold growth, reducing photosynthesis. Whiteflies are also vectors of several plant viruses, making even low populations economically significant.",
+    "affectedPart": [
+      "leaf",
+      "stem",
+      "whole-plant"
+    ],
+    "severity": "high",
+    "commonness": "common",
+    "symptoms": [
+      "Leaves turn yellow and lose vigor due to continuous sap extraction.",
+      "Sticky honeydew accumulates on leaf surfaces.",
+      "Black sooty mold develops on honeydew-covered leaves.",
+      "Plants show reduced growth and poor tuber development.",
+      "Virus symptoms may appear following whitefly infestation."
+    ],
+    "visualSigns": [
+      "Small white insects flying when plants are disturbed",
+      "Sticky leaf surfaces",
+      "Black sooty mold growth"
+    ],
+    "stageAffected": [
+      "seedling",
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Warm temperatures",
+      "Dry weather",
+      "Dense crop canopy"
+    ],
+    "spreadMethod": [
+      "insect"
+    ],
+    "prevention": [
+      "Install yellow sticky traps for early detection.",
+      "Remove weeds that act as virus reservoirs.",
+      "Avoid overlapping host crops.",
+      "Maintain balanced fertilization."
+    ],
+    "treatment": [
+      "Early intervention is critical to prevent virus transmission.",
+      "Target both nymph and adult stages for effective control.",
+      "Repeated treatments may be required due to overlapping generations.",
+      "Integrate chemical and non-chemical approaches."
+    ],
+    "control": {
+      "organicControl": [
+        "Neem oil applications interfere with feeding and development.",
+        "Use of insecticidal soaps to reduce nymph populations.",
+        "Conservation of parasitoids such as Encarsia species."
+      ],
+      "chemicalControl": [
+        "Apply systemic insecticides for effective control of sap-feeding stages.",
+        "Rotate insecticides to delay resistance.",
+        "Ensure proper spray intervals to cover multiple life stages."
+      ]
+    },
+    "images": [
+      "https://www.brightview.com/sites/default/files/inline-images/Whitefly%20Infestation.jpg"
+    ],
+    "confusableWith": [
+      "Aphids",
+      "Leafhopper Damage"
+    ],
+    "nutshellPoints": [
+      "Major sap-sucking pest",
+      "Produces honeydew and sooty mold",
+      "Important virus vector"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "flea-beetles",
+    "name": "Flea Beetles",
+    "scientificName": "Epitrix spp.",
+    "category": "insect",
+    "categoryIcon": "insect.svg",
+    "causeType": "Flea beetles are small jumping beetles that damage potato plants primarily through adult feeding on leaves. They chew small holes in leaf tissue, reducing photosynthetic area and weakening young plants. Larvae may also feed on roots and tubers, causing additional underground damage.",
+    "affectedPart": [
+      "leaf",
+      "root",
+      "tuber"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Numerous small round holes appear on leaves, giving a shot-hole appearance.",
+      "Young seedlings may be severely damaged or killed.",
+      "Leaves may dry prematurely under heavy feeding.",
+      "Larval feeding causes shallow scarring on tubers."
+    ],
+    "visualSigns": [
+      "Shot-hole leaf damage",
+      "Small jumping beetles",
+      "Scarring on tubers"
+    ],
+    "stageAffected": [
+      "seedling",
+      "vegetative"
+    ],
+    "favorableConditions": [
+      "Warm weather",
+      "Dry soil",
+      "Presence of host weeds"
+    ],
+    "spreadMethod": [
+      "insect"
+    ],
+    "prevention": [
+      "Remove solanaceous weeds from field borders.",
+      "Use healthy, vigorous seed to promote rapid early growth.",
+      "Delay planting until beetle pressure declines.",
+      "Maintain adequate soil moisture."
+    ],
+    "treatment": [
+      "Control is most critical at seedling stage.",
+      "Late-season damage is usually cosmetic.",
+      "Protect young plants to ensure proper stand establishment.",
+      "Combine soil and foliar management strategies."
+    ],
+    "control": {
+      "organicControl": [
+        "Neem-based sprays to deter adult feeding.",
+        "Use of row covers to protect young plants.",
+        "Encourage natural predators such as ground beetles."
+      ],
+      "chemicalControl": [
+        "Apply foliar insecticides when damage exceeds threshold.",
+        "Seed treatment insecticides for early protection.",
+        "Rotate insecticides to prevent resistance."
+      ]
+    },
+    "images": [
+      "https://gardenerspath.com/wp-content/uploads/2019/04/Potato-flea-beetle-on-a-leaf-showing-feeding-damage.jpg",
+      "https://bugwoodcloud.org/images/1536x1024/1243037.jpg"
+    ],
+    "confusableWith": [
+      "Leaf Miner Holes",
+      "Hail Damage"
+    ],
+    "nutshellPoints": [
+      "Shot-hole leaf damage",
+      "Most harmful at seedling stage",
+      "Adults jump when disturbed"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "cutworms",
+    "name": "Cutworms",
+    "scientificName": "Agrotis spp.",
+    "category": "insect",
+    "categoryIcon": "insect.svg",
+    "causeType": "Cutworms are nocturnal caterpillars that damage potato plants by cutting stems at or below the soil surface. They hide in the soil during the day and feed at night, often destroying young plants rapidly. Severe infestations can lead to poor crop establishment and uneven plant stands.",
+    "affectedPart": [
+      "stem",
+      "whole-plant"
+    ],
+    "severity": "high",
+    "commonness": "occasional",
+    "symptoms": [
+      "Young plants are cut at the base and fall over.",
+      "Missing plants appear in patches across the field.",
+      "Damaged stems show clean cut marks.",
+      "Plants attacked later may wilt and die."
+    ],
+    "visualSigns": [
+      "Cut seedlings",
+      "Larvae curled in soil",
+      "Patchy crop gaps"
+    ],
+    "stageAffected": [
+      "seedling"
+    ],
+    "favorableConditions": [
+      "Weedy fields",
+      "High soil organic matter",
+      "Cool and moist soil"
+    ],
+    "spreadMethod": [
+      "soil"
+    ],
+    "prevention": [
+      "Remove weeds before planting.",
+      "Deep plowing to expose larvae and pupae.",
+      "Avoid planting immediately after grassy crops.",
+      "Monitor fields during early growth stages."
+    ],
+    "treatment": [
+      "Early detection is critical to prevent stand loss.",
+      "Target larvae before extensive cutting occurs.",
+      "Late control offers limited recovery.",
+      "Replanting may be required in severely affected areas."
+    ],
+    "control": {
+      "organicControl": [
+        "Use of bait traps containing bran and jaggery.",
+        "Encourage natural predators like birds.",
+        "Manual removal of larvae during early infestation."
+      ],
+      "chemicalControl": [
+        "Apply soil insecticides in the evening when larvae are active.",
+        "Use bait formulations for targeted control.",
+        "Follow recommended doses to avoid environmental harm."
+      ]
+    },
+    "images": [
+      "https://www.epicgardening.com/wp-content/uploads/2024/09/Cutworms-on-potato-leaf.jpg"
+    ],
+    "confusableWith": [
+      "Stem Rot",
+      "Mechanical Damage"
+    ],
+    "nutshellPoints": [
+      "Nocturnal feeder",
+      "Cuts plants at soil level",
+      "Most damaging at seedling stage"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "leaf-miners",
+    "name": "Leaf Miners",
+    "scientificName": "Liriomyza spp.",
+    "category": "insect",
+    "categoryIcon": "insect.svg",
+    "causeType": "Leaf miners are larvae of small flies that feed between leaf surfaces, creating tunnels as they consume internal tissues. This mining disrupts photosynthesis and weakens plants. Severe infestation reduces leaf function and increases susceptibility to secondary infections.",
+    "affectedPart": [
+      "leaf"
+    ],
+    "severity": "medium",
+    "commonness": "occasional",
+    "symptoms": [
+      "Serpentine or blotchy white tunnels appear on leaves.",
+      "Mined areas dry and turn brown over time.",
+      "Severe infestation causes premature leaf drop.",
+      "Overall photosynthetic capacity of plant is reduced."
+    ],
+    "visualSigns": [
+      "Winding tunnels on leaves",
+      "Brown blotches",
+      "Small flies around foliage"
+    ],
+    "stageAffected": [
+      "vegetative"
+    ],
+    "favorableConditions": [
+      "Warm weather",
+      "Dense foliage",
+      "Low natural enemy population"
+    ],
+    "spreadMethod": [
+      "insect"
+    ],
+    "prevention": [
+      "Remove and destroy infested leaves.",
+      "Avoid excessive nitrogen fertilization.",
+      "Monitor adult flies using sticky traps.",
+      "Maintain field sanitation."
+    ],
+    "treatment": [
+      "Target larvae inside leaves for effective control.",
+      "Early intervention prevents population buildup.",
+      "Late treatment has reduced effectiveness.",
+      "Integrated pest management is essential."
+    ],
+    "control": {
+      "organicControl": [
+        "Neem oil to reduce egg laying and larval survival.",
+        "Encourage parasitoid wasps.",
+        "Manual removal of infested leaves in small plots."
+      ],
+      "chemicalControl": [
+        "Use systemic insecticides that penetrate leaf tissue.",
+        "Apply at early larval stages for maximum effectiveness.",
+        "Rotate insecticides to prevent resistance."
+      ]
+    },
+    "images": [
+      "https://c8.alamy.com/comp/2HMDB3F/potato-leaves-damaged-by-leaf-miner-a-major-pest-of-potato-field-the-most-distinctive-symptoms-of-damage-are-the-blotch-shaped-mines-in-the-leaves-2HMDB3F.jpg",
+      "https://www.arc.agric.za/arc-vopi/SiteAssets/Pages/Insects/PotatoLeafminer2.png"
+    ],
+    "confusableWith": [
+      "Fungal Leaf Spot",
+      "Nutrient Burn"
+    ],
+    "nutshellPoints": [
+      "Larvae mine inside leaves",
+      "Reduces photosynthesis",
+      "Early control is critical"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "potato-tuber-moth-leaf-stage",
+    "name": "Potato Tuber Moth (Leaf Damage Stage)",
+    "scientificName": "Phthorimaea operculella",
+    "category": "insect",
+    "categoryIcon": "insect.svg",
+    "causeType": "The potato tuber moth is a lepidopteran pest whose larvae initially attack potato foliage before moving to stems and tubers. Adult moths lay eggs on the underside of leaves. After hatching, larvae mine into leaf tissues, feeding internally. Leaf-stage damage weakens the plant, reduces photosynthetic area, and facilitates later infestation of tubers both in the field and during storage.",
+    "affectedPart": [
+      "leaf",
+      "stem"
+    ],
+    "severity": "high",
+    "commonness": "common",
+    "symptoms": [
+      "Early symptoms appear as narrow, winding mines on leaves caused by larval feeding inside the tissue.",
+      "Mined areas turn pale green, then brown and dry as feeding continues.",
+      "Leaves may curl, tear, or collapse in heavily infested plants.",
+      "Frass (insect excreta) may be visible within leaf mines.",
+      "Severe infestation leads to reduced canopy cover and weakened plants."
+    ],
+    "visualSigns": [
+      "Leaf mines with brown necrotic tissue",
+      "Small caterpillars inside leaves",
+      "Reduced leaf area"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Warm and dry climate",
+      "Poor field sanitation",
+      "Exposed tubers and sparse foliage"
+    ],
+    "spreadMethod": [
+      "insect"
+    ],
+    "prevention": [
+      "Maintain good field sanitation by removing crop residues.",
+      "Ensure adequate earthing-up to prevent moth access to tubers.",
+      "Avoid leaving harvested tubers exposed in the field.",
+      "Monitor adult moth activity using pheromone traps."
+    ],
+    "treatment": [
+      "Early treatment during leaf-mining stage is critical to prevent progression to tuber damage.",
+      "Focus control on young larvae before they penetrate deeper tissues.",
+      "Late-stage control is less effective once larvae move to tubers.",
+      "Combine field and storage management practices."
+    ],
+    "control": {
+      "organicControl": [
+        "Use pheromone traps to reduce adult moth populations.",
+        "Apply neem-based formulations to deter egg laying and larval feeding.",
+        "Encourage natural enemies such as parasitoid wasps."
+      ],
+      "chemicalControl": [
+        "Apply selective insecticides targeting early larval stages.",
+        "Ensure spray coverage on leaf undersides where eggs are laid.",
+        "Rotate insecticides with different modes of action to prevent resistance."
+      ]
+    },
+    "images": [
+      "https://doa.gov.lk/wp-content/uploads/2021/02/WM-Potato-Tuber-moth-larval-damage-symptom-on-potato-leaves-1024x838.jpg",
+      "https://apps.lucidcentral.org/pppw_v10/images/entities/potato_tuber_moth_298/leafmine.jpg",
+      "https://bugwoodcloud.org/images/1536x1024/1339015.jpg"
+    ],
+    "confusableWith": [
+      "Leaf Miner Damage",
+      "Fungal Leaf Spots"
+    ],
+    "nutshellPoints": [
+      "Leaf mining is the first visible stage",
+      "Early control prevents tuber infestation",
+      "Warm, dry conditions favor outbreaks"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "spider-mites",
+    "name": "Spider Mites",
+    "scientificName": "Tetranychus spp.",
+    "category": "mite",
+    "categoryIcon": "mite.svg",
+    "causeType": "Spider mites are microscopic sap-sucking arachnids that feed on potato leaves by piercing individual plant cells and extracting their contents. This feeding destroys chlorophyll, reduces photosynthesis, and accelerates leaf aging. Mites multiply rapidly under hot, dry conditions and can cause severe damage within a short time if left unmanaged.",
+    "affectedPart": [
+      "leaf"
+    ],
+    "severity": "high",
+    "commonness": "common",
+    "symptoms": [
+      "Initial symptoms appear as fine yellow or white speckles on the upper leaf surface.",
+      "Speckled areas expand and merge, causing general leaf yellowing.",
+      "Leaves develop a dusty or bronzed appearance.",
+      "Fine webbing may appear on leaf undersides in advanced infestation.",
+      "Severely affected leaves dry, curl, and fall prematurely."
+    ],
+    "visualSigns": [
+      "Fine speckling on leaves",
+      "Dusty or bronzed foliage",
+      "Webbing on leaf underside"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Hot and dry weather",
+      "Low humidity",
+      "Dusty field conditions"
+    ],
+    "spreadMethod": [
+      "insect",
+      "air"
+    ],
+    "prevention": [
+      "Maintain adequate field moisture to reduce mite buildup.",
+      "Avoid excessive use of broad-spectrum insecticides that kill natural enemies.",
+      "Monitor leaf undersides regularly for early detection.",
+      "Reduce dust in and around potato fields."
+    ],
+    "treatment": [
+      "Early intervention is essential before mite populations explode.",
+      "Target treatments on leaf undersides where mites reside.",
+      "Late treatment may not restore damaged foliage.",
+      "Repeated applications may be necessary under favorable conditions."
+    ],
+    "control": {
+      "organicControl": [
+        "Neem oil or horticultural oils to smother mites and eggs.",
+        "Release or conserve predatory mites such as Phytoseiulus species.",
+        "Use strong water sprays to dislodge mites in small plots."
+      ],
+      "chemicalControl": [
+        "Apply specific miticides rather than general insecticides.",
+        "Rotate miticides to prevent resistance development.",
+        "Ensure complete coverage of foliage, especially leaf undersides."
+      ]
+    },
+    "images": [
+      "https://www.thompson-morgan.com/static-images/master/static-images/pests/spider-mites/closeup-of-spider-mites-leaf.jpg"
+    ],
+    "confusableWith": [
+      "Nutrient Deficiency",
+      "Thrips Damage"
+    ],
+    "nutshellPoints": [
+      "Thrives in hot, dry weather",
+      "Causes speckled and bronzed leaves",
+      "Rapid population buildup"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "red-spider-mites",
+    "name": "Red Spider Mites",
+    "scientificName": "Tetranychus urticae",
+    "category": "mite",
+    "categoryIcon": "mite.svg",
+    "causeType": "Red spider mites are a specific and more aggressive species of spider mites that cause severe leaf damage in potatoes. Their feeding rapidly destroys chlorophyll-rich cells, leading to intense discoloration and premature leaf death. Infestations escalate quickly during prolonged dry and warm periods.",
+    "affectedPart": [
+      "leaf"
+    ],
+    "severity": "very-high",
+    "commonness": "common",
+    "symptoms": [
+      "Leaves develop intense yellow speckling that rapidly turns bronze or reddish-brown.",
+      "Lower leaves are affected first, with damage progressing upward.",
+      "Fine webbing becomes clearly visible under heavy infestation.",
+      "Leaves curl, dry, and drop prematurely.",
+      "Severe infestations cause drastic reduction in tuber size and yield."
+    ],
+    "visualSigns": [
+      "Reddish-brown discoloration of leaves",
+      "Heavy webbing",
+      "Clusters of red mites on leaf underside"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Prolonged hot and dry weather",
+      "Low relative humidity",
+      "Stressed plants"
+    ],
+    "spreadMethod": [
+      "insect",
+      "air"
+    ],
+    "prevention": [
+      "Prevent plant stress through adequate irrigation.",
+      "Avoid unnecessary insecticide sprays that eliminate predators.",
+      "Monitor regularly during dry spells.",
+      "Maintain field hygiene."
+    ],
+    "treatment": [
+      "Immediate action is required once red mites are detected.",
+      "Delay in treatment leads to irreversible leaf damage.",
+      "Multiple applications may be needed due to overlapping generations.",
+      "Focus on population suppression rather than eradication."
+    ],
+    "control": {
+      "organicControl": [
+        "Neem oil and botanical miticides for early-stage suppression.",
+        "Use of predatory mites for biological control.",
+        "Increase field humidity where possible."
+      ],
+      "chemicalControl": [
+        "Apply dedicated miticides with contact and residual activity.",
+        "Rotate chemicals to avoid resistance buildup.",
+        "Apply during early infestation for best results."
+      ]
+    },
+    "images": [
+      "https://bioprotectionportal.com/wp-content/uploads/2024/04/Tetranychus-urticae_spider-mite.jpg",
+      "https://www.ruralsprout.com/wp-content/uploads/2021/02/spidermitesmite-1024x683.jpg.webp"
+    ],
+    "confusableWith": [
+      "Spider Mites",
+      "Severe Nutrient Deficiency"
+    ],
+    "nutshellPoints": [
+      "Most destructive mite species",
+      "Causes bronzing and leaf drop",
+      "Requires rapid control"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "leaf-chlorosis",
+    "name": "Leaf Chlorosis",
+    "scientificName": "Physiological disorder (multiple causes)",
+    "category": "physiological",
+    "categoryIcon": "leaf_warning.svg",
+    "causeType": "Leaf chlorosis is a physiological condition characterized by loss of green color due to reduced chlorophyll production. It may result from nutrient deficiencies (such as nitrogen, iron, magnesium), poor root function, water stress, or soil pH imbalance. Chlorosis reflects underlying metabolic disruption rather than infectious disease.",
+    "affectedPart": [
+      "leaf"
+    ],
+    "severity": "medium",
+    "commonness": "very-common",
+    "symptoms": [
+      "Leaves turn pale green to yellow while veins may remain green.",
+      "Symptoms often start on older or younger leaves depending on nutrient mobility.",
+      "Photosynthetic efficiency is reduced, slowing plant growth.",
+      "Prolonged chlorosis leads to premature leaf senescence.",
+      "Yield reduction occurs if the condition persists."
+    ],
+    "visualSigns": [
+      "Yellowing leaves",
+      "Green veins in some cases",
+      "Uniform discoloration"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Nutrient-poor soils",
+      "Improper soil pH",
+      "Poor root aeration",
+      "Water stress"
+    ],
+    "spreadMethod": [],
+    "prevention": [
+      "Conduct soil testing before planting.",
+      "Apply balanced fertilizers based on crop requirement.",
+      "Maintain optimal soil pH.",
+      "Ensure proper irrigation and drainage."
+    ],
+    "treatment": [
+      "Identify the underlying cause before treatment.",
+      "Correct specific nutrient deficiencies through soil or foliar application.",
+      "Improve soil conditions to restore root health.",
+      "Monitor plant recovery after corrective measures."
+    ],
+    "control": {
+      "organicControl": [
+        "Use compost and organic manures to improve soil fertility.",
+        "Apply micronutrients through approved organic sources.",
+        "Improve soil structure using organic amendments."
+      ],
+      "chemicalControl": [
+        "Apply targeted nutrient fertilizers based on deficiency.",
+        "Use foliar sprays for rapid correction.",
+        "Avoid excessive fertilizer application to prevent toxicity."
+      ]
+    },
+    "images": [
+      "https://www.shutterstock.com/image-photo/potatoes-leaf-damaged-by-frost-600nw-1600535380.jpg"
+    ],
+    "confusableWith": [
+      "Viral Mosaic",
+      "Herbicide Injury"
+    ],
+    "nutshellPoints": [
+      "Physiological, not infectious",
+      "Indicates nutrient or root stress",
+      "Correctable if diagnosed early"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "leaf-curling-non-viral",
+    "name": "Leaf Curling (Non-viral)",
+    "scientificName": "Physiological leaf curl",
+    "category": "physiological",
+    "categoryIcon": "leaf_warning.svg",
+    "causeType": "Non-viral leaf curling in potato is a physiological response to environmental stress such as heat, drought, nutrient imbalance, or mechanical injury. Unlike viral leaf curl, it does not involve pathogen infection and is often reversible if conditions improve.",
+    "affectedPart": [
+      "leaf"
+    ],
+    "severity": "low",
+    "commonness": "common",
+    "symptoms": [
+      "Leaves curl upward or downward without stiff or leathery texture.",
+      "Leaf color usually remains normal green.",
+      "Symptoms often appear during periods of heat or water stress.",
+      "Plants otherwise maintain normal growth and vigor.",
+      "Curling subsides when stress conditions are alleviated."
+    ],
+    "visualSigns": [
+      "Soft leaf curling",
+      "Normal leaf color",
+      "No mosaic or necrosis"
+    ],
+    "stageAffected": [
+      "vegetative"
+    ],
+    "favorableConditions": [
+      "High temperature",
+      "Water stress",
+      "Sudden environmental changes"
+    ],
+    "spreadMethod": [],
+    "prevention": [
+      "Maintain consistent soil moisture.",
+      "Avoid excessive nitrogen application.",
+      "Protect plants from extreme heat stress.",
+      "Practice balanced crop management."
+    ],
+    "treatment": [
+      "No direct treatment is required once cause is identified.",
+      "Improve environmental and soil conditions.",
+      "Avoid unnecessary pesticide applications.",
+      "Monitor plant recovery over time."
+    ],
+    "control": {
+      "organicControl": [
+        "Use mulching to conserve soil moisture.",
+        "Apply organic matter to improve soil resilience.",
+        "Maintain proper irrigation scheduling."
+      ],
+      "chemicalControl": [
+        "Chemical control is not required.",
+        "Avoid misapplication of chemicals that may worsen stress.",
+        "Focus on corrective agronomic practices."
+      ]
+    },
+    "images": [
+      "https://www.growerexperts.com/wp-content/uploads/2022/07/rsz_potato-leaf-roll-virus.jpg",
+      "https://tse1.mm.bing.net/th/id/OIP.yakTnHNYhbkIRvRbHNonegHaFj?pid=Api&P=0&h=180"
+    ],
+    "confusableWith": [
+      "PLRV",
+      "Herbicide Injury"
+    ],
+    "nutshellPoints": [
+      "Non-infectious disorder",
+      "Stress-related",
+      "Reversible condition"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "leaf-scorch",
+    "name": "Leaf Scorch",
+    "scientificName": "Physiological leaf scorch",
+    "category": "physiological",
+    "categoryIcon": "leaf_warning.svg",
+    "causeType": "Leaf scorch is a physiological disorder caused by excessive transpiration and inadequate water supply to leaf tissues. It commonly results from high temperature, low humidity, drought stress, salinity, or impaired root function. When water loss from leaves exceeds water uptake by roots, leaf margins and tips suffer cellular dehydration and tissue death.",
+    "affectedPart": [
+      "leaf"
+    ],
+    "severity": "medium",
+    "commonness": "common",
+    "symptoms": [
+      "Initial symptoms begin as light yellowing along leaf margins and tips.",
+      "Marginal areas gradually turn brown and dry, giving a scorched appearance.",
+      "Leaf tissue becomes brittle and papery at affected edges.",
+      "Damage progresses inward from margins toward the center of the leaf.",
+      "Severely scorched leaves may curl, dry completely, and drop prematurely."
+    ],
+    "visualSigns": [
+      "Brown, burnt-looking leaf margins",
+      "Dry and brittle leaf edges",
+      "Healthy green tissue in leaf center (early stage)"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "High temperature",
+      "Low humidity",
+      "Drought stress",
+      "Saline soils",
+      "Poor root development"
+    ],
+    "spreadMethod": [],
+    "prevention": [
+      "Maintain consistent and adequate soil moisture.",
+      "Improve soil structure to support healthy root growth.",
+      "Avoid excessive salt accumulation in soil.",
+      "Provide windbreaks in exposed fields."
+    ],
+    "treatment": [
+      "There is no direct curative treatment once tissue is scorched.",
+      "Reduce plant stress by improving irrigation scheduling.",
+      "Correct soil salinity and nutrient imbalances.",
+      "Support recovery by maintaining favorable growing conditions."
+    ],
+    "control": {
+      "organicControl": [
+        "Mulching to reduce soil moisture loss.",
+        "Application of organic matter to improve soil water-holding capacity.",
+        "Use of bio-stimulants to enhance root health."
+      ],
+      "chemicalControl": [
+        "Chemical control is not applicable.",
+        "Use soil conditioners if salinity is a contributing factor.",
+        "Avoid unnecessary agrochemical stress."
+      ]
+    },
+    "images": [
+      "https://newagriindia.com/wp-content/uploads/2022/02/Early-blight-of-potato.jpg"
+    ],
+    "confusableWith": [
+      "Potassium Deficiency",
+      "Sunburn (Leaf)"
+    ],
+    "nutshellPoints": [
+      "Stress-induced leaf damage",
+      "Starts from leaf margins",
+      "Non-infectious and environmental"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "leaf-necrosis",
+    "name": "Leaf Necrosis",
+    "scientificName": "Physiological or pathological necrosis",
+    "category": "physiological",
+    "categoryIcon": "leaf_warning.svg",
+    "causeType": "Leaf necrosis refers to localized or widespread death of leaf tissue resulting from severe stress, toxicity, nutrient imbalance, pathogen attack, or chemical injury. It represents irreversible cellular damage where affected tissues lose function and structural integrity.",
+    "affectedPart": [
+      "leaf"
+    ],
+    "severity": "high",
+    "commonness": "common",
+    "symptoms": [
+      "Small brown or black dead patches appear on leaf surface.",
+      "Necrotic spots may expand and merge into large dead areas.",
+      "Affected tissue becomes dry, brittle, and dark-colored.",
+      "Leaf margins or interveinal areas may collapse.",
+      "Severe necrosis leads to premature leaf drop and yield reduction."
+    ],
+    "visualSigns": [
+      "Dark brown or black dead tissue",
+      "Sharp boundary between healthy and dead tissue",
+      "Dry and brittle leaf areas"
+    ],
+    "stageAffected": [
+      "vegetative",
+      "tuber-formation"
+    ],
+    "favorableConditions": [
+      "Severe nutrient imbalance",
+      "Chemical toxicity",
+      "Extreme environmental stress",
+      "Advanced disease progression"
+    ],
+    "spreadMethod": [],
+    "prevention": [
+      "Avoid over-application of fertilizers and chemicals.",
+      "Monitor nutrient levels through soil and tissue testing.",
+      "Protect plants from extreme stress conditions.",
+      "Use integrated crop management practices."
+    ],
+    "treatment": [
+      "Necrotic tissue cannot be restored once formed.",
+      "Identify and eliminate the underlying cause immediately.",
+      "Adjust nutrient and chemical inputs.",
+      "Support remaining healthy foliage to sustain plant productivity."
+    ],
+    "control": {
+      "organicControl": [
+        "Use balanced organic nutrition to prevent deficiency or toxicity.",
+        "Improve soil microbial activity to buffer stress.",
+        "Remove severely damaged leaves if necessary."
+      ],
+      "chemicalControl": [
+        "Correct nutrient deficiencies or toxicities with precision fertilizers.",
+        "Avoid further chemical stress.",
+        "Apply protective fungicides only if necrosis is disease-related."
+      ]
+    },
+    "images": [
+      "https://c8.alamy.com/comp/B913NA/potato-leaf-necrosis-magnesium-deficiency-due-to-excessive-potassium-B913NA.jpg"
+    ],
+    "confusableWith": [
+      "Fungal Leaf Spots",
+      "Herbicide Injury"
+    ],
+    "nutshellPoints": [
+      "Indicates irreversible tissue death",
+      "Symptom, not a disease itself",
+      "Requires cause identification"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "sunburn-leaf",
+    "name": "Sunburn (Leaf)",
+    "scientificName": "Photo-oxidative leaf injury",
+    "category": "physiological",
+    "categoryIcon": "leaf_warning.svg",
+    "causeType": "Leaf sunburn occurs when potato leaves are exposed to intense sunlight combined with high temperature, exceeding the leaf’s protective capacity. Excessive light causes photo-oxidative damage to chlorophyll and cell membranes, leading to tissue bleaching and death.",
+    "affectedPart": [
+      "leaf"
+    ],
+    "severity": "medium",
+    "commonness": "occasional",
+    "symptoms": [
+      "Leaves develop pale, bleached, or whitish patches.",
+      "Affected areas later turn brown and necrotic.",
+      "Damage is more prominent on upper, exposed leaves.",
+      "Tissue becomes dry and papery.",
+      "Photosynthesis is reduced in damaged areas."
+    ],
+    "visualSigns": [
+      "Bleached white patches",
+      "Brown necrotic areas after exposure",
+      "Damage on sun-exposed leaf surfaces"
+    ],
+    "stageAffected": [
+      "vegetative"
+    ],
+    "favorableConditions": [
+      "Intense sunlight",
+      "High temperature",
+      "Sudden canopy exposure",
+      "Water stress"
+    ],
+    "spreadMethod": [],
+    "prevention": [
+      "Maintain adequate irrigation to reduce heat stress.",
+      "Ensure healthy canopy cover.",
+      "Avoid sudden defoliation from pests or chemicals.",
+      "Use stress-mitigating agronomic practices."
+    ],
+    "treatment": [
+      "Sunburn damage is irreversible once tissue is affected.",
+      "Reduce further exposure by improving plant hydration.",
+      "Support new healthy growth through proper nutrition.",
+      "Avoid additional stress factors."
+    ],
+    "control": {
+      "organicControl": [
+        "Mulching to moderate soil temperature.",
+        "Use of shade-providing intercrops in small systems.",
+        "Maintain overall plant vigor."
+      ],
+      "chemicalControl": [
+        "Chemical control is not applicable.",
+        "Avoid chemicals that increase leaf sensitivity.",
+        "Use anti-stress formulations if necessary."
+      ]
+    },
+    "images": [
+      "https://ephytia.inra.fr/en/IC/30716/Soleil1"
+    ],
+    "confusableWith": [
+      "Leaf Scorch",
+      "Herbicide Injury"
+    ],
+    "nutshellPoints": [
+      "Caused by excess sunlight",
+      "Affects exposed leaves",
+      "Non-infectious damage"
+    ],
+    "lastUpdated": "2026-01-13"
+  },
+  {
+    "id": "herbicide-injury",
+    "name": "Herbicide Injury",
+    "scientificName": "Chemical phytotoxicity",
+    "category": "physiological",
+    "categoryIcon": "chemical_warning.svg",
+    "causeType": "Herbicide injury in potato results from exposure to incorrect herbicide type, overdose, spray drift, or improper application timing. Sensitive potato tissues react to chemical interference with normal metabolic pathways, leading to distorted growth, chlorosis, or necrosis.",
+    "affectedPart": [
+      "leaf",
+      "stem"
+    ],
+    "severity": "high",
+    "commonness": "occasional",
+    "symptoms": [
+      "Leaves show abnormal curling, twisting, or cupping.",
+      "Yellowing or whitening of leaf tissue occurs.",
+      "Necrotic patches may develop in severe cases.",
+      "Growth becomes stunted and uneven.",
+      "Symptoms often appear shortly after application."
+    ],
+    "visualSigns": [
+      "Distorted leaf shape",
+      "Patchy discoloration",
+      "Uniform damage pattern following spray lines"
+    ],
+    "stageAffected": [
+      "seedling",
+      "vegetative"
+    ],
+    "favorableConditions": [
+      "Incorrect herbicide use",
+      "Spray drift from nearby fields",
+      "High temperature during application",
+      "Young, actively growing plants"
+    ],
+    "spreadMethod": [],
+    "prevention": [
+      "Use only potato-approved herbicides.",
+      "Follow recommended dose and timing strictly.",
+      "Avoid spraying during windy conditions.",
+      "Calibrate spraying equipment accurately."
+    ],
+    "treatment": [
+      "No direct antidote exists for herbicide injury.",
+      "Irrigate to dilute chemical concentration if possible.",
+      "Avoid further chemical stress.",
+      "Support plant recovery through nutrition and proper care."
+    ],
+    "control": {
+      "organicControl": [
+        "Use mechanical and cultural weed control methods.",
+        "Adopt integrated weed management strategies.",
+        "Improve soil organic matter to buffer chemical effects."
+      ],
+      "chemicalControl": [
+        "Strict adherence to label recommendations.",
+        "Use selective herbicides with proven crop safety.",
+        "Avoid repeated applications that increase phytotoxicity."
+      ]
+    },
+    "images": [
+      "https://extension.umaine.edu/ipm/wp-content/uploads/sites/44/2010/12/ptohrbcd3-846x635.jpg",
+      "https://www.canr.msu.edu/uploads/images/5-29sencor_injury_wes.jpg"
+    ],
+    "confusableWith": [
+      "Viral Leaf Curl",
+      "Nutrient Toxicity"
+    ],
+    "nutshellPoints": [
+      "Chemical-induced injury",
+      "Often uniform field patterns",
+      "Preventable with correct application"
+    ],
+    "lastUpdated": "2026-01-13"
+  }
+]
