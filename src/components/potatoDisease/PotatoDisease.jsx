@@ -1,7 +1,8 @@
 
 import { FaSearch } from "react-icons/fa";
+import potatoDiseaseData from "../../images/potatoDisease.json";
+import { Link } from "react-router";
 
-const diseaseList = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19];
 
 const PotatoDisease = () => {
     return (
@@ -37,25 +38,27 @@ const PotatoDisease = () => {
             <div className="divider"></div>
             <div className="m-5 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-y-10 justify-items-center items-center ">
                 {
-                    diseaseList.map((item, index) => (
-                        <div className="card bg-base-100 w-64 md:w-72 shadow-sm cursor-pointer hover:scale-95 transition-transform duration-200" key={index}>
-                            <figure>
-                                <img
-                                    src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-                                    alt="Shoes" />
-                            </figure>
-                            <div className="card-body">
-                                <h2 className="card-title">
-                                    Card Title
-                                    <div className="badge badge-secondary">NEW</div>
-                                </h2>
-                                <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
-                                <div className="card-actions justify-end">
-                                    <div className="badge badge-outline">Fashion</div>
-                                    <div className="badge badge-outline">Products</div>
+                    potatoDiseaseData.map((item, index) => (
+                        <Link to={"/singleDisease/"+item.id}  key={index} state={item}>
+                            <div className="h-96 bg-base-100 w-64 md:w-72 shadow-sm cursor-pointer hover:scale-95 transition-transform duration-200 rounded-3xl">
+                                <figure className="w-full h-60 rounded-3xl">
+                                    <img
+                                        className="w-full h-full object-cover rounded-3xl"
+                                        src={item.images[0]}
+                                        alt="Disease Image" />
+                                </figure>
+                                <div className="flex flex-col gap-2 px-3 py-2">
+                                    <h2 className="truncate text-xl font-semibold w-full">
+                                        {item.name}
+                                    </h2>
+                                    <p className="truncate">{item.nutshellPoints[0]}</p>
+                                    <div className="flex gap-3">
+                                        <div className="badge badge-outline">{item.category}</div>
+                                        <div className="badge badge-secondary ">{item.commonness}</div>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
+                        </Link>
                     ))
                 }
 

@@ -7,7 +7,7 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 
-import './style.css';
+import './style1.css';
 
 // import required modules
 import { Keyboard, Pagination, Navigation } from 'swiper/modules';
@@ -26,7 +26,7 @@ const SlideSweeper = ({ videos }) => {
         }}
         navigation={true}
         modules={[Keyboard, Pagination, Navigation]}
-        className="mySwiper"
+        className=""
       >
         {
           videos.map((video, index) => (
