@@ -26,14 +26,14 @@ const Carousal = ({ images }) => {
                 }}
                 navigation={true}
                 modules={[Autoplay, Pagination, Navigation]}
-                className=""
+                className="h-full"
             >
                 {
                     images.map((image, index) => (
-                        <SwiperSlide key={index}>
+                        <SwiperSlide key={index} className=''>
                             <div className='bg-gray-400 w-full h-full'>
                                 <img
-                                    className='object-cover w-full'
+                                    className='object-cover w-full h-full'
                                     src={image} alt="Slider-image" />
                             </div>
                         </SwiperSlide>))
